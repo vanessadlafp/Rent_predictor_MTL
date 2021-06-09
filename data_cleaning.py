@@ -81,7 +81,7 @@ apartment_features['moving_date'] = apartment_features['moving_date'].astype(str
 apartment_features['pets_allowed_apt'] = np.where(
     apartment_features['pets_allowed_apt'].str.contains('Non'), 0, np.where(
     apartment_features['pets_allowed_apt'].str.contains('Oui'),1,np.where(
-    apartment_features['pets_allowed_apt'].str.contains('Limité'),'Limité' ,-1))) 
+    apartment_features['pets_allowed_apt'].str.contains('Limité'),1 ,-1))) 
 
 
 
@@ -97,4 +97,16 @@ apartment_features['AC'] = np.where(
     apartment_features['AC'].str.contains('Non'), 0, np.where(
     apartment_features['AC'].str.contains('Oui'),1 ,-1)) 
 
+###Concatenate apartment features with main dataframe
 
+df_all= pd.concat([df,apartment_features],axis=1 )
+
+
+df_all['Description']=df_all['Description'].astype(str).apply(lambda x: unicodedata.normalize("NFKD", x))
+df_all['Description']=df_all['Description'].apply(lambda x: x.replace("[","").replace("]","").replace("'",""))
+
+## Drop columns that have been cleaned into other ones "Features" "Ddate Posted"
+
+df_clean= df_all.drop(["Features" ,"Ddate Posted"], axis=1)
+
+clean_data= df_clean.to_csv("df_clean.csv")
