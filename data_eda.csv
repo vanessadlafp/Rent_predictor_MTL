@@ -1,0 +1,1526 @@
+adId,Price,Type,days_since,Parking,Lease_term,moving_date,pets_allowed_apt,size (sq.ft.),furnished_apt,AC,apt_size,Title_length,postal_code,longitude,latitude,District,desc_len
+1569922397,470,Room,1,,,na,0.0,,0,0.0,na,40,H2A1W7,-73.6118,45.5583,Saint-Michel East,814
+1569922379,1280,apartment,1,0.0, '1 an',july,0.0,1000.0,0,0.0,condo,42,H3X 2R6,-73.6483,45.4915,Hampstead,910
+1558165068,940,apartment,3,0.0, '1 an',march,0.0,550.0,0,0.0,na,63,H4J 2M3,-73.7231,45.5353,Cartierville Central,336
+1505844985,1100,apartment,2,0.0, '1 an',na,0.0,,0,,na,29,H8Y 3B9,-73.8162,45.5145,Roxboro,281
+1569642212,1600,apartment,2,1.0, '1 an',july,1.0,940.0,0,1.0,condo,14,H4L 0A5,-73.6974,45.5269,Saint-Laurent Inner Northeast,546
+1505777134,1915,apartment,2,0.0, '1 an',na,,,1,,na,48,H3C 1V8,-73.5679,45.503,Griffintown (Includes Île Notre-Dame & Île Sainte-Hélène),3533
+1567176485,1600,apartment,16,0.0, '1 an',july,1.0,1100.0,0,0.0,na,48,H4E 4E4,-73.5863,45.468,Ville Émard,415
+1569924557,1495,apartment,1,2.0, '1 an',july,0.0,1200.0,0,0.0,na,61,H4G 1B2,-73.5798,45.4644,Verdun North,372
+1531730257,1195,apartment,1,0.0, '1 an',october,1.0,,0,1.0,3 1/2,61,H8S 0C3,-73.6811,45.4496,Lachine East,2277
+1505793120,1595,apartment,1,0.0, '1 an',august,0.0,,0,0.0,4 1/2,59,H4N 1G4,-73.6807,45.5329,Saint-Laurent Outer Northeast,3368
+1505771649,1095,apartment,1,0.0, '1 an',april,1.0,,0,0.0,3 1/2,63,H4N 1P2,-73.6807,45.5329,Saint-Laurent Outer Northeast,2468
+1531802626,1555,apartment,1,0.0, '1 an',october,0.0,,0,1.0,4 1/2,64,H8S 0C3,-73.6811,45.4496,Lachine East,1463
+1505771636,1395,apartment,1,0.0, '1 an',april,0.0,,0,0.0,4 1/2,64,H4N 1P2,-73.6807,45.5329,Saint-Laurent Outer Northeast,2461
+1552449554,1259,apartment,1,0.0, '1 an',august,0.0,,0,0.0,4 1/2,63,H4L 5E7,-73.6974,45.5269,Saint-Laurent Inner Northeast,1847
+1505768224,985,apartment,1,0.0, '1 an',august,0.0,,0,0.0,3 1/2,59,H4L 5E7,-73.6974,45.5269,Saint-Laurent Inner Northeast,1774
+1559745644,910,apartment,1,0.0, '1 an',august,0.0,,0,0.0,2 1/2,63,H4R 2A6,-73.7309,45.5148,Saint-Laurent Central,385
+1505793112,1015,apartment,1,0.0, '1 an',july,0.0,,0,0.0,studio,59,H4N 1G4,-73.6807,45.5329,Saint-Laurent Outer Northeast,3368
+1519228157,742,apartment,1,0.0, '1 an',july,0.0,,0,0.0,studio,62,H4L 1Y9,-73.6974,45.5269,Saint-Laurent Inner Northeast,1320
+1520208303,990,apartment,1,0.0, '1 an',may,1.0,,0,0.0,3 1/2,62,H4L 1Y9,-73.6974,45.5269,Saint-Laurent Inner Northeast,1333
+1569924369,420,Room,1,,,na,0.0,,0,0.0,na,61,H2N1X4,-73.659,45.5402,Ahuntsic Southeast,2475
+1569924195,1650,apartment,1,0.0, 'Au mois',august,0.0,575.0,0,1.0,condo,64,H3C 1B4,-73.5679,45.503,Griffintown (Includes Île Notre-Dame & Île Sainte-Hélène),729
+1569920175,1325,apartment,1,0.0, '1 an',june,1.0,,0,0.0,na,63,H1M 3B7,-73.5559,45.5902,Mercier West,874
+1569923975,480,Room,1,,,na,0.0,,0,0.0,na,20,H4G 2P7,-73.5798,45.4644,Verdun North,524
+1569265687,1290,apartment,1,0.0, '1 an',july,0.0,800.0,0,0.0,na,64,H2K 3E3,-73.5672,45.53,Centre-Sud North,700
+1569922009,1520,apartment,1,0.0, '1 an',july,1.0,750.0,0,1.0,na,60,H3H 2T3,-73.5967,45.5123,Downtown Montreal South & West,2980
+1566448991,1300,apartment,1,0.0, '1 an',july,0.0,600.0,0,0.0,na,39,H2W 2K4,-73.5839,45.5194,Plateau Mont-Royal South Central,417
+1569921619,1100,apartment,1,0.0, '1 an',july,1.0,750.0,0,0.0,na,50,H2K 3P6,-73.5672,45.53,Centre-Sud North,1033
+1569923764,500,Room,1,,,na,0.0,,0,0.0,na,56,H2J 1N1,-73.5928,45.5289,Plateau Mont-Royal North Central,767
+1569923671,1325,apartment,1,0.0, '1 an',july,0.0,500.0,1,1.0,na,62,H3H 0A2,-73.5967,45.5123,Downtown Montreal South & West,870
+1569923656,725,apartment,1,0.0, '1 an',july,0.0,350.0,0,0.0,na,23,H2K 3E2,-73.5672,45.53,Centre-Sud North,248
+1569923563,850,apartment,1,0.0, '1 an',july,1.0,800.0,0,0.0,3 1/2,30,H3S 2M6,-73.6292,45.5155,Côte-des-Neiges North,311
+1569923492,550,apartment,1,0.0, '1 an',july,0.0,600.0,0,0.0,na,27,H1Z 3N5,-73.6444,45.5652,Saint-Michel West,392
+1569923426,1250,apartment,1,0.0, '1 an',july,0.0,800.0,1,0.0,4 1/2,64,H1N 2V3,-73.5499,45.5719,Mercier Southeast,4030
+1569923246,475,Room,1,,,na,0.0,,0,0.0,na,36,H2E 2L7,-73.6256,45.5522,Villeray Northeast,782
+1569923207,880,apartment,1,0.0, '1 an',september,0.0,850.0,0,0.0,4 1/2,23,H3L 3L4,-73.6754,45.5529,Ahuntsic Southwest,433
+1569919912,1155,apartment,1,0.0, '1 an',july,0.0,,0,0.0,3 1/2,45,H2G 1A2,-73.6061,45.5434,Petite-Patrie Northeast,136
+1569920156,1325,apartment,1,1.0, '1 an',june,1.0,,0,0.0,na,62,H1M 3B7,-73.5559,45.5902,Mercier West,1266
+1569919951,1155,apartment,1,0.0, '1 an',july,1.0,,0,0.0,4 1/2,56,H2G 1A2,-73.6061,45.5434,Petite-Patrie Northeast,628
+1569923116,1350,apartment,1,0.0, '1 an',july,0.0,750.0,0,0.0,na,64,H4G 3A1,-73.5798,45.4644,Verdun North,672
+1569923059,490,Room,1,,,na,0.0,,0,0.0,na,60,H1A2X4,-73.5236,45.6587,Pointe-Aux-Trembles,336
+1569922989,1295,apartment,1,0.0, '1 an',august,1.0,700.0,1,0.0,na,55,H4A 3L2,-73.6252,45.4781,Notre-Dame-de-Grâce Northeast,764
+1569922980,1100,apartment,1,0.0, '1 an',july,0.0,500.0,0,0.0,na,25,H2K 3E2,-73.5672,45.53,Centre-Sud North,272
+1569904930,695,Room,1,,,na,0.0,,0,0.0,na,30,H2K 4J4,-73.5672,45.53,Centre-Sud North,1818
+1569922551,950,apartment,1,0.0, '1 an',july,0.0,1200.0,0,0.0,na,32,H1Z 3M3,-73.6444,45.5652,Saint-Michel West,422
+1569922397,470,Room,1,,,na,0.0,,0,0.0,na,40,H2A1W7,-73.6118,45.5583,Saint-Michel East,814
+1569922379,1280,apartment,1,0.0, '1 an',july,0.0,1000.0,0,0.0,condo,42,H3X 2R6,-73.6483,45.4915,Hampstead,910
+1525863879,820,apartment,1,0.0, '1 an',na,0.0,,0,1.0,na,63,H4B 1M5,-73.636,45.4681,Notre-Dame-de-Grâce Southwest,2135
+1568236267,1800,apartment,10,1.0, '1 an',june,1.0,1800.0,0,1.0,condo,64,H3C 2C7,-73.5679,45.503,Griffintown (Includes Île Notre-Dame & Île Sainte-Hélène),1615
+1567779259,425,Room,12,,,na,0.0,,0,0.0,na,56,H1L1T8,-73.5362,45.5943,Mercier North,1541
+1568274107,1195,apartment,6,0.0, '1 an',july,0.0,500.0,1,0.0,studio,52,H2K 3Z3,-73.5672,45.53,Centre-Sud North,1315
+1569495770,825,apartment,2,0.0, '1 an',july,0.0,200.0,1,0.0,studio,64,H2G 2X3,-73.6061,45.5434,Petite-Patrie Northeast,2109
+1569922379,1280,apartment,1,0.0, '1 an',july,0.0,1000.0,0,0.0,condo,42,H3X 2R6,-73.6483,45.4915,Hampstead,910
+1569920217,1095,apartment,1,1.0, '1 an',june,1.0,,0,0.0,na,62,H1M 3B7,-73.5559,45.5902,Mercier West,1267
+1505791064,1425,apartment,1,0.0, '1 an',na,0.0,,1,0.0,condo,57,H2L 3Z1,-73.5744,45.5252,Centre-Sud South,2824
+1505791071,1975,apartment,1,0.0, '1 an',na,0.0,,1,0.0,condo,53,H2L 3Z1,-73.5744,45.5252,Centre-Sud South,2824
+1555270646,2000,apartment,1,0.0, '1 an',na,0.0,,1,0.0,condo,52,H3J 2X1,-73.5725,45.4922,Petite-Bourgogne,1797
+1549921946,1290,apartment,1,0.0, '1 an',na,0.0,,1,0.0,condo,59,H3J 2X1,-73.5725,45.4922,Petite-Bourgogne,1791
+1532941975,2025,apartment,1,0.0, '1 an',na,,,1,0.0,condo,62,H3J 2X1,-73.5725,45.4922,Petite-Bourgogne,1791
+1546828347,1600,apartment,1,0.0, '1 an',na,0.0,,1,0.0,condo,46,H8N 2Z3,-73.6084,45.4551,LaSalle Northwest,3431
+1546759561,1600,apartment,1,0.0, '1 an',na,0.0,,1,0.0,condo,44,H8N 2Z3,-73.6084,45.4551,LaSalle Northwest,3441
+1546828348,1200,apartment,1,0.0, '1 an',na,0.0,,1,0.0,condo,46,H8N 2Z3,-73.6084,45.4551,LaSalle Northwest,3431
+1546828349,1200,apartment,1,0.0, '1 an',na,0.0,,1,0.0,condo,50,H8N 2Z3,-73.6084,45.4551,LaSalle Northwest,3441
+1553385873,1695,apartment,1,0.0, '1 an',na,0.0,,1,0.0,condo,57,H4C 1L5,-73.5922,45.478,Saint-Henri,671
+1562063183,1600,apartment,1,0.0, '1 an',na,0.0,,1,0.0,condo,63,H2L 0G6,-73.5744,45.5252,Centre-Sud South,2897
+1505842648,1300,apartment,1,0.0, '1 an',na,,,1,0.0,condo,63,H2L 0G6,-73.5744,45.5252,Centre-Sud South,2932
+1558235122,1930,apartment,1,0.0, '1 an',na,0.0,,1,0.0,condo,64,H2L 0G6,-73.5744,45.5252,Centre-Sud South,2932
+1539306418,3000,apartment,1,0.0, '1 an',na,,,1,0.0,condo,64,H2X 2R1,-73.5739,45.5148,Plateau Mont-Royal Southeast,2629
+1529964021,1450,apartment,1,0.0, '1 an',na,,,1,0.0,condo,48,H2X 2R1,-73.5739,45.5148,Plateau Mont-Royal Southeast,2629
+1558712909,1225,apartment,1,0.0, '1 an',september,1.0,,0,1.0,studio,59,H2X 2R1,-73.5739,45.5148,Plateau Mont-Royal Southeast,2685
+1515567151,1980,apartment,1,0.0, '1 an',na,,,1,0.0,condo,64,H2X 2R1,-73.5739,45.5148,Plateau Mont-Royal Southeast,2629
+1562144349,2300,apartment,1,0.0, '1 an',na,0.0,,1,0.0,condo,60,H2V 0B2,-73.6153,45.5298,Outremont,3406
+1545169974,2200,apartment,1,0.0, '1 an',na,0.0,,1,0.0,condo,64,H2V 0B2,-73.6153,45.5298,Outremont,2117
+1545169973,1375,apartment,1,0.0, '1 an',na,0.0,,1,0.0,condo,55,H2V 0B2,-73.6153,45.5298,Outremont,2421
+1545169972,1250,apartment,1,0.0, '1 an',na,0.0,,1,0.0,condo,48,H2V 0B2,-73.6153,45.5298,Outremont,2408
+1537751794,3400,apartment,1,0.0, '1 an',may,1.0,,0,1.0,condo,61,H2V 0B2,-73.6153,45.5298,Outremont,2119
+1537751795,3400,apartment,1,0.0, '1 an',may,1.0,,0,1.0,condo,51,H2V 0B2,-73.6153,45.5298,Outremont,2421
+1537751791,1375,apartment,1,0.0, '1 an',may,1.0,,0,1.0,condo,61,H2V 0B2,-73.6153,45.5298,Outremont,2115
+1537751793,2200,apartment,1,0.0, '1 an',may,1.0,,0,1.0,condo,57,H2V 0B2,-73.6153,45.5298,Outremont,2421
+1537751788,1250,apartment,1,0.0, '1 an',may,1.0,,0,1.0,studio,47,H2V 0B2,-73.6153,45.5298,Outremont,2104
+1552819129,2700,apartment,1,0.0, '1 an',june,1.0,1135.0,0,1.0,condo,60,H3J 1R9,-73.5725,45.4922,Petite-Bourgogne,3015
+1552819128,2700,apartment,1,0.0, '1 an',june,1.0,1135.0,0,1.0,condo,44,H3J 1R9,-73.5725,45.4922,Petite-Bourgogne,3025
+1552819133,2300,apartment,1,0.0, '1 an',june,1.0,846.0,0,1.0,condo,53,H3J 1R9,-73.5725,45.4922,Petite-Bourgogne,3025
+1552844302,2300,apartment,1,0.0, '1 an',june,1.0,846.0,0,1.0,condo,58,H3J 1R9,-73.5725,45.4922,Petite-Bourgogne,3025
+1552844300,2150,apartment,1,0.0, '1 an',june,1.0,865.0,0,1.0,condo,63,H3J 1R9,-73.5725,45.4922,Petite-Bourgogne,3008
+1552819130,2150,apartment,1,0.0, '1 an',june,1.0,865.0,0,1.0,condo,52,H3J 1R9,-73.5725,45.4922,Petite-Bourgogne,3008
+1552844304,1550,apartment,1,0.0, '1 an',june,1.0,556.0,0,1.0,condo,58,H3J 1R9,-73.5725,45.4922,Petite-Bourgogne,3015
+1552844301,1550,apartment,1,0.0, '1 an',june,1.0,556.0,0,1.0,condo,53,H3J 1R9,-73.5725,45.4922,Petite-Bourgogne,3006
+1531049502,1500,apartment,1,0.0, '1 an',na,,,1,0.0,condo,59,H2L 2L6,-73.5744,45.5252,Centre-Sud South,2776
+1559841898,2995,apartment,1,0.0, '1 an',may,0.0,1640.0,0,1.0,na,62,H2L 2L6,-73.5744,45.5252,Centre-Sud South,2646
+1564952999,1100,apartment,29,0.0, '1 an',may,0.0,1.0,0,1.0,3 1/2,46,H3H 1S1,-73.5967,45.5123,Downtown Montreal South & West,518
+1546091397,1429,apartment,1,0.0, '1 an',september,0.0,728.0,0,1.0,na,44,H1R 2T7,-73.6229,45.5844,Saint-Léonard West,422
+1564795387,1300,apartment,1,0.0, '1 an',july,0.0,1.0,0,0.0,4 1/2,28,H2J 3C8,-73.5928,45.5289,Plateau Mont-Royal North Central,293
+1565374034,1500,apartment,1,1.0, '1 an',july,0.0,1000.0,0,0.0,na,63,H3N1N9,-73.6464,45.5335,Parc-Extension,802
+1564712795,2450,apartment,1,0.0, '1 an',july,0.0,1200.0,0,1.0,na,25,H2T 2Z9,-73.6024,45.5278,Plateau Mont-Royal West,525
+1505842459,1235,apartment,1,0.0, '1 an',na,0.0,,1,0.0,condo,60,H2L 2L6,-73.5744,45.5252,Centre-Sud South,2716
+1568954239,2025,apartment,1,0.0, '1 an',na,0.0,,0,0.0,condo,58,H2X 0E2,-73.5739,45.5148,Plateau Mont-Royal Southeast,2934
+1550754662,2100,apartment,1,0.0, '1 an',na,0.0,,1,0.0,condo,55,H2X 0E2,-73.5739,45.5148,Plateau Mont-Royal Southeast,2926
+1505789917,1310,apartment,1,0.0, '1 an',na,0.0,,1,0.0,condo,61,H2X 0E2,-73.5739,45.5148,Plateau Mont-Royal Southeast,2926
+1505789909,1450,apartment,1,0.0, '1 an',na,0.0,,1,0.0,condo,60,H2X 0E2,-73.5739,45.5148,Plateau Mont-Royal Southeast,2926
+1569922118,720,Room,1,1.0,,na,0.0,,0,0.0,na,64,H2G 1S8,-73.6061,45.5434,Petite-Patrie Northeast,5303
+1568548685,1900,apartment,1,0.0, '1 an',na,,,1,0.0,condo,59,H2R 0B2,-73.6266,45.5452,Villeray Southeast,2341
+1562566214,1650,apartment,1,0.0, '1 an',na,0.0,,1,0.0,condo,61,H2R 0B2,-73.6266,45.5452,Villeray Southeast,2231
+1548637315,1880,apartment,1,0.0, '1 an',na,,,1,0.0,condo,51,H3J 1R3,-73.5725,45.4922,Petite-Bourgogne,3307
+1568953839,2280,apartment,1,0.0, '1 an',na,0.0,,1,0.0,condo,63,H3J 1R3,-73.5725,45.4922,Petite-Bourgogne,3307
+1544623724,2850,apartment,1,0.0, '1 an',na,,,1,0.0,condo,52,H3J 1R3,-73.5725,45.4922,Petite-Bourgogne,3307
+1520118690,1570,apartment,1,0.0, '1 an',na,,,1,0.0,condo,53,H3J 1R3,-73.5725,45.4922,Petite-Bourgogne,3307
+1549922102,1550,apartment,1,0.0, '1 an',na,0.0,,1,0.0,condo,54,H3L 0A9,-73.6754,45.5529,Ahuntsic Southwest,3125
+1505780016,1360,apartment,1,0.0, '1 an',na,,,1,0.0,condo,61,H3L 0A9,-73.6754,45.5529,Ahuntsic Southwest,3125
+1520767949,1900,apartment,1,0.0, '1 an',na,0.0,,1,0.0,condo,62,H2J 0B6,-73.5928,45.5289,Plateau Mont-Royal North Central,3484
+1564951106,1175,apartment,1,0.0, '1 an',july,1.0,700.0,0,1.0,3 1/2,58,H3J 1M5,-73.5725,45.4922,Petite-Bourgogne,990
+1525864501,1175,apartment,1,0.0, '1 an',na,,,1,0.0,studio,59,H2X 0B9,-73.5739,45.5148,Plateau Mont-Royal Southeast,2135
+1505736136,1670,apartment,1,0.0, '1 an',na,0.0,,1,0.0,condo,63,H2X 0B9,-73.5739,45.5148,Plateau Mont-Royal Southeast,2129
+1505841602,1360,apartment,1,0.0, '1 an',na,,,1,0.0,condo,57,H2X 0B9,-73.5739,45.5148,Plateau Mont-Royal Southeast,2133
+1567368946,1395,apartment,1,0.0, '1 an',july,1.0,625.0,0,1.0,condo,38,H2L 0C2,-73.5744,45.5252,Centre-Sud South,1144
+1569921664,1130,apartment,1,0.0, '1 an',july,1.0,750.0,0,0.0,4 1/2,30,H3Z 1K7,-73.5885,45.4909,Westmount East,658
+1568566207,875,apartment,1,0.0, '1 an',july,1.0,650.0,0,0.0,na,35,H2R 2S6,-73.6266,45.5452,Villeray Southeast,509
+1569921585,1351,apartment,1,0.0, '1 an',september,1.0,1010.0,0,0.0,4 1/2,42,H3E 1G2,-73.5457,45.4679,L'Île-Des-Soeurs,375
+1569921045,685,apartment,1,1.0, '1 an',july,1.0,400.0,0,0.0,studio,58,H4A 1V3,-73.6252,45.4781,Notre-Dame-de-Grâce Northeast,229
+1569843309,1290,apartment,1,0.0, '1 an',march,1.0,575.0,0,1.0,na,45,,-1.0,-1.0,-1,3284
+1569514488,840,apartment,1,, '1 an',july,0.0,1000.0,0,0.0,4 1/2,45,H1H1V3,-73.6524,45.5829,Montreal North South,398
+1569847009,1810,apartment,1,0.0, '1 an',march,1.0,838.0,0,1.0,na,61,,-1.0,-1.0,-1,3511
+1569910366,750,apartment,1,0.0, '1 an',june,0.0,650.0,0,0.0,studio,44,H2J 3L3,-73.5928,45.5289,Plateau Mont-Royal North Central,915
+1569912502,795,apartment,1,0.0, '1 an',june,0.0,300.0,1,0.0,studio,64,H2E 1V7,-73.6256,45.5522,Villeray Northeast,771
+1567840899,775,apartment,1,0.0, '1 an',june,1.0,1.0,0,0.0,3 1/2,43,H1X1C7,-73.5935,45.5577,Rosemont Central,678
+1568875611,750,apartment,6,0.0, '1 an',june,0.0,1.0,0,0.0,na,47,H4B 2J9,-73.636,45.4681,Notre-Dame-de-Grâce Southwest,171
+1569444002,3500,apartment,3,, '1 an',september,1.0,2000.0,0,1.0,na,64,H3P 1A6,-73.653,45.5209,Mount Royal North,1193
+1569799907,800,apartment,1,0.0, '1 an',july,0.0,1.0,0,0.0,na,16,H2E2M3,-73.6256,45.5522,Villeray Northeast,326
+1548275796,915,apartment,3,0.0, '1 an',july,0.0,650.0,0,1.0,na,63,H1H0C2,-73.6524,45.5829,Montreal North South,706
+1569912502,795,apartment,1,0.0, '1 an',june,0.0,300.0,1,0.0,studio,64,H2E 1V7,-73.6256,45.5522,Villeray Northeast,771
+1569884765,1300,apartment,1,0.0, '1 an',august,0.0,1085.0,0,0.0,na,46,H1M 2G5,-73.5559,45.5902,Mercier West,882
+1569886832,2465,apartment,1,0.0, '1 an',july,1.0,1420.0,0,1.0,na,39,H4A 1S8,-73.6252,45.4781,Notre-Dame-de-Grâce Northeast,641
+1569896125,950,apartment,1,0.0, '1 an',july,0.0,1.0,0,0.0,na,64,H1T 3R2,-73.5869,45.5653,Rosemont North,193
+1569894074,1095,apartment,1,0.0, '1 an',july,1.0,430.0,1,1.0,studio,47,H2K 4J5,-73.5672,45.53,Centre-Sud North,564
+1569896827,1450,apartment,1,0.0, '1 an',july,1.0,1000.0,0,0.0,4 1/2,45,H4A 2T4,-73.6252,45.4781,Notre-Dame-de-Grâce Northeast,566
+1569918733,1350,apartment,1,1.0, '1 an',july,1.0,750.0,0,0.0,na,40,H4L 3R3,-73.6974,45.5269,Saint-Laurent Inner Northeast,171
+1569906735,925,apartment,1,0.0, '1 an',july,1.0,1.0,0,0.0,4 1/2,14,H4G1P2,-73.5798,45.4644,Verdun North,237
+1569917334,655,apartment,1,0.0, '1 an',june,1.0,256.0,0,0.0,2 1/2,61,H2E 2C8,-73.6256,45.5522,Villeray Northeast,1896
+1569920722,1280,apartment,1,0.0, '1 an',july,0.0,1400.0,0,0.0,na,27,H1E 3L6,-73.5729,45.6595,Rivière-Des-Prairies Southwest,302
+1569920538,1280,apartment,1,0.0, '1 an',july,0.0,700.0,0,1.0,condo,50,H2S 2C6,-73.6144,45.5356,Petite-Patrie Southwest,2056
+1553782714,980,apartment,1,0.0, '1 an',october,0.0,,0,0.0,na,54,H4B 2Z6,-73.636,45.4681,Notre-Dame-de-Grâce Southwest,1442
+1569919837,1850,apartment,1,0.0, '1 an',july,0.0,1300.0,0,0.0,condo,54,H8N 1K2,-73.6084,45.4551,LaSalle Northwest,1752
+1569919695,788,apartment,1,0.0, '1 an',july,1.0,1.0,0,0.0,na,49,H4L 1E2,-73.6974,45.5269,Saint-Laurent Inner Northeast,1069
+1564833240,1800,apartment,1,1.0, '1 an',may,0.0,1000.0,0,0.0,na,62,H4E3B6,-73.5863,45.468,Ville Émard,2162
+1569919603,775,apartment,1,0.0, '1 an',july,0.0,1.0,0,0.0,3 1/2,57,H1P 2K3,-73.6048,45.6105,Saint-Léonard North,683
+1552751056,480,Room,1,,,na,0.0,,0,0.0,na,15,H1X 1P3,-73.5935,45.5577,Rosemont Central,381
+1569919050,499,Room,1,,,na,0.0,,0,0.0,na,55,H2X 1H6,-73.5739,45.5148,Plateau Mont-Royal Southeast,248
+1569918979,799,apartment,1,0.0, '1 an',june,1.0,240.0,0,0.0,studio,52,H8S 3Y7,-73.6811,45.4496,Lachine East,451
+1505790458,1250,apartment,1,0.0, '1 an',july,1.0,695.0,0,1.0,na,24,H7M 1E2,-73.7331,45.6089,Vimont,1898
+1569918709,840,apartment,1,0.0, '1 an',june,1.0,300.0,0,0.0,na,30,H4A 2R4,-73.6252,45.4781,Notre-Dame-de-Grâce Northeast,227
+1569918659,1275,apartment,1,0.0, '1 an',july,0.0,1100.0,0,0.0,na,39,H1K 2T8,-73.5428,45.6077,Anjou East,567
+1569918583,1100,apartment,1,0.0, '1 an',june,0.0,750.0,0,0.0,na,37,H2J 3L3,-73.5928,45.5289,Plateau Mont-Royal North Central,945
+1559468102,995,apartment,1,0.0, '1 an',july,1.0,425.0,0,0.0,2 1/2,64,H3W 1Y5,-73.6442,45.4988,Côte-des-Neiges Southwest,2321
+1569558013,1145,apartment,1,0.0, '1 an',august,1.0,675.0,0,0.0,3 1/2,51,H3W 1Y5,-73.6442,45.4988,Côte-des-Neiges Southwest,2418
+1557021050,1220,apartment,1,0.0, '1 an',july,1.0,750.0,1,0.0,4 1/2,45,H1W 3T4,-73.5616,45.5423,Hochelaga,423
+1569575984,1475,apartment,1,0.0, '1 an',july,1.0,1100.0,1,0.0,na,26,H3N 1S8,-73.6464,45.5335,Parc-Extension,1072
+1567407720,795,apartment,1,0.0, '1 an',july,1.0,500.0,1,0.0,studio,58,H3N 1R7,-73.6464,45.5335,Parc-Extension,644
+1569917818,1285,apartment,1,0.0, '1 an',august,0.0,640.0,0,1.0,4 1/2,64,H2S 2N4,-73.6144,45.5356,Petite-Patrie Southwest,1018
+1569917805,690,apartment,1,0.0, '1 an',july,1.0,450.0,0,0.0,3 1/2,13,H1M 1B5,-73.5559,45.5902,Mercier West,199
+1569917541,1095,apartment,1,0.0, '1 an',june,0.0,900.0,0,0.0,na,50,H4A 3R5,-73.6252,45.4781,Notre-Dame-de-Grâce Northeast,1496
+1569917269,2375,apartment,1,0.0, '1 an',july,1.0,1400.0,0,1.0,na,56,H2K3Z5,-73.5672,45.53,Centre-Sud North,1570
+1569917263,1545,apartment,1,0.0, '1 an',august,1.0,1100.0,0,0.0,na,59,H2J 3N5,-73.5928,45.5289,Plateau Mont-Royal North Central,210
+1569917232,1250,apartment,1,0.0, '1 an',july,1.0,750.0,0,0.0,na,62,H4E 1K1,-73.5863,45.468,Ville Émard,2260
+1569916842,580,Room,1,,,na,0.0,,0,0.0,na,50,,-1.0,-1.0,-1,522
+1569916387,1275,apartment,1,1.0, '1 an',july,1.0,750.0,0,0.0,4 1/2,63,H2J 3L6,-73.5928,45.5289,Plateau Mont-Royal North Central,152
+1569916317,925,apartment,1,0.0, '1 an',june,0.0,800.0,0,0.0,studio,57,H4A 3R5,-73.6252,45.4781,Notre-Dame-de-Grâce Northeast,1481
+1569916266,900,apartment,1,0.0, '1 an',june,0.0,600.0,0,0.0,3 1/2,33,H3L 1B4,-73.6754,45.5529,Ahuntsic Southwest,429
+1505771649,1095,apartment,1,0.0, '1 an',april,1.0,,0,0.0,3 1/2,63,H4N 1P2,-73.6807,45.5329,Saint-Laurent Outer Northeast,2468
+1505830094,1740,apartment,1,0.0, 'Au mois',na,0.0,,0,1.0,na,40,H2L 1A5,-73.5744,45.5252,Centre-Sud South,1032
+1568733601,995,apartment,7,0.0, '1 an',july,1.0,800.0,0,0.0,na,64,H2X 2N4,-73.5739,45.5148,Plateau Mont-Royal Southeast,1347
+1569456404,1095,apartment,3,0.0, '1 an',july,1.0,800.0,0,0.0,na,53,H4G 2T5,-73.5798,45.4644,Verdun North,1039
+1569916056,1184,apartment,1,1.0, '1 an',july,1.0,1100.0,0,0.0,na,64,H3E1C4,-73.5457,45.4679,L'Île-Des-Soeurs,1961
+1569915985,1745,apartment,1,1.0, '1 an',august,1.0,1200.0,0,1.0,condo,64,H2T 2H4,-73.6024,45.5278,Plateau Mont-Royal West,602
+1569915952,1750,Room,1,,,na,0.0,,0,0.0,na,64,H2M2L9,-73.6515,45.55,Ahuntsic East,918
+1549173456,500,apartment,1,0.0, '1 an',na,,,0,,studio,34,H2J 1Z5,-73.5928,45.5289,Plateau Mont-Royal North Central,480
+1549142814,1695,apartment,1,0.0, '1 an',na,,,0,,na,51,H4W 3H2,-73.6704,45.478,Côte-Saint-Luc West,4761
+1561321461,1295,apartment,1,0.0, '1 an',na,0.0,,0,,na,51,H4W 3H2,-73.6704,45.478,Côte-Saint-Luc West,4762
+1560871134,3699,apartment,1,0.0, '1 an',na,0.0,,0,,na,55,H3G 0G2,-73.5853,45.5019,Downtown Montreal Southeast,5107
+1556075728,3699,apartment,1,0.0, '1 an',na,0.0,,0,,na,64,H3G 0G2,-73.5853,45.5019,Downtown Montreal Southeast,5107
+1556075729,1675,apartment,1,0.0, '1 an',na,0.0,,0,,na,55,H3G 0G2,-73.5853,45.5019,Downtown Montreal Southeast,5220
+1539271057,2495,apartment,1,0.0, '1 an',na,0.0,,0,,na,55,H3G 0G2,-73.5853,45.5019,Downtown Montreal Southeast,5112
+1515121859,2495,Room,1,,,na,0.0,,0,0.0,na,64,H3G 0G2,-73.5853,45.5019,Downtown Montreal Southeast,5110
+1505825069,699,Room,1,,,na,0.0,,0,0.0,na,62,H3B 1B4,-73.5672,45.5058,Downtown Montreal East,4145
+1565232043,699,apartment,1,0.0, '1 an',na,0.0,,1,0.0,na,54,H3B 1B4,-73.5672,45.5058,Downtown Montreal East,3302
+1565195231,1599,apartment,1,1.0, '1 an',na,0.0,,1,0.0,na,37,H4B 2M7,-73.636,45.4681,Notre-Dame-de-Grâce Southwest,4839
+1569915549,1249,apartment,1,0.0, '1 an',june,0.0,1200.0,0,0.0,na,37,H4B 2M7,-73.636,45.4681,Notre-Dame-de-Grâce Southwest,4849
+1569915546,1680,Room,1,,,na,0.0,,0,0.0,na,51,H4R1Z8,-73.7309,45.5148,Saint-Laurent Central,883
+1569915334,490,apartment,1,0.0, '1 an',june,0.0,1200.0,0,0.0,na,61,H1A2X4,-73.5236,45.6587,Pointe-Aux-Trembles,336
+1569915317,1680,Room,1,,,na,0.0,,0,0.0,na,47,H4R1Z8,-73.7309,45.5148,Saint-Laurent Central,883
+1569915205,750,apartment,1,1.0, '1 an',june,1.0,1271.0,0,1.0,na,41,H2K 2W3,-73.5672,45.53,Centre-Sud North,553
+1569912838,2500,apartment,1,0.0, '1 an',june,1.0,,0,0.0,na,31,H4A 2K9,-73.6252,45.4781,Notre-Dame-de-Grâce Northeast,311
+1569913208,1550,apartment,1,0.0, '1 an',june,1.0,,0,0.0,na,59,H2L 1L4,-73.5744,45.5252,Centre-Sud South,3089
+1555731931,1824,apartment,1,, 'Non disponible',na,0.0,,0,0.0,na,53,H2X 2G7,-73.5739,45.5148,Plateau Mont-Royal Southeast,2141
+1569915121,2050,apartment,1,0.0, '1 an',july,0.0,1350.0,1,0.0,na,60,H2X 2E8,-73.5739,45.5148,Plateau Mont-Royal Southeast,164
+1569915048,1465,apartment,1,0.0, '1 an',july,0.0,800.0,0,0.0,na,39,H2L 2Z5,-73.5744,45.5252,Centre-Sud South,692
+1565131832,900,apartment,1,0.0, '1 an',may,0.0,150.0,1,1.0,4 1/2,59,H2E2H1,-73.6256,45.5522,Villeray Northeast,1346
+1394239196,640,Room,1,,,na,0.0,,0,0.0,na,62,H3G1A8,-73.5853,45.5019,Downtown Montreal Southeast,1816
+1569913212,1650,apartment,1,0.0, '1 an',june,1.0,,0,0.0,na,61,,-1.0,-1.0,-1,672
+1569909492,1429,apartment,1,0.0, '1 an',june,1.0,,0,0.0,na,53,H2X 2G7,-73.5739,45.5148,Plateau Mont-Royal Southeast,2141
+1569913994,1284,apartment,1,0.0, '1 an',july,1.0,925.0,0,0.0,na,52,H3T 1W8,-73.616,45.5115,Côte-des-Neiges Northeast,2803
+1547140316,1100,apartment,1,0.0, '1 an',july,1.0,550.0,1,0.0,na,45,H1W 3R9,-73.5616,45.5423,Hochelaga,105
+1536964102,1400,apartment,1,0.0, '1 an',august,0.0,550.0,1,0.0,3 1/2,40,H2X 2K7,-73.5739,45.5148,Plateau Mont-Royal Southeast,1450
+1525467885,1390,apartment,1,0.0, '1 an',may,1.0,1200.0,0,1.0,na,33,H2X 2K7,-73.5739,45.5148,Plateau Mont-Royal Southeast,1091
+1525467880,2185,apartment,1,0.0, 'Au mois',na,,,1,0.0,4 1/2,46,H3G 1B1,-73.5853,45.5019,Downtown Montreal Southeast,717
+1569913975,3000,apartment,1,0.0, '1 an',july,0.0,450.0,1,0.0,na,62,H3G 1B1,-73.5853,45.5019,Downtown Montreal Southeast,4316
+1569913725,750,Room,1,,,na,0.0,,0,0.0,3 1/2,32,H2M1R2,-73.6515,45.55,Ahuntsic East,195
+1569913601,250,apartment,1,0.0, '1 an',july,0.0,850.0,1,0.0,na,36,H3S 1H3,-73.6292,45.5155,Côte-des-Neiges North,500
+1569913486,1615,apartment,1,0.0, '1 an',august,0.0,550.0,0,1.0,na,63,H2S3H8,-73.6144,45.5356,Petite-Patrie Southwest,694
+1569913207,910,apartment,1,0.0, '1 an',july,1.0,,0,0.0,3 1/2,29,H1W 3B6,-73.5616,45.5423,Hochelaga,517
+1569913303,2624,apartment,1,0.0, '1 an',june,0.0,750.0,0,0.0,na,53,H2X 2G7,-73.5739,45.5148,Plateau Mont-Royal Southeast,2141
+1569913223,1095,Room,1,,,na,0.0,,0,0.0,na,43,H3X 3V3,-73.6483,45.4915,Hampstead,1410
+1566376112,500,apartment,1,1.0, '1 an',may,1.0,1014.0,0,1.0,na,59,H1W 3K5,-73.5616,45.5423,Hochelaga,1386
+1565642186,2580,apartment,4,0.0, '1 an',may,0.0,550.0,0,0.0,na,58,H3C 1V6,-73.5679,45.503,Griffintown (Includes Île Notre-Dame & Île Sainte-Hélène),1896
+1569093633,625,apartment,4,0.0, '1 an',july,1.0,1.0,0,0.0,studio,36,H4A1H9,-73.6252,45.4781,Notre-Dame-de-Grâce Northeast,1965
+1558400168,850,apartment,5,0.0, '1 an',july,0.0,800.0,0,0.0,studio,54,H2L 4G8,-73.5744,45.5252,Centre-Sud South,2213
+1529772915,995,apartment,23,0.0, '1 an',august,1.0,450.0,0,0.0,4 1/2,53,H1T 1Y7,-73.5869,45.5653,Rosemont North,470
+1569913136,899,apartment,1,0.0, '1 an',july,1.0,600.0,0,0.0,na,58,H3E 1B5,-73.5457,45.4679,L'Île-Des-Soeurs,4753
+1569912835,1015,apartment,1,0.0, '1 an',june,0.0,650.0,0,0.0,3 1/2,56,H4A 3C3,-73.6252,45.4781,Notre-Dame-de-Grâce Northeast,712
+1569421651,950,Room,19,,,na,0.0,,0,0.0,studio,50,H3X 3V3,-73.6483,45.4915,Hampstead,1417
+1569912631,1200,Room,1,,,na,0.0,,0,0.0,na,52,L1H4V8,-78.8641,43.8973,Oshawa Southeast,587
+1569909608,1949,apartment,1,0.0, '1 an',june,1.0,1393.0,0,0.0,na,52,H3E 1H3,-73.5457,45.4679,L'Île-Des-Soeurs,4486
+1569912320,1931,apartment,1,0.0, '1 an',july,0.0,680.0,0,0.0,na,55,H3G 1A9,-73.5853,45.5019,Downtown Montreal Southeast,3257
+1569912128,1100,Room,1,,,na,0.0,,0,0.0,4 1/2,39,H2S 2B7,-73.6144,45.5356,Petite-Patrie Southwest,507
+1569911648,1000,apartment,1,0.0, '1 an',july,1.0,450.0,0,0.0,3 1/2,42,H4G 1P8,-73.5798,45.4644,Verdun North,949
+1569911600,890,apartment,1,0.0, '1 an',july,1.0,12345.0,1,0.0,3 1/2,64,H3X 1V6,-73.6483,45.4915,Hampstead,213
+1549519658,435,apartment,1,0.0, '1 an',april,0.0,,0,0.0,na,51,H2L 3G8,-73.5744,45.5252,Centre-Sud South,1553
+1567667356,1100,apartment,1,0.0, '1 an',june,0.0,,0,0.0,4 1/2,64,H2E 2P9,-73.6256,45.5522,Villeray Northeast,1455
+1569910025,875,apartment,1,0.0, '1 an',july,0.0,,0,0.0,2 1/2,62,H8S 3J4,-73.6811,45.4496,Lachine East,1635
+1561775148,1495,apartment,1,0.0, '1 an',august,1.0,974.0,0,1.0,na,51,H1M 3B7,-73.5559,45.5902,Mercier West,951
+1569911487,1250,apartment,1,0.0, '1 an',july,0.0,1.0,0,0.0,condo,64,H1L 3J4,-73.5362,45.5943,Mercier North,1990
+1569911457,820,apartment,1,0.0, '1 an',june,1.0,995.0,0,0.0,3 1/2,46,H1T3H3,-73.5869,45.5653,Rosemont North,943
+1569911305,1995,apartment,1,0.0, '1 an',july,0.0,600.0,0,0.0,na,62,H2X 3G6,-73.5739,45.5148,Plateau Mont-Royal Southeast,1579
+1569911240,895,Room,1,,,na,0.0,,0,0.0,3 1/2,64,H3W 1M5,-73.6442,45.4988,Côte-des-Neiges Southwest,126
+1569911224,330,Room,1,,,na,0.0,,0,0.0,na,52,H2P 2G1,-73.6418,45.5409,Villeray West,1400
+1569911085,620,apartment,1,0.0, '1 an',june,0.0,900.0,0,0.0,na,40,H1Y 1V1,-73.598,45.5525,Rosemont South,136
+1558158764,1275,apartment,1,0.0, '1 an',june,0.0,1000.0,0,1.0,4 1/2,55,H1X 2E4,-73.5935,45.5577,Rosemont Central,1217
+1569910752,1550,apartment,1,0.0, '1 an',august,0.0,1224.0,0,1.0,4 1/2,62,,-1.0,-1.0,-1,883
+1569910633,1500,apartment,1,0.0, '1 an',july,0.0,1.0,0,0.0,na,37,H1H 4V5,-73.6524,45.5829,Montreal North South,374
+1569909595,1050,apartment,1,0.0, '1 an',june,1.0,915.0,0,0.0,4 1/2,34,H1T3H3,-73.5869,45.5653,Rosemont North,969
+1569910584,1850,Room,1,,,na,0.0,,0,0.0,4 1/2,58,H3G 1A9,-73.5853,45.5019,Downtown Montreal Southeast,3411
+1569910578,700,Room,1,,,na,0.0,,0,0.0,na,50,H3T 1E1,-73.616,45.5115,Côte-des-Neiges Northeast,859
+1568816176,700,apartment,1,0.0, '1 an',june,1.0,700.0,0,0.0,na,57,H3T 1E1,-73.616,45.5115,Côte-des-Neiges Northeast,920
+1278760026,800,Room,1,0.0,,na,0.0,,0,0.0,na,42,H2B 2B5,-73.647,45.5664,Ahuntsic North,553
+1567355723,1700,apartment,1,0.0, '1 an',july,0.0,450.0,0,0.0,na,29,H4G 2P4,-73.5798,45.4644,Verdun North,792
+1569910432,765,apartment,1,0.0, '1 an',june,0.0,1.0,0,0.0,studio,32,H3X 2B5,-73.6483,45.4915,Hampstead,1264
+1569910273,1250,Room,1,,,na,0.0,,0,0.0,4 1/2,13,H1W 2L3,-73.5616,45.5423,Hochelaga,865
+1569909663,590,apartment,1,0.0, '1 an',september,1.0,1200.0,0,0.0,na,64,H2H 1K3,-73.5837,45.5377,Plateau Mont-Royal North,1361
+1569909586,1500,apartment,1,0.0, '1 an',july,1.0,700.0,0,0.0,na,63,H2W 2E4,-73.5839,45.5194,Plateau Mont-Royal South Central,441
+1569909191,1100,apartment,1,0.0, '1 an',september,0.0,950.0,1,0.0,3 1/2,32,H2M 1N6,-73.6515,45.55,Ahuntsic East,219
+1569909017,1750,apartment,1,0.0, '1 an',july,0.0,500.0,0,0.0,3 1/2,56,H2J 2R5,-73.5928,45.5289,Plateau Mont-Royal North Central,2265
+1569908880,700,apartment,1,0.0, '1 an',july,0.0,1100.0,0,0.0,na,32,H1L 3N7,-73.5362,45.5943,Mercier North,912
+1567930014,1065,apartment,1,0.0, '1 an',july,1.0,700.0,0,0.0,4 1/2,30,H1M 3E1,-73.5559,45.5902,Mercier West,1284
+1569797634,1150,apartment,1,0.0, '1 an',july,0.0,800.0,0,0.0,na,45,H4G 1T2,-73.5798,45.4644,Verdun North,355
+1563116729,795,apartment,6,0.0, '1 an',july,0.0,950.0,0,1.0,na,64,H3S 1L5,-73.6292,45.5155,Côte-des-Neiges North,369
+1505844402,1450,apartment,2,0.0, '1 an',na,0.0,,1,0.0,condo,33,H2E 2N6,-73.6256,45.5522,Villeray Northeast,2138
+1569722519,1350,apartment,1,0.0, '1 an',july,0.0,500.0,0,0.0,3 1/2,56,H3W 1J4,-73.6442,45.4988,Côte-des-Neiges Southwest,906
+1569321621,995,apartment,4,0.0, 'Au mois',july,0.0,1000.0,0,0.0,3 1/2,27,H1W 2W8,-73.5616,45.5423,Hochelaga,185
+1567930014,1300,apartment,1,0.0, '1 an',july,1.0,700.0,0,0.0,na,55,H1X2M3,-73.5935,45.5577,Rosemont Central,746
+1553782765,1150,apartment,1,0.0, '1 an',january,1.0,,0,0.0,na,45,H4G 1T2,-73.5798,45.4644,Verdun North,355
+1569908713,930,apartment,1,1.0, '1 an',june,0.0,767.0,0,0.0,na,59,H1T 3X2,-73.5869,45.5653,Rosemont North,1976
+1569908573,1550,apartment,1,2.0, '1 an',july,0.0,312.0,0,1.0,4 1/2,27,H3J 2S1,-73.5725,45.4922,Petite-Bourgogne,207
+1569908318,1100,apartment,1,0.0, '1 an',august,1.0,810.0,1,0.0,3 1/2,27,H1K 3C5,-73.5428,45.6077,Anjou East,349
+1505786515,1320,apartment,1,0.0, '1 an',na,,,1,0.0,na,62,H3S 1G1,-73.6292,45.5155,Côte-des-Neiges North,741
+1505786486,2345,apartment,1,0.0, '1 an',na,,,1,0.0,na,63,H3H 0B5,-73.5967,45.5123,Downtown Montreal South & West,2523
+1505786476,2345,apartment,1,0.0, '1 an',na,,,1,0.0,4 1/2,63,H3H 0B5,-73.5967,45.5123,Downtown Montreal South & West,2554
+1505786474,1790,apartment,1,0.0, '1 an',na,,,1,0.0,na,63,H3H 0B5,-73.5967,45.5123,Downtown Montreal South & West,2512
+1505786477,1605,apartment,1,0.0, '1 an',na,,,1,0.0,3 1/2,63,H3H 0B5,-73.5967,45.5123,Downtown Montreal South & West,2499
+1569908031,1450,Room,1,,,na,0.0,,0,0.0,studio,49,H3H 0B5,-73.5967,45.5123,Downtown Montreal South & West,2487
+1569907956,490,apartment,1,0.0, '1 an',july,0.0,1000.0,0,0.0,na,61,H1A2X4,-73.5236,45.6587,Pointe-Aux-Trembles,336
+1569907837,1250,apartment,1,0.0, '1 an',july,0.0,800.0,0,0.0,na,44,H2B 2B3,-73.647,45.5664,Ahuntsic North,687
+1566605920,950,apartment,1,0.0, '1 an',july,1.0,900.0,0,0.0,na,49,H8P2T6,-73.5979,45.4371,LaSalle Southeast,669
+1567241585,1600,apartment,1,0.0, '1 an',june,0.0,700.0,0,0.0,na,64,,-1.0,-1.0,-1,1178
+1567239467,1250,apartment,1,0.0, '1 an',july,0.0,600.0,0,0.0,na,57,H1X 2E4,-73.5935,45.5577,Rosemont Central,3041
+1569907732,950,apartment,1,0.0, '1 an',july,0.0,500.0,0,0.0,na,53,H1Y 3E3,-73.598,45.5525,Rosemont South,2458
+1569907087,750,apartment,1,0.0, '1 an',june,1.0,,0,0.0,na,44,H1L 3N7,-73.5362,45.5943,Mercier North,896
+1569907646,1299,apartment,1,0.0, '1 an',july,1.0,1000.0,1,0.0,na,56,H3Z 1S2,-73.5885,45.4909,Westmount East,2841
+1569907576,1250,apartment,1,0.0, '1 an',july,1.0,700.0,0,0.0,4 1/2,14,H2K 3T5,-73.5672,45.53,Centre-Sud North,741
+1569907568,1000,apartment,1,1.0, '1 an',july,1.0,1000.0,0,0.0,4 1/2,64,H3S1J9,-73.6292,45.5155,Côte-des-Neiges North,480
+1569907326,1800,apartment,1,0.0, '1 an',june,0.0,650.0,1,1.0,4 1/2,50,H3C 4J4,-73.5679,45.503,Griffintown (Includes Île Notre-Dame & Île Sainte-Hélène),326
+1569906813,1395,apartment,1,1.0, '1 an',june,0.0,893.0,0,0.0,3 1/2,47,H2J1X8,-73.5928,45.5289,Plateau Mont-Royal North Central,715
+1569906765,1200,apartment,1,0.0, 'Au mois',june,0.0,1.0,1,0.0,condo,59,H1B 3A9,-73.5502,45.6454,Montreal East,474
+1561563919,1195,apartment,1,0.0, '1 an',may,1.0,730.0,0,0.0,studio,19,H2J 3Z6,-73.5928,45.5289,Plateau Mont-Royal North Central,189
+1561563937,1025,apartment,1,0.0, '1 an',june,1.0,756.0,0,0.0,na,47,H3H 1P1,-73.5967,45.5123,Downtown Montreal South & West,1520
+1563501523,1025,apartment,1,0.0, '1 an',july,1.0,600.0,0,0.0,na,54,H3H 1P1,-73.5967,45.5123,Downtown Montreal South & West,1520
+1563501526,890,apartment,1,0.0, '1 an',july,1.0,552.0,0,0.0,na,60,H4A 1V3,-73.6252,45.4781,Notre-Dame-de-Grâce Northeast,1354
+1505826611,825,apartment,1,0.0, '1 an',july,1.0,344.0,0,0.0,na,51,H4A 1V3,-73.6252,45.4781,Notre-Dame-de-Grâce Northeast,1320
+1549595660,700,apartment,1,0.0, '1 an',march,0.0,710.0,0,0.0,studio,56,H4A 1V3,-73.6252,45.4781,Notre-Dame-de-Grâce Northeast,1320
+1563324139,1005,apartment,1,0.0, '1 an',july,0.0,590.0,0,0.0,na,26,H3H 2B5,-73.5967,45.5123,Downtown Montreal South & West,343
+1561314749,995,apartment,1,0.0, '1 an',may,1.0,,0,0.0,na,57,H3H 2B5,-73.5967,45.5123,Downtown Montreal South & West,1438
+1557734224,755,apartment,1,0.0, '1 an',march,1.0,745.0,0,0.0,studio,44,H3H 2B5,-73.5967,45.5123,Downtown Montreal South & West,1474
+1560962427,1345,apartment,1,0.0, '1 an',july,1.0,325.0,0,0.0,na,58,H3H 2B5,-73.5967,45.5123,Downtown Montreal South & West,1444
+1561314751,755,apartment,1,0.0, '1 an',july,1.0,745.0,0,0.0,studio,53,H3H 2B5,-73.5967,45.5123,Downtown Montreal South & West,1404
+1557734218,1320,apartment,1,0.0, '1 an',june,1.0,778.0,0,0.0,na,58,H3H 2B5,-73.5967,45.5123,Downtown Montreal South & West,1427
+1505826625,1250,apartment,1,0.0, '1 an',november,1.0,2073.0,0,0.0,na,50,H4A 3J2,-73.6252,45.4781,Notre-Dame-de-Grâce Northeast,1797
+1557734213,1550,apartment,1,0.0, '1 an',march,1.0,778.0,0,0.0,na,53,H4A 3J2,-73.6252,45.4781,Notre-Dame-de-Grâce Northeast,1785
+1505826618,1345,apartment,1,0.0, '1 an',december,1.0,1190.0,0,0.0,na,50,H4A 3J2,-73.6252,45.4781,Notre-Dame-de-Grâce Northeast,1809
+1566401492,1525,apartment,7,0.0, '1 an',july,1.0,1200.0,0,0.0,na,46,H4A 3J2,-73.6252,45.4781,Notre-Dame-de-Grâce Northeast,1802
+1567132855,1350,apartment,16,0.0, '1 an',june,1.0,950.0,0,0.0,na,64,H4X 1M8,-73.6649,45.4575,Montreal West,1125
+1560870876,1370,apartment,9,0.0, '1 an',june,1.0,330.0,0,1.0,na,57,H4B 2X7,-73.636,45.4681,Notre-Dame-de-Grâce Southwest,958
+1549921946,1350,apartment,1,0.0, '1 an',na,0.0,,1,0.0,na,36,H2V 3M6,-73.6153,45.5298,Outremont,1811
+1564857144,1290,apartment,1,0.0, '1 an',na,0.0,,0,0.0,condo,59,H3J 2X1,-73.5725,45.4922,Petite-Bourgogne,1791
+1549163038,995,apartment,1,0.0, '1 an',february,1.0,,0,0.0,na,39,H1N 3N4,-73.5499,45.5719,Mercier Southeast,762
+1553939457,1250,apartment,1,0.0, '1 an',march,1.0,770.0,0,0.0,na,61,H4A 3J2,-73.6252,45.4781,Notre-Dame-de-Grâce Northeast,1802
+1556235932,1195,apartment,1,0.0, '1 an',april,1.0,970.0,0,0.0,na,52,H4A 3J2,-73.6252,45.4781,Notre-Dame-de-Grâce Northeast,1804
+1549217945,1280,apartment,1,0.0, '1 an',february,1.0,,0,0.0,na,56,H2V 1Z9,-73.6153,45.5298,Outremont,1515
+1563581511,650,apartment,1,0.0, '1 an',july,1.0,383.0,0,0.0,na,52,H3N 2V6,-73.6464,45.5335,Parc-Extension,1516
+1566559283,825,apartment,1,0.0, '1 an',may,1.0,,0,0.0,studio,53,H2V 1Z9,-73.6153,45.5298,Outremont,1571
+1539241576,850,apartment,1,0.0, '1 an',january,1.0,729.0,0,0.0,na,42,H3N 2V6,-73.6464,45.5335,Parc-Extension,1555
+1569906057,850,apartment,1,0.0, '1 an',july,0.0,250.0,0,0.0,na,49,H3N 2W1,-73.6464,45.5335,Parc-Extension,1551
+1561263624,620,apartment,1,0.0, '1 an',na,0.0,,0,,na,14,H1Y 2Z7,-73.598,45.5525,Rosemont South,281
+1561221937,1199,apartment,1,0.0, '1 an',na,0.0,,0,,na,34,H2X 2N5,-73.5739,45.5148,Plateau Mont-Royal Southeast,213
+1569411479,979,apartment,1,0.0, '1 an',july,0.0,,0,0.0,na,33,H2X 2N5,-73.5739,45.5148,Plateau Mont-Royal Southeast,213
+1569579353,1099,apartment,1,0.0, '1 an',na,0.0,,0,0.0,3 1/2,13,H3T 1M9,-73.616,45.5115,Côte-des-Neiges Northeast,720
+1569610346,1149,apartment,1,0.0, '1 an',july,0.0,,0,0.0,4 1/2,39,H3W 2T7,-73.6442,45.4988,Côte-des-Neiges Southwest,916
+1569905917,1399,Room,1,,,na,0.0,,0,0.0,4 1/2,13,H3T 1M9,-73.616,45.5115,Côte-des-Neiges Northeast,720
+1560018558,490,apartment,1,1.0, '1 an',july,1.0,900.0,0,1.0,na,54,H4L 4P5,-73.6974,45.5269,Saint-Laurent Inner Northeast,693
+1569904779,1700,apartment,1,0.0, '1 an',august,1.0,,0,0.0,na,46,H2W 1R9,-73.5839,45.5194,Plateau Mont-Royal South Central,476
+1569905232,1149,apartment,1,0.0, '1 an',na,0.0,,0,,na,42,H2P 2X7,-73.6418,45.5409,Villeray West,4605
+1569905203,660,apartment,1,, 'Non disponible',na,0.0,,0,0.0,2 1/2,46,H2S 2R8,-73.6144,45.5356,Petite-Patrie Southwest,525
+1569904986,1085,apartment,1,0.0, '1 an',june,1.0,,0,0.0,3 1/2,42,H2E 1X9,-73.6256,45.5522,Villeray Northeast,683
+1569905006,1065,apartment,1,0.0, '1 an',june,1.0,,0,0.0,3 1/2,37,H2E 1X9,-73.6256,45.5522,Villeray Northeast,572
+1569903743,1095,apartment,1,, 'Non disponible',na,0.0,,0,0.0,3 1/2,54,H2E 1X9,-73.6256,45.5522,Villeray Northeast,731
+1569905627,2199,Room,1,,,na,0.0,,0,0.0,na,57,H3H 2J6,-73.5967,45.5123,Downtown Montreal South & West,3861
+1566840472,650,apartment,1,0.0, '1 an',july,0.0,1428.0,0,0.0,na,55,H2L 3H4,-73.5744,45.5252,Centre-Sud South,1676
+1569905506,1400,apartment,1,0.0, '1 an',june,0.0,850.0,1,1.0,na,63,H1R 1A1,-73.6229,45.5844,Saint-Léonard West,2551
+1569905205,1200,apartment,1,0.0, '1 an',june,0.0,100.0,0,0.0,na,34,H2X 2T3,-73.5739,45.5148,Plateau Mont-Royal Southeast,146
+1532495840,915,apartment,1,0.0, '1 an',june,1.0,,0,0.0,4 1/2,26,H1H3K1,-73.6524,45.5829,Montreal North South,457
+1569904842,1575,apartment,1,1.0, '1 an',june,1.0,978.0,0,1.0,condo,31,H7M 1E2,-73.7331,45.6089,Vimont,1934
+1569904639,2000,apartment,1,0.0, '1 an',june,1.0,,0,0.0,na,43,H4A 1H2,-73.6252,45.4781,Notre-Dame-de-Grâce Northeast,350
+1569895591,1724,apartment,1,, 'Non disponible',na,0.0,,0,0.0,na,57,H3H 2J6,-73.5967,45.5123,Downtown Montreal South & West,3919
+1569904408,950,apartment,1,0.0, '1 an',september,0.0,400.0,1,0.0,4 1/2,42,H1R 1E6,-73.6229,45.5844,Saint-Léonard West,90
+1569904359,1400,apartment,1,0.0, '1 an',august,0.0,950.0,0,0.0,na,30,H2X 1T9,-73.5739,45.5148,Plateau Mont-Royal Southeast,289
+1569904316,1250,apartment,1,1.0, '1 an',july,0.0,950.0,0,0.0,na,19,H1L 2J8,-73.5362,45.5943,Mercier North,430
+1569903992,975,apartment,1,0.0, '1 an',july,0.0,600.0,0,0.0,4 1/2,38,H1X 1N1,-73.5935,45.5577,Rosemont Central,1303
+1569903684,730,apartment,1,0.0, '1 an',august,1.0,670.0,0,0.0,3 1/2,44,H1Y 2G4,-73.598,45.5525,Rosemont South,633
+1505844402,1305,apartment,2,0.0, '1 an',na,0.0,,1,0.0,na,49,H2R 2E6,-73.6266,45.5452,Villeray Southeast,1874
+1544404778,1350,apartment,17,0.0, '1 an',january,0.0,500.0,1,1.0,3 1/2,56,H3W 1J4,-73.6442,45.4988,Côte-des-Neiges Southwest,906
+1553940131,1250,apartment,1,1.0, '1 an',july,0.0,1300.0,0,0.0,3 1/2,55,H1V 2L9,-73.551,45.5702,Maisonneuve,1102
+1568055178,1895,apartment,4,0.0, '1 an',june,1.0,1100.0,0,1.0,condo,60,H2L 2M5,-73.5744,45.5252,Centre-Sud South,855
+1569495770,1750,apartment,2,0.0, '1 an',july,0.0,200.0,1,0.0,na,59,H3N 2G7,-73.6464,45.5335,Parc-Extension,1099
+1569897158,825,apartment,1,0.0, '1 an',na,0.0,,0,,studio,64,H2G 2X3,-73.6061,45.5434,Petite-Patrie Northeast,2109
+1569902913,685,apartment,1,1.0, '1 an',july,0.0,2700.0,0,0.0,2 1/2,60,H1X 1L2,-73.5935,45.5577,Rosemont Central,380
+1569902911,1300,apartment,1,0.0, '1 an',june,0.0,1000.0,0,0.0,na,38,,-1.0,-1.0,-1,486
+1569902679,950,apartment,1,0.0, '1 an',july,0.0,655.0,0,1.0,4 1/2,46,H8R 2G9,-73.6557,45.4473,Saint-Pierre,982
+1567826511,1550,apartment,1,0.0, '1 an',july,0.0,850.0,0,0.0,condo,51,H2X 0B3,-73.5739,45.5148,Plateau Mont-Royal Southeast,1020
+1569902598,1550,apartment,1,1.0, '1 an',july,1.0,630.0,0,1.0,4 1/2,51,H2J2M9,-73.5928,45.5289,Plateau Mont-Royal North Central,548
+1569902099,1450,apartment,1,0.0, '1 an',june,1.0,,0,0.0,condo,64,H2L 2N6,-73.5744,45.5252,Centre-Sud South,1053
+1569902533,1225,apartment,1,0.0, '1 an',july,0.0,1.0,0,0.0,4 1/2,59,H3S 1G2,-73.6292,45.5155,Côte-des-Neiges North,777
+1569902387,1400,apartment,1,0.0, '1 an',july,0.0,1.0,0,0.0,na,8,H1G 2G4,-73.6389,45.6061,Montreal North North,278
+1569902378,1600,apartment,1,0.0, '1 an',june,0.0,800.0,0,0.0,4 1/2,24,H2J 1L3,-73.5928,45.5289,Plateau Mont-Royal North Central,934
+1549113770,795,apartment,1,0.0, '1 an',july,0.0,800.0,0,1.0,3 1/2,52,H8R 2G9,-73.6557,45.4473,Saint-Pierre,986
+1569901736,1125,Room,1,1.0,,na,0.0,,0,0.0,na,46,H2B 2R8,-73.647,45.5664,Ahuntsic North,1509
+1569895601,600,apartment,1,, 'Non disponible',na,0.0,,0,0.0,na,59,,-1.0,-1.0,-1,2987
+1569901380,200,apartment,1,0.0, '1 an',july,0.0,700.0,0,0.0,na,43,H9P 1J8,-73.7305,45.4617,Dorval Outskirts,835
+1569901345,900,apartment,1,0.0, '1 an',july,1.0,530.0,1,1.0,na,62,H2M 1S7,-73.6515,45.55,Ahuntsic East,1808
+1569901204,1350,Room,1,,,na,0.0,,0,0.0,condo,63,H3G 2E2,-73.5853,45.5019,Downtown Montreal Southeast,1906
+1569901109,550,apartment,1,0.0, '1 an',july,0.0,1.0,0,0.0,na,22,H2J2W7,-73.5928,45.5289,Plateau Mont-Royal North Central,660
+1569900835,1500,apartment,1,0.0, '1 an',july,1.0,1000.0,0,0.0,4 1/2,43,H2J 3S3,-73.5928,45.5289,Plateau Mont-Royal North Central,1094
+1569900798,1450,apartment,1,0.0, '1 an',july,0.0,1325.0,0,0.0,4 1/2,18,H4A 2T4,-73.6252,45.4781,Notre-Dame-de-Grâce Northeast,592
+1569900760,1895,apartment,1,0.0, '1 an',june,0.0,1.0,0,0.0,na,60,H1L2R5,-73.5362,45.5943,Mercier North,1888
+1569900650,985,apartment,1,0.0, '1 an',july,1.0,1500.0,0,0.0,4 1/2,52,H2M 2L3,-73.6515,45.55,Ahuntsic East,712
+1569897389,1700,apartment,1,, 'Non disponible',na,0.0,,0,0.0,na,62,H2W 2E4,-73.5839,45.5194,Plateau Mont-Royal South Central,189
+1569625168,1850,apartment,1,0.0, '1 an',july,1.0,650.0,0,0.0,4 1/2,58,H2S 0E1,-73.6144,45.5356,Petite-Patrie Southwest,1124
+1569900004,850,apartment,1,0.0, '1 an',july,1.0,750.0,1,0.0,na,48,H1T 1C7,-73.5869,45.5653,Rosemont North,847
+1569899878,945,Room,1,,,na,0.0,,0,0.0,na,21,H1X 3M4,-73.5935,45.5577,Rosemont Central,582
+1569899851,400,apartment,1,0.0, '1 an',june,0.0,650.0,0,0.0,4 1/2,45,H3K2M5,-73.564,45.4858,Pointe-Saint-Charles,1387
+1569897951,1195,apartment,1,0.0, '1 an',june,1.0,568.0,0,0.0,4 1/2,60,H1L2R5,-73.5362,45.5943,Mercier North,696
+1569895595,1110,apartment,1,, 'Non disponible',na,0.0,,0,0.0,na,57,H3H 1L3,-73.5967,45.5123,Downtown Montreal South & West,2919
+1569899195,220,apartment,1,0.0, '1 an',july,1.0,1000.0,0,0.0,na,33,H3G 1V7,-73.5853,45.5019,Downtown Montreal Southeast,209
+1569898989,1450,apartment,1,0.0, '1 an',june,0.0,365.0,1,1.0,4 1/2,31,H4A 2T4,-73.6252,45.4781,Notre-Dame-de-Grâce Northeast,643
+1569898882,980,apartment,1,1.0, '1 an',july,1.0,982.0,0,1.0,studio,31,H3C0N6,-73.5679,45.503,Griffintown (Includes Île Notre-Dame & Île Sainte-Hélène),195
+1569898638,1950,apartment,1,0.0, '1 an',july,1.0,1000.0,0,0.0,na,36,H2R 2E4,-73.6266,45.5452,Villeray Southeast,765
+1569898664,1275,apartment,1,0.0, '1 an',july,0.0,800.0,0,1.0,4 1/2,53,H1X3K1,-73.5935,45.5577,Rosemont Central,265
+1569898458,800,Room,1,,,na,0.0,,0,0.0,na,56,H2N1Y3,-73.659,45.5402,Ahuntsic Southeast,1107
+1569898358,500,Room,1,1.0,,na,0.0,,0,0.0,na,61,,-1.0,-1.0,-1,288
+1569898221,380,apartment,1,0.0, '1 an',july,0.0,800.0,0,1.0,na,58,H3K 1J4,-73.564,45.4858,Pointe-Saint-Charles,1408
+1569898200,800,apartment,1,0.0, '1 an',july,1.0,40.0,0,0.0,na,56,H2N1Y3,-73.659,45.5402,Ahuntsic Southeast,1107
+1567395957,950,apartment,1,0.0, '1 an',july,1.0,1100.0,1,0.0,4 1/2,49,H2J2Y6,-73.5928,45.5289,Plateau Mont-Royal North Central,268
+1569341962,1475,apartment,3,1.0, '1 an',august,1.0,750.0,0,0.0,condo,57,H3N 1S8,-73.6464,45.5335,Parc-Extension,1072
+1544404778,1495,apartment,17,0.0, '1 an',january,0.0,500.0,1,1.0,na,38,H3W 2C5,-73.6442,45.4988,Côte-des-Neiges Southwest,703
+1009263530,1250,apartment,2,0.0, 'Au mois',may,0.0,348.0,0,0.0,3 1/2,55,H1V 2L9,-73.551,45.5702,Maisonneuve,1102
+1520118690,650,apartment,1,0.0, '1 an',na,,,1,0.0,2 1/2,59,H1W 1H4,-73.5616,45.5423,Hochelaga,202
+1569898196,1570,Room,1,,,na,0.0,,0,0.0,condo,53,H3J 1R3,-73.5725,45.4922,Petite-Bourgogne,3307
+1569897878,520,Room,1,,,na,0.0,,0,0.0,na,62,H2S2K1,-73.6144,45.5356,Petite-Patrie Southwest,2851
+1567840899,600,apartment,1,0.0, '1 an',june,1.0,1.0,0,0.0,na,44,H4G 2R4,-73.5798,45.4644,Verdun North,2539
+1569897585,775,apartment,1,0.0, '1 an',june,1.0,345.0,1,0.0,3 1/2,43,H1X1C7,-73.5935,45.5577,Rosemont Central,678
+1569897551,725,Room,1,,,na,0.0,,0,0.0,na,58,H2K2H9,-73.5672,45.53,Centre-Sud North,394
+1559206525,535,apartment,1,0.0, '1 an',april,0.0,350.0,1,0.0,na,53,H2T 1R5,-73.6024,45.5278,Plateau Mont-Royal West,1569
+1569511839,680,apartment,1,0.0, '1 an',july,0.0,600.0,1,0.0,na,12,H2E 2N5,-73.6256,45.5522,Villeray Northeast,116
+1569897231,750,apartment,1,0.0, '1 an',july,0.0,1000.0,0,0.0,na,12,H2C 1H5,-73.6719,45.5593,Ahuntsic Central,174
+1568881265,1200,apartment,1,1.0, '1 an',august,0.0,,0,0.0,na,34,H2S1T3,-73.6144,45.5356,Petite-Patrie Southwest,314
+1567605150,1200,apartment,1,0.0, '1 an',may,0.0,1.0,1,0.0,na,32,H1V 2G1,-73.551,45.5702,Maisonneuve,1043
+1569896969,1175,apartment,1,0.0, '1 an',july,1.0,600.0,0,1.0,studio,57,H3H 1P2,-73.5967,45.5123,Downtown Montreal South & West,541
+1569896795,1395,apartment,1,0.0, '1 an',june,0.0,1600.0,0,0.0,na,59,H3B 3H5,-73.5672,45.5058,Downtown Montreal East,807
+1569896742,1350,apartment,1,0.0, '1 an',july,1.0,950.0,0,0.0,na,50,H4A 1X3,-73.6252,45.4781,Notre-Dame-de-Grâce Northeast,102
+1569896678,1279,Room,1,,,na,0.0,,0,0.0,na,51,H4C 2W7,-73.5922,45.478,Saint-Henri,1493
+1569896644,600,apartment,1,0.0, '1 an',july,0.0,600.0,1,1.0,na,52,H2L2S8,-73.5744,45.5252,Centre-Sud South,1338
+1563413526,1450,apartment,1,2.0, '1 an',july,0.0,1000.0,0,0.0,4 1/2,45,H1V 2L4,-73.551,45.5702,Maisonneuve,6207
+1569896570,1000,Room,1,,,na,0.0,,0,0.0,na,54,H8R 1M4,-73.6557,45.4473,Saint-Pierre,872
+1569896377,600,Room,1,,,na,0.0,,0,0.0,na,21,H2K 4K1,-73.5672,45.53,Centre-Sud North,1018
+1569895709,500,apartment,1,, 'Non disponible',na,0.0,,0,0.0,na,21,H3S 1E6,-73.6292,45.5155,Côte-des-Neiges North,633
+1569896105,715,apartment,1,0.0, '1 an',july,0.0,600.0,1,1.0,2 1/2,47,H3M2J9,-73.6979,45.5459,Cartierville Northeast,585
+1569895711,1350,apartment,1,0.0, '1 an',july,0.0,670.0,1,0.0,4 1/2,52,H1V 2L4,-73.551,45.5702,Maisonneuve,6437
+1569895712,1275,Room,1,,,na,0.0,,0,0.0,4 1/2,64,H2H2C9,-73.5837,45.5377,Plateau Mont-Royal North,1228
+1569895655,700,Room,1,,,na,0.0,,0,0.0,na,60,H2L2S8,-73.5744,45.5252,Centre-Sud South,2080
+1569895569,600,apartment,1,0.0, '1 an',july,0.0,1200.0,0,1.0,na,15,H4G 3H9,-73.5798,45.4644,Verdun North,2119
+1569895444,2095,apartment,1,0.0, '1 an',june,1.0,345.0,1,0.0,na,46,H1V 2L4,-73.551,45.5702,Maisonneuve,6148
+1529583688,625,apartment,1,0.0, '1 an',august,0.0,416.0,0,0.0,studio,47,H2K2H9,-73.5672,45.53,Centre-Sud North,378
+1569895408,825,apartment,1,1.0, '1 an',july,0.0,605.0,0,1.0,na,52,H4N 2V4,-73.6807,45.5329,Saint-Laurent Outer Northeast,202
+1569895385,1300,apartment,1,1.0, '1 an',july,0.0,950.0,0,0.0,condo,14,H4N 0C8,-73.6807,45.5329,Saint-Laurent Outer Northeast,517
+1569895099,2500,Room,1,,,na,0.0,,0,0.0,na,61,H2K 3H1,-73.5672,45.53,Centre-Sud North,1075
+1569894983,700,apartment,1,0.0, '1 an',july,1.0,800.0,1,0.0,na,21,H2T2N1,-73.6024,45.5278,Plateau Mont-Royal West,654
+1569894952,1200,Room,1,,,na,0.0,,0,0.0,4 1/2,63,H1M2L9,-73.5559,45.5902,Mercier West,1392
+1567833784,600,apartment,1,0.0, '1 an',july,1.0,1500.0,1,1.0,na,60,H2L2S8,-73.5744,45.5252,Centre-Sud South,2120
+1569894785,2850,Room,1,,,na,0.0,,0,0.0,na,62,H4C3A8,-73.5922,45.478,Saint-Henri,5377
+1569894713,630,apartment,1,0.0, '1 an',july,0.0,70.0,0,0.0,na,56,H2T 1R5,-73.6024,45.5278,Plateau Mont-Royal West,851
+1569894587,1000,apartment,1,0.0, '1 an',june,1.0,600.0,0,0.0,4 1/2,13,H3M 2M9,-73.6979,45.5459,Cartierville Northeast,66
+1569894537,1015,Room,1,0.0,,na,0.0,,0,0.0,3 1/2,19,H2X 4A1,-73.5739,45.5148,Plateau Mont-Royal Southeast,392
+1530883010,495,Room,1,1.0,,na,0.0,,0,0.0,na,63,H9H 4B2,-73.8635,45.4873,Sainte-Geneviève,494
+1559120921,730,apartment,2,1.0, '1 an',june,1.0,599.0,1,1.0,3 1/2,56,H1Z 1P6,-73.6444,45.5652,Saint-Michel West,897
+1564898477,1510,apartment,1,0.0, '1 an',may,0.0,1000.0,0,0.0,condo,64,H2L 2V2,-73.5744,45.5252,Centre-Sud South,839
+1568627296,800,apartment,2,0.0, '1 an',june,1.0,960.0,0,1.0,4 1/2,48,H1E 1L4,-73.5729,45.6595,Rivière-Des-Prairies Southwest,410
+1569232177,2100,apartment,1,0.0, '1 an',july,0.0,600.0,1,0.0,na,57,H3Z 2L3,-73.5885,45.4909,Westmount East,2220
+1505844417,595,apartment,1,0.0, '1 an',na,0.0,,1,0.0,na,60,H3S 1T9,-73.6292,45.5155,Côte-des-Neiges North,486
+1530878161,1350,Room,1,1.0,,na,0.0,,0,0.0,3 1/2,54,H3W 1J4,-73.6442,45.4988,Côte-des-Neiges Southwest,557
+1569894155,1500,apartment,1,0.0, '1 an',august,1.0,1000.0,0,0.0,na,50,H4G 2P3,-73.5798,45.4644,Verdun North,545
+1569894101,1100,apartment,1,0.0, '1 an',july,0.0,600.0,1,1.0,4 1/2,28,H4G1H1,-73.5798,45.4644,Verdun North,206
+1530062197,1195,Room,1,0.0,,na,0.0,,0,0.0,condo,44,H1N 2M1,-73.5499,45.5719,Mercier Southeast,6357
+1565757766,4700,apartment,1,0.0, '1 an',na,0.0,,0,0.0,na,36,H3G 1B8,-73.5853,45.5019,Downtown Montreal Southeast,284
+1505829726,1650,apartment,1,0.0, '1 an',na,0.0,,0,0.0,na,23,H3G 1B9,-73.5853,45.5019,Downtown Montreal Southeast,104
+1551350607,1800,apartment,1,0.0, '1 an',na,0.0,,0,0.0,na,30,H3G 1B9,-73.5853,45.5019,Downtown Montreal Southeast,2234
+1569893888,1975,Room,1,2.0,,na,0.0,,0,0.0,na,28,H3G 1B9,-73.5853,45.5019,Downtown Montreal Southeast,933
+1510766726,1595,Room,1,1.0,,na,0.0,,0,0.0,na,55,H2L3B8,-73.5744,45.5252,Centre-Sud South,478
+1569893770,2000,apartment,1,0.0, '1 an',july,0.0,555.0,1,1.0,na,58,J7V 9J3,-74.034,45.4042,Vaudreuil- Dorion,564
+1540000346,1590,Room,1,,,na,0.0,,0,0.0,condo,59,H3G 1V7,-73.5853,45.5019,Downtown Montreal Southeast,1062
+1569893582,1950,Room,1,,,na,0.0,,0,0.0,na,45,H1N 2M1,-73.5499,45.5719,Mercier Southeast,6065
+1569893565,540,apartment,1,0.0, '1 an',july,1.0,800.0,0,0.0,na,60,H2J 1L8,-73.5928,45.5289,Plateau Mont-Royal North Central,1390
+1513428363,1505,Room,1,1.0,,na,0.0,,0,0.0,4 1/2,63,H4C2X9,-73.5922,45.478,Saint-Henri,2035
+1502084469,1690,Room,1,0.0,,na,0.0,,0,0.0,na,50,H2L 0A4,-73.5744,45.5252,Centre-Sud South,1047
+1492909989,1895,Room,1,0.0,,na,0.0,,0,0.0,na,53,H3H 2S5,-73.5967,45.5123,Downtown Montreal South & West,1386
+1500920815,599,Room,1,0.0,,na,0.0,,0,0.0,na,44,H1X 2L2,-73.5935,45.5577,Rosemont Central,463
+1500909665,3100,Room,1,2.0,,na,0.0,,0,0.0,na,64,H3Z1L7,-73.5885,45.4909,Westmount East,890
+1552470410,750,Room,1,2.0,,na,0.0,,0,0.0,3 1/2,28,H1N 1E3,-73.5499,45.5719,Mercier Southeast,325
+1550238430,1595,apartment,3,0.0, '1 an',may,0.0,,1,0.0,na,33,H8S 2S6,-73.6811,45.4496,Lachine East,2469
+1568446031,1320,apartment,9,0.0, '1 an',july,1.0,600.0,0,1.0,studio,64,H2X 2T1,-73.5739,45.5148,Plateau Mont-Royal Southeast,808
+1505777134,880,apartment,2,0.0, '1 an',na,,,1,,3 1/2,58,H3M 2L6,-73.6979,45.5459,Cartierville Northeast,1717
+1566419163,1915,apartment,1,0.0, '1 an',june,1.0,1200.0,0,0.0,na,48,H3C 1V8,-73.5679,45.503,Griffintown (Includes Île Notre-Dame & Île Sainte-Hélène),3533
+1567176485,975,apartment,16,0.0, '1 an',july,1.0,1100.0,0,0.0,na,37,H1Z 1C5,-73.6444,45.5652,Saint-Michel West,164
+1552470410,1600,Room,1,2.0,,na,0.0,,0,0.0,na,48,H4E 4E4,-73.5863,45.468,Ville Émard,415
+1569891559,1595,apartment,1,1.0, '1 an',july,0.0,1200.0,0,1.0,na,33,H8S 2S6,-73.6811,45.4496,Lachine East,2469
+1547388954,599,Room,1,1.0,,na,0.0,,0,0.0,na,52,H1X 2L2,-73.5935,45.5577,Rosemont Central,447
+1552314024,900,Room,1,0.0,,na,0.0,,0,0.0,3 1/2,27,H2H 2J1,-73.5837,45.5377,Plateau Mont-Royal North,374
+1569890852,856,apartment,1,0.0, 'Au mois',june,1.0,160.0,0,0.0,na,60,H2X 2R7,-73.5739,45.5148,Plateau Mont-Royal Southeast,1526
+1569890472,690,Room,1,,,na,0.0,,0,0.0,studio,28,H1N 1E3,-73.5499,45.5719,Mercier Southeast,335
+1569890252,803,apartment,1,1.0, '1 an',june,1.0,740.0,1,1.0,na,55,H2X 2R7,-73.5739,45.5148,Plateau Mont-Royal Southeast,1508
+1569890092,1300,apartment,1,0.0, 'Au mois',june,1.0,200.0,0,0.0,condo,61,H4W 1S9,-73.6704,45.478,Côte-Saint-Luc West,898
+1569889871,738,apartment,1,0.0, '1 an',july,0.0,700.0,0,0.0,na,57,H2X 2R7,-73.5739,45.5148,Plateau Mont-Royal Southeast,1384
+1569889770,900,apartment,1,1.0, '1 an',july,1.0,400.0,1,1.0,na,63,H2M 1S7,-73.6515,45.55,Ahuntsic East,1808
+1559607304,1400,apartment,1,0.0, '1 an',may,0.0,850.0,0,0.0,3 1/2,57,H3H 0B4,-73.5967,45.5123,Downtown Montreal South & West,588
+1554998717,2000,apartment,1,0.0, '1 an',march,0.0,1000.0,0,0.0,4 1/2,51,H3G 2G7,-73.5853,45.5019,Downtown Montreal Southeast,1147
+1563808571,915,apartment,1,0.0, '1 an',june,0.0,600.0,0,0.0,na,28,H4N 1L5,-73.6807,45.5329,Saint-Laurent Outer Northeast,1101
+1569889698,1450,apartment,1,0.0, '1 an',july,0.0,500.0,1,0.0,3 1/2,57,H3G 2G7,-73.5853,45.5019,Downtown Montreal Southeast,1553
+1569889566,840,apartment,1,0.0, '1 an',june,1.0,550.0,1,0.0,na,54,H1Y 3C9,-73.598,45.5525,Rosemont South,521
+1569889541,805,apartment,1,0.0, '1 an',july,1.0,850.0,0,0.0,na,64,H4P2B1,-73.6722,45.4991,Mount Royal South,1373
+1569889412,1170,Room,1,,,na,0.0,,0,0.0,na,44,H4G 2Z3,-73.5798,45.4644,Verdun North,451
+1569889372,540,Room,1,,,na,0.0,,0,0.0,na,63,H2S 1Z6,-73.6144,45.5356,Petite-Patrie Southwest,1357
+1569889121,740,Room,1,,,na,0.0,,0,0.0,na,55,H2L 2G4,-73.5744,45.5252,Centre-Sud South,1275
+1569888637,540,apartment,1,1.0, '1 an',july,1.0,1200.0,0,0.0,na,54,H2S 2C7,-73.6144,45.5356,Petite-Patrie Southwest,1531
+1569889020,1325,apartment,1,0.0, '1 an',july,1.0,1500.0,0,0.0,na,33,H1Y 3A6,-73.598,45.5525,Rosemont South,388
+1569889011,1450,apartment,1,1.0, '1 an',june,1.0,710.0,0,1.0,na,49,H4G 2X6,-73.5798,45.4644,Verdun North,405
+1569888882,1500,Room,1,,,na,0.0,,0,0.0,studio,34,H2Y 4A2,-73.554,45.508,Old Montreal,1085
+1569888875,435,Room,1,,,na,0.0,,0,0.0,na,48,H2S2S1,-73.6144,45.5356,Petite-Patrie Southwest,1427
+1569888853,540,Room,1,,,na,0.0,,0,0.0,na,59,H2S 2C7,-73.6144,45.5356,Petite-Patrie Southwest,1340
+1569888849,635,Room,1,,,na,0.0,,0,0.0,na,59,H2K 4J7,-73.5672,45.53,Centre-Sud North,1660
+1569888666,480,Room,1,,,na,0.0,,0,0.0,na,41,H2S 2S8,-73.6144,45.5356,Petite-Patrie Southwest,869
+1557204434,560,apartment,1,0.0, '1 an',april,0.0,900.0,1,1.0,na,54,H2S 3G1,-73.6144,45.5356,Petite-Patrie Southwest,1096
+1565159848,1400,apartment,1,0.0, '1 an',july,0.0,600.0,0,0.0,condo,44,H1L 4G6,-73.5362,45.5943,Mercier North,656
+1569888389,1000,Room,1,,,na,0.0,,0,0.0,studio,46,H4E 2T4,-73.5863,45.468,Ville Émard,755
+1569888373,720,Room,1,,,na,0.0,,0,0.0,na,64,H2G 1S8,-73.6061,45.5434,Petite-Patrie Northeast,5305
+1569888235,540,Room,1,,,na,0.0,,0,0.0,na,50,H2S 3G1,-73.6144,45.5356,Petite-Patrie Southwest,1331
+1569888217,615,apartment,1,0.0, '1 an',july,0.0,900.0,1,0.0,na,45,H2K 2L9,-73.5672,45.53,Centre-Sud North,1312
+1505777134,1100,apartment,2,0.0, '1 an',na,,,1,,4 1/2,35,H3K 2L7,-73.564,45.4858,Pointe-Saint-Charles,703
+1525749583,1915,apartment,1,0.0, '1 an',april,0.0,280.0,1,0.0,na,48,H3C 1V8,-73.5679,45.503,Griffintown (Includes Île Notre-Dame & Île Sainte-Hélène),3533
+1558712348,820,apartment,3,0.0, '1 an',june,1.0,700.0,0,0.0,studio,14,H4C 2N7,-73.5922,45.478,Saint-Henri,303
+1505791064,1290,apartment,1,0.0, '1 an',na,0.0,,1,0.0,4 1/2,61,H1Y 2V5,-73.598,45.5525,Rosemont South,1259
+1568274107,1425,apartment,6,0.0, '1 an',july,0.0,500.0,1,0.0,condo,57,H2L 3Z1,-73.5744,45.5252,Centre-Sud South,2824
+1569888184,1195,Room,1,,,na,0.0,,0,0.0,studio,52,H2K 3Z3,-73.5672,45.53,Centre-Sud North,1315
+1553782767,490,apartment,1,0.0, '1 an',october,1.0,,0,0.0,na,57,H1A2X4,-73.5236,45.6587,Pointe-Aux-Trembles,356
+1569888149,1230,Room,1,,,na,0.0,,0,0.0,na,57,H1T 3X2,-73.5869,45.5653,Rosemont North,1976
+1569888048,520,apartment,1,0.0, '1 an',july,1.0,2500.0,0,1.0,na,62,H2S 2L5,-73.6144,45.5356,Petite-Patrie Southwest,1271
+1569888028,2500,apartment,1,0.0, '1 an',july,1.0,900.0,0,0.0,na,53,H2T 2X5,-73.6024,45.5278,Plateau Mont-Royal West,534
+1569887968,1220,Room,1,2.0,,na,0.0,,0,0.0,na,41,H4G 3A3,-73.5798,45.4644,Verdun North,433
+1569887744,2465,Room,1,,,na,0.0,,0,0.0,na,47,H4A 3N5,-73.6252,45.4781,Notre-Dame-de-Grâce Northeast,641
+1556074177,615,apartment,1,0.0, '1 an',june,1.0,885.0,0,1.0,na,58,H2K 2L9,-73.5672,45.53,Centre-Sud North,1343
+1564682433,2035,apartment,1,0.0, '1 an',june,1.0,506.0,0,0.0,na,60,H3G 2A4,-73.5853,45.5019,Downtown Montreal Southeast,3794
+1525573356,1165,apartment,1,0.0, '1 an',june,1.0,543.0,0,0.0,na,43,H3H 1L3,-73.5967,45.5123,Downtown Montreal South & West,3741
+1562236953,1170,apartment,1,0.0, '1 an',june,1.0,365.0,0,0.0,na,53,H3H 2P1,-73.5967,45.5123,Downtown Montreal South & West,3295
+1564682428,890,apartment,1,0.0, '1 an',june,1.0,463.0,0,0.0,na,53,H3H 2P1,-73.5967,45.5123,Downtown Montreal South & West,3297
+1522236933,1020,apartment,1,0.0, '1 an',june,1.0,1494.0,0,1.0,na,43,H3H 1L3,-73.5967,45.5123,Downtown Montreal South & West,3745
+1546231599,3765,apartment,1,0.0, '1 an',june,1.0,496.0,0,0.0,na,53,H3G 2A4,-73.5853,45.5019,Downtown Montreal Southeast,3794
+1545350492,1195,apartment,1,0.0, '1 an',june,1.0,536.0,0,0.0,na,64,H3G 2B7,-73.5853,45.5019,Downtown Montreal Southeast,4309
+1564682480,1450,apartment,1,0.0, '1 an',june,1.0,382.0,0,0.0,na,56,H3H 2E3,-73.5967,45.5123,Downtown Montreal South & West,3327
+1564218219,1075,apartment,1,0.0, '1 an',june,1.0,554.0,0,0.0,studio,47,H3H 2E3,-73.5967,45.5123,Downtown Montreal South & West,3326
+1558798501,1215,apartment,1,0.0, '1 an',june,1.0,880.0,0,1.0,na,64,H3G 2H8,-73.5853,45.5019,Downtown Montreal Southeast,3758
+1564682448,1260,apartment,1,0.0, '1 an',june,1.0,353.0,0,0.0,condo,60,H2Z 0A2,-73.5623,45.5066,Downtown Montreal Northeast,2965
+1560185969,905,apartment,1,0.0, '1 an',june,1.0,858.0,0,1.0,na,43,H3H 1L3,-73.5967,45.5123,Downtown Montreal South & West,3744
+1564682669,2025,apartment,1,0.0, '1 an',june,1.0,527.0,0,0.0,na,46,H3G 2A4,-73.5853,45.5019,Downtown Montreal Southeast,3794
+1526933582,1070,apartment,1,0.0, '1 an',june,1.0,939.0,0,0.0,na,64,H3H 1K8,-73.5967,45.5123,Downtown Montreal South & West,3998
+1548729999,1635,apartment,1,0.0, '1 an',june,1.0,478.0,0,0.0,3 1/2,58,H3G 1A9,-73.5853,45.5019,Downtown Montreal Southeast,3411
+1508850837,1120,apartment,1,0.0, '1 an',june,1.0,506.0,0,1.0,na,42,H3G 2H9,-73.5853,45.5019,Downtown Montreal Southeast,3828
+1564682468,1070,apartment,1,0.0, '1 an',june,1.0,471.0,0,0.0,condo,60,H2Z 0A2,-73.5623,45.5066,Downtown Montreal Northeast,2951
+1560185966,1080,apartment,1,0.0, '1 an',june,1.0,1477.0,0,1.0,studio,47,H3H 2E3,-73.5967,45.5123,Downtown Montreal South & West,3326
+1564682666,3270,apartment,1,0.0, '1 an',june,1.0,684.0,0,0.0,na,64,H3G 2A4,-73.5853,45.5019,Downtown Montreal Southeast,3794
+1525573354,1300,apartment,1,0.0, '1 an',june,1.0,460.0,0,0.0,na,64,H3H 1K8,-73.5967,45.5123,Downtown Montreal South & West,3999
+1518950475,955,apartment,1,0.0, '1 an',june,1.0,679.0,0,1.0,na,45,H3H 2P1,-73.5967,45.5123,Downtown Montreal South & West,3156
+1522055134,1525,apartment,1,0.0, '1 an',june,1.0,581.0,0,1.0,3 1/2,53,H3G 2A4,-73.5853,45.5019,Downtown Montreal Southeast,3968
+1524212252,1410,apartment,1,0.0, '1 an',june,1.0,644.0,0,1.0,3 1/2,61,H3G 2A4,-73.5853,45.5019,Downtown Montreal Southeast,3958
+1545923047,1510,apartment,1,0.0, '1 an',june,1.0,705.0,0,1.0,condo,60,H2Z 0A2,-73.5623,45.5066,Downtown Montreal Northeast,2965
+1522628166,1340,apartment,1,0.0, '1 an',june,1.0,1854.0,0,1.0,condo,55,H2Z 0A2,-73.5623,45.5066,Downtown Montreal Northeast,2641
+1541946098,3375,apartment,1,0.0, '1 an',june,1.0,429.0,0,1.0,condo,60,H2Z 0A2,-73.5623,45.5066,Downtown Montreal Northeast,2654
+1569887402,1190,apartment,1,1.0, '1 an',july,0.0,800.0,0,1.0,studio,55,H3G 2A4,-73.5853,45.5019,Downtown Montreal Southeast,3954
+1569887317,1700,Room,1,,,na,0.0,,0,0.0,4 1/2,54,H4P 0A9,-73.6722,45.4991,Mount Royal South,1008
+1569887009,615,apartment,1,0.0, 'Au mois',june,0.0,500.0,0,0.0,na,48,H2K 2L9,-73.5672,45.53,Centre-Sud North,1352
+1569886964,775,apartment,1,0.0, '1 an',july,1.0,1050.0,0,0.0,3 1/2,31,H1B 4G7,-73.5502,45.6454,Montreal East,54
+1567456005,1400,apartment,14,0.0, '1 an',june,0.0,1100.0,0,0.0,na,62,,-1.0,-1.0,-1,339
+1569575984,1400,apartment,1,0.0, '1 an',july,1.0,1100.0,1,0.0,na,64,H8R 3C7,-73.6557,45.4473,Saint-Pierre,1405
+1537751795,1475,apartment,1,0.0, '1 an',may,1.0,,0,1.0,na,26,H3N 1S8,-73.6464,45.5335,Parc-Extension,1072
+1567796430,3400,apartment,12,1.0, '1 an',july,1.0,800.0,0,0.0,condo,51,H2V 0B2,-73.6153,45.5298,Outremont,2421
+1568550253,1300,apartment,3,0.0, '1 an',may,1.0,1000.0,0,1.0,na,26,H2K 3E1,-73.5672,45.53,Centre-Sud North,256
+1569886775,2895,Room,1,,,na,0.0,,0,0.0,na,64,H3G 1X7,-73.5853,45.5019,Downtown Montreal Southeast,1173
+1569886591,1950,Room,1,1.0,,na,0.0,,0,0.0,na,49,H2K 2L9,-73.5672,45.53,Centre-Sud North,1187
+1562644816,2400,apartment,1,0.0, '1 an',na,0.0,,0,0.0,na,60,H2K 2L9,-73.5672,45.53,Centre-Sud North,838
+1569886465,1400,apartment,1,1.0, '1 an',june,0.0,1000.0,0,1.0,na,64,H1W 1G6,-73.5616,45.5423,Hochelaga,1891
+1569886456,2500,Room,1,,,na,0.0,,0,0.0,4 1/2,28,H4C 3E5,-73.5922,45.478,Saint-Henri,537
+1569886247,360,Room,1,,,na,0.0,,0,0.0,na,29,H1Z1W5,-73.6444,45.5652,Saint-Michel West,152
+1505830104,550,apartment,1,0.0, '1 an',na,0.0,,0,,na,38,H4M 2A4,-73.6906,45.5067,Saint-Laurent East,353
+1535497757,1575,apartment,1,0.0, '1 an',na,0.0,,1,0.0,4 1/2,57,H3H 1T6,-73.5967,45.5123,Downtown Montreal South & West,2135
+1512462938,865,apartment,1,0.0, '1 an',na,0.0,,0,,studio,63,H2L 4G4,-73.5744,45.5252,Centre-Sud South,1495
+1505830077,850,apartment,1,0.0, '1 an',na,0.0,,1,,studio,64,H3H 1T6,-73.5967,45.5123,Downtown Montreal South & West,2196
+1505830101,1095,apartment,1,0.0, '1 an',na,0.0,,0,1.0,3 1/2,63,H2L 4G4,-73.5744,45.5252,Centre-Sud South,1582
+1569885837,865,apartment,1,0.0, '1 an',august,0.0,900.0,0,0.0,studio,64,H2X 2N4,-73.5739,45.5148,Plateau Mont-Royal Southeast,1471
+1569885688,1825,apartment,1,0.0, '1 an',june,1.0,700.0,0,1.0,4 1/2,41,H4G 3A6,-73.5798,45.4644,Verdun North,1239
+1558310644,1450,apartment,1,0.0, '1 an',february,0.0,,0,0.0,3 1/2,55,H2K 4E9,-73.5672,45.53,Centre-Sud North,456
+1554708761,1000,apartment,1,0.0, '1 an',na,0.0,,0,0.0,4 1/2,63,H9S 3W6,-73.7733,45.4409,L'Île-Dorval,2363
+1544204586,775,apartment,1,0.0, '1 an',may,0.0,700.0,0,0.0,3 1/2,63,H9S 3W6,-73.7733,45.4409,L'Île-Dorval,2387
+1554943565,1045,apartment,1,0.0, '1 an',july,0.0,900.0,0,0.0,condo,64,H1H 5N8,-73.6524,45.5829,Montreal North South,3188
+1544204581,1300,apartment,1,0.0, '1 an',may,0.0,475.0,0,0.0,condo,64,H1H 5N8,-73.6524,45.5829,Montreal North South,3348
+1558310928,865,apartment,1,0.0, '1 an',na,0.0,,0,0.0,condo,60,H1H 5N8,-73.6524,45.5829,Montreal North South,3226
+1562760681,1174,apartment,1,0.0, '1 an',june,0.0,650.0,0,1.0,4 1/2,63,H2K 3C1,-73.5672,45.53,Centre-Sud North,2163
+1558310929,995,apartment,1,0.0, '1 an',july,0.0,,0,0.0,condo,60,H1X 2C2,-73.5935,45.5577,Rosemont Central,5420
+1558310919,1055,apartment,1,1.0, '1 an',june,1.0,700.0,0,1.0,3 1/2,63,H2K 3C1,-73.5672,45.53,Centre-Sud North,2161
+1557736345,1500,apartment,1,0.0, '1 an',july,0.0,,0,0.0,condo,64,H8T 0A2,-73.7192,45.4648,Lachine West,3913
+1560716940,780,apartment,1,0.0, '1 an',na,0.0,,1,0.0,studio,56,H2R 2G2,-73.6266,45.5452,Villeray Southeast,2834
+1567091176,1238,Room,1,,,na,0.0,,0,0.0,na,54,H1W 1H9,-73.5616,45.5423,Hochelaga,2090
+1535174889,500,Room,1,,,na,0.0,,0,0.0,na,52,H3S 1H5,-73.6292,45.5155,Côte-des-Neiges North,2175
+1569680389,500,apartment,1,0.0, '1 an',july,0.0,600.0,1,1.0,na,63,H3K 1L4,-73.564,45.4858,Pointe-Saint-Charles,2540
+1562573740,1199,apartment,1,0.0, '1 an',april,0.0,1050.0,0,1.0,na,64,H2E 1T9,-73.6256,45.5522,Villeray Northeast,3281
+1560966136,1695,apartment,1,0.0, '1 an',july,1.0,875.0,1,1.0,na,63,H4E 1Y4,-73.5863,45.468,Ville Émard,3883
+1567508152,1695,apartment,1,0.0, '1 an',july,0.0,650.0,1,1.0,na,59,H4G 2Z3,-73.5798,45.4644,Verdun North,4401
+1569885547,1300,apartment,1,0.0, '1 an',june,1.0,600.0,0,1.0,na,59,H2E 1T9,-73.6256,45.5522,Villeray Northeast,3279
+1567349900,1218,apartment,1,0.0, '1 an',june,0.0,525.0,1,0.0,3 1/2,59,H3H 2J8,-73.5967,45.5123,Downtown Montreal South & West,606
+1505790426,1100,apartment,1,0.0, '1 an',april,0.0,697.0,0,0.0,na,62,H4P 2B8,-73.6722,45.4991,Mount Royal South,1882
+1566773100,975,apartment,1,0.0, '1 an',june,1.0,687.0,0,0.0,na,52,H4N 2V4,-73.6807,45.5329,Saint-Laurent Outer Northeast,437
+1569885099,950,Room,1,,,na,0.0,,0,0.0,3 1/2,64,H4G 1R6,-73.5798,45.4644,Verdun North,368
+1565900551,490,apartment,1,0.0, '1 an',june,1.0,,0,0.0,na,41,H2J2V3,-73.5928,45.5289,Plateau Mont-Royal North Central,831
+1566164472,1595,apartment,1,0.0, '1 an',na,0.0,,0,0.0,na,56,H4B 1P7,-73.636,45.4681,Notre-Dame-de-Grâce Southwest,179
+1569879385,1295,Room,1,2.0,,na,0.0,,0,0.0,na,54,H4B 1P7,-73.636,45.4681,Notre-Dame-de-Grâce Southwest,127
+1569881513,4500,Room,1,,,na,0.0,,0,0.0,condo,37,H2L 1M1,-73.5744,45.5252,Centre-Sud South,492
+1567840899,2400,apartment,1,0.0, '1 an',june,1.0,1.0,0,0.0,na,37,H2R 2K5,-73.6266,45.5452,Villeray Southeast,247
+1505783242,775,apartment,28,0.0, '1 an',na,0.0,,1,0.0,3 1/2,43,H1X1C7,-73.5935,45.5577,Rosemont Central,678
+1569881513,1550,Room,1,,,na,0.0,,0,0.0,na,36,H2R2E5,-73.6266,45.5452,Villeray Southeast,409
+1569884822,1945,Room,1,,,na,0.0,,0,0.0,4 1/2,56,H9R 0C9,-73.8207,45.4748,Pointe-Claire,3229
+1569884795,450,apartment,1,0.0, '1 an',june,0.0,800.0,0,0.0,na,39,H4G 1N1,-73.5798,45.4644,Verdun North,885
+1569871734,500,apartment,1,0.0, '1 an',july,0.0,1100.0,0,0.0,na,15,H1A0B6,-73.5236,45.6587,Pointe-Aux-Trembles,284
+1567321442,1100,apartment,1,0.0, '1 an',june,0.0,707.0,0,1.0,4 1/2,31,H1B 4G7,-73.5502,45.6454,Montreal East,96
+1569884236,1795,apartment,1,1.0, '1 an',july,0.0,750.0,1,1.0,na,60,H2E 1W8,-73.6256,45.5522,Villeray Northeast,271
+1569879426,1795,Room,1,1.0,,na,0.0,,0,0.0,na,58,H3H 2N8,-73.5967,45.5123,Downtown Montreal South & West,958
+1569883674,1300,apartment,1,0.0, '1 an',june,1.0,1040.0,0,1.0,3 1/2,55,,-1.0,-1.0,-1,602
+1569883556,1380,Room,1,1.0,,na,0.0,,0,0.0,studio,49,H1L 4P8,-73.5362,45.5943,Mercier North,311
+1569883368,1445,apartment,1,0.0, '1 an',july,0.0,550.0,1,1.0,condo,35,H2L4Z6,-73.5744,45.5252,Centre-Sud South,2076
+1569883103,1150,apartment,1,0.0, 'Au mois',july,0.0,650.0,0,0.0,na,57,H2K 3P4,-73.5672,45.53,Centre-Sud North,621
+1569882964,1100,apartment,1,0.0, '1 an',july,0.0,990.0,0,0.0,studio,53,,-1.0,-1.0,-1,531
+1569882783,1000,Room,1,,,na,0.0,,0,0.0,3 1/2,49,H2X2K9,-73.5739,45.5148,Plateau Mont-Royal Southeast,561
+1569389379,510,apartment,1,0.0, '1 an',july,1.0,1.0,1,1.0,na,59,H3K1X4,-73.564,45.4858,Pointe-Saint-Charles,1042
+1566507254,1300,apartment,1,0.0, '1 an',july,0.0,750.0,0,0.0,na,63,,-1.0,-1.0,-1,437
+1568316802,1250,apartment,1,0.0, '1 an',july,0.0,2600.0,0,0.0,na,27,H1W1J5,-73.5616,45.5423,Hochelaga,414
+1565012619,1100,apartment,1,0.0, '1 an',june,1.0,1500.0,0,0.0,4 1/2,23,H2R 2S8,-73.6266,45.5452,Villeray Southeast,365
+1569881911,3100,apartment,1,0.0, '1 an',july,1.0,850.0,0,0.0,na,35,H2Y 1S6,-73.554,45.508,Old Montreal,670
+1569881833,1695,Room,1,,,na,0.0,,0,0.0,na,64,,-1.0,-1.0,-1,2002
+1569881522,1225,apartment,1,0.0, '1 an',july,0.0,550.0,1,1.0,4 1/2,20,H4A 1V9,-73.6252,45.4781,Notre-Dame-de-Grâce Northeast,116
+1569881448,490,apartment,1,0.0, '1 an',july,0.0,930.0,0,0.0,na,58,H1A2X4,-73.5236,45.6587,Pointe-Aux-Trembles,336
+1569880452,1100,Room,1,1.0,,na,0.0,,0,0.0,studio,55,,-1.0,-1.0,-1,531
+1569880457,1840,Room,1,,,na,0.0,,0,0.0,na,64,H2J 2S2,-73.5928,45.5289,Plateau Mont-Royal North Central,1020
+1569879903,500,apartment,1,0.0, '1 an',july,0.0,450.0,0,0.0,na,53,H2E1Y5,-73.6256,45.5522,Villeray Northeast,1945
+1558505441,845,apartment,1,0.0, '1 an',september,0.0,900.0,0,0.0,na,54,H1Y 2L5,-73.598,45.5525,Rosemont South,537
+1569724787,895,apartment,1,0.0, '1 an',july,0.0,2200.0,0,0.0,3 1/2,64,H4E 1V8,-73.5863,45.468,Ville Émard,817
+1569879638,1100,apartment,1,0.0, '1 an',july,1.0,810.0,1,1.0,4 1/2,56,H1H 3T8,-73.6524,45.5829,Montreal North South,737
+1553782766,3600,apartment,1,0.0, '1 an',february,1.0,,0,0.0,na,18,H2J 2M9,-73.5928,45.5289,Plateau Mont-Royal North Central,1125
+1569879536,1295,apartment,1,0.0, '1 an',july,0.0,1.0,0,0.0,na,56,H2G 2Y1,-73.6061,45.5434,Petite-Patrie Northeast,313
+1569879340,1355,Room,1,,,na,0.0,,0,0.0,na,57,H1T 3X2,-73.5869,45.5653,Rosemont North,1976
+1569879259,800,apartment,1,0.0, '1 an',july,0.0,950.0,0,0.0,3 1/2,31,H1M2E6,-73.5559,45.5902,Mercier West,282
+1569879039,450,apartment,1,0.0, '1 an',july,1.0,750.0,1,1.0,na,36,H4E 3C2,-73.5863,45.468,Ville Émard,225
+1569878840,1150,apartment,1,0.0, '1 an',june,0.0,920.0,0,0.0,4 1/2,54,H4P 1K8,-73.6722,45.4991,Mount Royal South,1031
+1569878806,1750,Room,1,,,na,0.0,,0,0.0,4 1/2,62,H2J 3Y5,-73.5928,45.5289,Plateau Mont-Royal North Central,930
+1505045787,1595,Room,1,,,na,0.0,,0,0.0,4 1/2,63,H2S 1Y3,-73.6144,45.5356,Petite-Patrie Southwest,1092
+1569878569,620,apartment,1,0.0, '1 an',july,0.0,50.0,0,0.0,na,49,,-1.0,-1.0,-1,1228
+1567796430,800,apartment,12,1.0, '1 an',july,1.0,800.0,0,0.0,3 1/2,52,H8R 2G5,-73.6557,45.4473,Saint-Pierre,145
+1567132855,1300,apartment,16,0.0, '1 an',june,1.0,950.0,0,0.0,na,47,H1B 5G6,-73.5502,45.6454,Montreal East,546
+1569851751,1300,apartment,1,0.0, '1 an',july,1.0,800.0,0,1.0,na,26,H2K 3E1,-73.5672,45.53,Centre-Sud North,256
+1569232177,1370,apartment,1,0.0, '1 an',july,0.0,600.0,1,0.0,na,57,H4B 2X7,-73.636,45.4681,Notre-Dame-de-Grâce Southwest,958
+1561135796,1695,apartment,1,1.0, '1 an',april,1.0,590.0,1,1.0,condo,51,H2S 3A9,-73.6144,45.5356,Petite-Patrie Southwest,679
+1569878358,595,apartment,1,0.0, '1 an',june,1.0,623.0,1,1.0,na,60,H3S 1T9,-73.6292,45.5155,Côte-des-Neiges North,486
+1569877938,1450,apartment,1,0.0, '1 an',june,0.0,900.0,0,1.0,condo,64,H2K 4J9,-73.5672,45.53,Centre-Sud North,636
+1569877874,1100,apartment,1,0.0, '1 an',july,0.0,1000.0,0,0.0,condo,53,H2K 2L6,-73.5672,45.53,Centre-Sud North,1159
+1569877808,900,apartment,1,0.0, '1 an',june,1.0,623.0,1,1.0,4 1/2,13,H1L 4J8,-73.5362,45.5943,Mercier North,64
+1569877642,1250,Room,1,,,na,0.0,,0,0.0,na,44,H2B 2B3,-73.647,45.5664,Ahuntsic North,637
+1569877237,1100,Room,1,,,na,0.0,,0,0.0,condo,51,H2K 2L6,-73.5672,45.53,Centre-Sud North,1353
+1569206718,500,apartment,1,0.0, '1 an',june,0.0,420.0,0,0.0,na,45,H2E1Y5,-73.6256,45.5522,Villeray Northeast,1941
+1549675281,530,apartment,1,0.0, '1 an',july,0.0,900.0,0,0.0,na,37,H3L 2G7,-73.6754,45.5529,Ahuntsic Southwest,307
+1565093889,825,Room,1,,,na,0.0,,0,0.0,3 1/2,60,H3L 2W5,-73.6754,45.5529,Ahuntsic Southwest,750
+1569876543,1100,apartment,1,0.0, '1 an',july,1.0,800.0,0,0.0,na,64,H3T 1J8,-73.616,45.5115,Côte-des-Neiges Northeast,619
+1569876508,672,apartment,1,0.0, '1 an',july,0.0,1130.0,0,0.0,na,45,H1T 1W5,-73.5869,45.5653,Rosemont North,1682
+1569874323,595,Room,1,1.0,,na,0.0,,0,0.0,na,64,H2V 3W6,-73.6153,45.5298,Outremont,2383
+1569876114,1900,apartment,1,0.0, '1 an',june,1.0,850.0,0,0.0,4 1/2,61,H2J 3G5,-73.5928,45.5289,Plateau Mont-Royal North Central,733
+1569875317,1200,apartment,1,0.0, 'Non disponible',na,,,0,0.0,na,33,H4G1P1,-73.5798,45.4644,Verdun North,611
+1569875379,795,apartment,1,0.0, '1 an',july,0.0,800.0,1,1.0,na,57,H3K 2M6,-73.564,45.4858,Pointe-Saint-Charles,914
+1569875221,1395,apartment,1,0.0, '1 an',july,0.0,600.0,0,0.0,na,54,H8R 3G6,-73.6557,45.4473,Saint-Pierre,1808
+1569875213,1650,apartment,1,0.0, '1 an',july,1.0,700.0,0,0.0,na,62,H2L 3P4,-73.5744,45.5252,Centre-Sud South,788
+1569875140,875,apartment,1,0.0, '1 an',july,0.0,1.0,0,0.0,na,63,H3K 2M6,-73.564,45.4858,Pointe-Saint-Charles,1204
+1569188715,1600,apartment,1,0.0, '1 an',july,0.0,800.0,1,1.0,na,34,H3W 2E6,-73.6442,45.4988,Côte-des-Neiges Southwest,296
+1569875011,1050,apartment,1,0.0, '1 an',june,0.0,650.0,1,1.0,4 1/2,34,H1P 1G3,-73.6048,45.6105,Saint-Léonard North,262
+1568868528,1590,apartment,1,0.0, '1 an',july,0.0,700.0,0,0.0,na,60,H2L3N6,-73.5744,45.5252,Centre-Sud South,306
+1569874814,1350,apartment,1,2.0, '1 an',july,0.0,1077.0,0,1.0,3 1/2,52,H1S1S5,-73.5985,45.5716,Saint-Léonard Southeast,549
+1569874657,1550,apartment,1,0.0, '1 an',july,1.0,1450.0,1,0.0,4 1/2,47,H2J1Z2,-73.5928,45.5289,Plateau Mont-Royal North Central,1568
+1505786111,1940,apartment,1,0.0, '1 an',june,1.0,,0,0.0,condo,50,,-1.0,-1.0,-1,393
+1505786944,2525,apartment,1,0.0, '1 an',june,0.0,820.0,0,1.0,na,53,H2T 2V4,-73.6024,45.5278,Plateau Mont-Royal West,1405
+1505771939,1670,apartment,1,0.0, '1 an',na,0.0,,1,,na,56,H3Z 1S2,-73.5885,45.4909,Westmount East,2841
+1505786930,1796,apartment,1,0.0, '1 an',june,0.0,660.0,0,1.0,na,55,H3G 1A4,-73.5853,45.5019,Downtown Montreal Southeast,2250
+1552598163,1385,apartment,1,0.0, '1 an',na,,,1,0.0,na,46,H3C 0R6,-73.5679,45.503,Griffintown (Includes Île Notre-Dame & Île Sainte-Hélène),2750
+1505824588,1346,apartment,1,0.0, '1 an',august,1.0,525.0,0,1.0,studio,60,H3G 1A4,-73.5853,45.5019,Downtown Montreal Southeast,2287
+1505786937,1150,apartment,1,0.0, '1 an',june,0.0,590.0,0,1.0,studio,51,H2X 3R4,-73.5739,45.5148,Plateau Mont-Royal Southeast,2163
+1568373137,1295,apartment,1,0.0, '1 an',july,0.0,1280.0,0,1.0,studio,63,H2Z 0A3,-73.5623,45.5066,Downtown Montreal Northeast,5398
+1505825486,1440,apartment,1,0.0, '1 an',na,0.0,,1,0.0,na,58,H3G 1A4,-73.5853,45.5019,Downtown Montreal Southeast,2240
+1505771957,2876,apartment,1,0.0, '1 an',na,0.0,,1,,na,60,H3G 1A3,-73.5853,45.5019,Downtown Montreal Southeast,2282
+1569841421,1250,apartment,1,0.0, 'Au mois',july,0.0,150.0,1,0.0,na,46,H2X 3R4,-73.5739,45.5148,Plateau Mont-Royal Southeast,2163
+1569840956,1825,apartment,1,0.0, '1 an',june,0.0,355.0,1,1.0,na,42,H3C 0R6,-73.5679,45.503,Griffintown (Includes Île Notre-Dame & Île Sainte-Hélène),2807
+1569846593,900,apartment,1,0.0, '1 an',july,1.0,1000.0,0,0.0,3 1/2,64,H1T 1X9,-73.5869,45.5653,Rosemont North,1234
+1569871892,925,apartment,1,0.0, '1 an',july,0.0,600.0,1,0.0,studio,53,H2L 4C1,-73.5744,45.5252,Centre-Sud South,438
+1567241891,980,apartment,1,0.0, '1 an',july,0.0,1250.0,0,0.0,na,49,H3W 1W6,-73.6442,45.4988,Côte-des-Neiges Southwest,201
+1549113770,1000,apartment,1,0.0, '1 an',july,0.0,800.0,0,1.0,3 1/2,40,H1W 3C9,-73.5616,45.5423,Hochelaga,596
+1569641453,2050,apartment,2,0.0, '1 an',july,1.0,950.0,0,0.0,na,63,H4A 2W9,-73.6252,45.4781,Notre-Dame-de-Grâce Northeast,315
+1567456005,1125,apartment,14,0.0, '1 an',june,0.0,1100.0,0,0.0,na,46,H2B 2R8,-73.647,45.5664,Ahuntsic North,1509
+1529772915,1200,apartment,23,0.0, '1 an',august,1.0,450.0,0,0.0,4 1/2,36,H4E 3H8,-73.5863,45.468,Ville Émard,1049
+1569871892,1400,apartment,1,0.0, '1 an',july,0.0,600.0,1,0.0,na,64,H8R 3C7,-73.6557,45.4473,Saint-Pierre,1405
+1569852227,899,apartment,1,0.0, '1 an',july,0.0,1600.0,1,0.0,na,58,H3E 1B5,-73.5457,45.4679,L'Île-Des-Soeurs,4753
+1569865312,1000,apartment,1,0.0, '1 an',july,0.0,150.0,1,0.0,3 1/2,40,H1W 3C9,-73.5616,45.5423,Hochelaga,596
+1569863421,2250,apartment,1,1.0, '1 an',july,0.0,870.0,0,0.0,na,62,H2L 2A8,-73.5744,45.5252,Centre-Sud South,263
+1569851624,990,apartment,1,1.0, '1 an',june,0.0,60.0,1,1.0,3 1/2,34,H2L 3Z1,-73.5744,45.5252,Centre-Sud South,804
+1569866240,995,apartment,1,0.0, '1 an',july,1.0,1.0,0,0.0,4 1/2,55,H1N 3A1,-73.5499,45.5719,Mercier Southeast,472
+1569874489,800,apartment,1,0.0, '1 an',july,0.0,780.0,0,1.0,2 1/2,28,H4N 1G4,-73.6807,45.5329,Saint-Laurent Outer Northeast,939
+1569873770,650,apartment,1,0.0, '1 an',july,0.0,800.0,0,0.0,studio,30,H8N 3B7,-73.6084,45.4551,LaSalle Northwest,235
+1569874319,1750,apartment,1,1.0, '1 an',june,0.0,1.0,1,0.0,na,17,H2K4E8,-73.5672,45.53,Centre-Sud North,265
+1569870464,1600,Room,1,1.0,,na,0.0,,0,0.0,4 1/2,60,H2J1Z2,-73.5928,45.5289,Plateau Mont-Royal North Central,804
+1569874202,695,apartment,1,0.0, '1 an',june,1.0,,1,1.0,na,61,J4K 3N8,-73.5246,45.5284,Longueuil Southwest,604
+1569874275,1600,Room,1,,,na,0.0,,0,0.0,condo,37,H2L 1M1,-73.5744,45.5252,Centre-Sud South,743
+1569873968,1650,Room,1,1.0,,na,0.0,,0,0.0,4 1/2,48,H2G 2N8,-73.6061,45.5434,Petite-Patrie Northeast,1002
+1545548889,585,apartment,1,0.0, '1 an',july,1.0,930.0,0,1.0,na,54,H2E 2A1,-73.6256,45.5522,Villeray Northeast,1614
+1523405224,1200,apartment,1,1.0, '1 an',december,1.0,1000.0,0,0.0,na,52,H2W 2M5,-73.5839,45.5194,Plateau Mont-Royal South Central,526
+1513481531,1970,apartment,1,1.0, '1 an',december,1.0,1500.0,0,0.0,condo,61,H8N 2S3,-73.6084,45.4551,LaSalle Northwest,1561
+1569873816,1375,apartment,1,0.0, '1 an',june,1.0,800.0,0,0.0,na,52,H4W 1T2,-73.6704,45.478,Côte-Saint-Luc West,1021
+1569873800,1875,apartment,1,0.0, '1 an',july,0.0,850.0,1,1.0,na,56,H4W 1T2,-73.6704,45.478,Côte-Saint-Luc West,1058
+1569873709,730,apartment,1,0.0, 'Au mois',june,0.0,700.0,1,0.0,4 1/2,32,H1G1T7,-73.6389,45.6061,Montreal North North,129
+1569873659,1500,apartment,1,0.0, '1 an',july,0.0,650.0,0,0.0,na,37,H2A 2G6,-73.6118,45.5583,Saint-Michel East,312
+1569873420,1150,Room,1,,,na,0.0,,0,0.0,na,63,H2N 1X5,-73.659,45.5402,Ahuntsic Southeast,1829
+1569873321,1295,Room,1,,,na,0.0,,0,0.0,na,64,H2J 1H9,-73.5928,45.5289,Plateau Mont-Royal North Central,438
+1569866818,550,apartment,1,0.0, '1 an',june,1.0,600.0,0,1.0,na,60,H2E 2A1,-73.6256,45.5522,Villeray Northeast,1642
+1528455387,805,apartment,1,0.0, '1 an',september,0.0,360.0,0,0.0,na,53,H3G 2H4,-73.5853,45.5019,Downtown Montreal Southeast,1158
+1505846076,1195,apartment,1,0.0, '1 an',august,0.0,876.0,0,1.0,2 1/2,64,H2K 2W2,-73.5672,45.53,Centre-Sud North,938
+1505846081,1035,apartment,1,0.0, '1 an',june,0.0,,0,0.0,studio,57,H3G 1C1,-73.5853,45.5019,Downtown Montreal Southeast,2404
+1569872948,1665,apartment,1,0.0, '1 an',july,1.0,600.0,0,0.0,4 1/2,62,H3G 1C1,-73.5853,45.5019,Downtown Montreal Southeast,2371
+1569872924,1166,Room,1,,,na,0.0,,0,0.0,3 1/2,63,H3G 1C1,-73.5853,45.5019,Downtown Montreal Southeast,2372
+1558719173,780,apartment,1,0.0, '1 an',july,1.0,800.0,0,0.0,na,56,H2K 2P4,-73.5672,45.53,Centre-Sud North,1512
+1569872833,500,Room,1,,,na,0.0,,0,0.0,na,51,H2T 2V9,-73.6024,45.5278,Plateau Mont-Royal West,1498
+1569872261,975,apartment,1,1.0, '1 an',june,0.0,750.0,0,0.0,na,64,H1W 1B9,-73.5616,45.5423,Hochelaga,1673
+1564564527,840,apartment,1,0.0, '1 an',july,1.0,800.0,0,0.0,na,34,H2K 3X3,-73.5672,45.53,Centre-Sud North,1820
+1569872554,1100,apartment,1,1.0, '1 an',july,1.0,2100.0,0,0.0,na,29,H8Y 3L3,-73.8162,45.5145,Roxboro,107
+1569872495,995,Room,1,,,na,0.0,,0,0.0,na,55,H1W 2V5,-73.5616,45.5423,Hochelaga,1920
+1569870392,1700,Room,1,,,na,0.0,,0,0.0,na,47,H1G 4N2,-73.6389,45.6061,Montreal North North,301
+1569871761,550,Room,1,,,na,0.0,,0,0.0,na,32,H2L3S9,-73.5744,45.5252,Centre-Sud South,1770
+1569871501,725,apartment,1,1.0, 'Au mois',june,0.0,750.0,0,0.0,na,48,H2L 3R4,-73.5744,45.5252,Centre-Sud South,2127
+1565001710,1000,apartment,1,0.0, '1 an',july,0.0,850.0,0,0.0,na,29,H8Y 3L3,-73.8162,45.5145,Roxboro,19
+1559066776,1000,apartment,1,1.0, '1 an',july,0.0,1030.0,0,1.0,na,29,H8Y 3L3,-73.8162,45.5145,Roxboro,19
+1565642186,825,apartment,4,0.0, '1 an',may,0.0,550.0,0,0.0,na,39,H3S 1S4,-73.6292,45.5155,Côte-des-Neiges North,187
+1569139400,1600,apartment,5,0.0, '1 an',july,1.0,675.0,0,1.0,condo,48,H4R 1Z5,-73.7309,45.5148,Saint-Laurent Central,1437
+1558712348,625,apartment,3,0.0, '1 an',june,1.0,700.0,0,0.0,studio,36,H4A1H9,-73.6252,45.4781,Notre-Dame-de-Grâce Northeast,1965
+1498791132,1700,apartment,21,0.0, '1 an',october,0.0,600.0,1,0.0,condo,64,H3C 0G3,-73.5679,45.503,Griffintown (Includes Île Notre-Dame & Île Sainte-Hélène),473
+1546759561,1290,apartment,1,0.0, '1 an',na,0.0,,1,0.0,4 1/2,61,H1Y 2V5,-73.598,45.5525,Rosemont South,1259
+1565001710,870,apartment,1,0.0, '1 an',july,0.0,850.0,0,0.0,3 1/2,64,H2B 1S5,-73.647,45.5664,Ahuntsic North,1213
+1559066776,1600,apartment,1,1.0, '1 an',july,0.0,1030.0,0,1.0,condo,44,H8N 2Z3,-73.6084,45.4551,LaSalle Northwest,3441
+1554722561,825,apartment,1,0.0, '1 an',july,0.0,1.0,0,1.0,na,39,H3S 1S4,-73.6292,45.5155,Côte-des-Neiges North,187
+1569871448,1600,Room,1,,,na,0.0,,0,0.0,condo,48,H4R 1Z5,-73.7309,45.5148,Saint-Laurent Central,1437
+1569871379,1450,apartment,1,1.0, '1 an',july,1.0,600.0,0,0.0,condo,63,H2G 1M3,-73.6061,45.5434,Petite-Patrie Northeast,2009
+1569870914,730,apartment,1,0.0, '1 an',july,1.0,1000.0,0,0.0,na,51,H2L 3R4,-73.5744,45.5252,Centre-Sud South,1905
+1569870807,650,apartment,1,1.0, '1 an',june,1.0,1700.0,1,1.0,3 1/2,9,H1E 1H3,-73.5729,45.6595,Rivière-Des-Prairies Southwest,606
+1569870762,1450,apartment,1,0.0, '1 an',april,1.0,410.0,1,0.0,na,23,H4L 4M6,-73.6974,45.5269,Saint-Laurent Inner Northeast,235
+1565374034,1950,apartment,1,1.0, '1 an',july,0.0,1000.0,0,0.0,na,59,H3X 2R4,-73.6483,45.4915,Hampstead,1003
+1569870699,900,apartment,1,1.0, '1 an',july,1.0,950.0,0,0.0,na,63,H1S 2P6,-73.5985,45.5716,Saint-Léonard Southeast,1112
+1569870680,1500,Room,1,,,na,0.0,,0,0.0,na,63,H3N1N9,-73.6464,45.5335,Parc-Extension,802
+1569870649,1130,Room,1,1.0,,na,0.0,,0,0.0,4 1/2,38,H3N 2M9,-73.6464,45.5335,Parc-Extension,362
+1569870568,1050,apartment,1,0.0, '1 an',june,1.0,540.0,0,0.0,na,63,H2L 3R4,-73.5744,45.5252,Centre-Sud South,1751
+1569870298,1500,apartment,1,0.0, '1 an',june,1.0,1234.0,0,1.0,na,54,H2X2J8,-73.5739,45.5148,Plateau Mont-Royal Southeast,365
+1569870193,1415,apartment,1,0.0, '1 an',july,0.0,300.0,0,0.0,na,61,H2X3P7,-73.5739,45.5148,Plateau Mont-Royal Southeast,358
+1569870160,1087,apartment,1,0.0, '1 an',july,1.0,550.0,0,0.0,na,58,H2X 2B1,-73.5739,45.5148,Plateau Mont-Royal Southeast,688
+1569870127,500,apartment,1,0.0, '1 an',july,0.0,900.0,0,1.0,studio,41,H8N2A8,-73.6084,45.4551,LaSalle Northwest,205
+1569869859,881,Room,1,,,na,0.0,,0,0.0,studio,60,H3H 2J7,-73.5967,45.5123,Downtown Montreal South & West,2626
+1569869797,1715,apartment,1,0.0, '1 an',july,1.0,1100.0,1,0.0,na,59,H2V 1L7,-73.6153,45.5298,Outremont,3199
+1569869443,680,apartment,1,0.0, '1 an',july,1.0,650.0,0,1.0,na,61,H2T 1T5,-73.6024,45.5278,Plateau Mont-Royal West,1425
+1569869226,1199,Room,1,,,na,0.0,,0,0.0,na,58,H4A 3C4,-73.6252,45.4781,Notre-Dame-de-Grâce Northeast,796
+1569869180,1087,Room,1,,,na,0.0,,0,0.0,na,59,H3H 2M1,-73.5967,45.5123,Downtown Montreal South & West,3388
+1569869161,1150,apartment,1,1.0, '1 an',july,1.0,800.0,0,1.0,studio,51,H2L 1C2,-73.5744,45.5252,Centre-Sud South,1071
+1569869116,470,apartment,1,0.0, '1 an',june,0.0,570.0,0,0.0,na,40,H2A1W7,-73.6118,45.5583,Saint-Michel East,818
+1569868484,1975,Room,1,,,na,0.0,,0,0.0,condo,55,H4C 2M2,-73.5922,45.478,Saint-Henri,720
+1569868456,1100,apartment,1,0.0, '1 an',july,0.0,50.0,0,0.0,3 1/2,63,H1Y2A5,-73.598,45.5525,Rosemont South,1059
+1568637078,595,apartment,1,0.0, '1 an',october,1.0,850.0,0,0.0,na,31,H4A 2X8,-73.6252,45.4781,Notre-Dame-de-Grâce Northeast,540
+1531142131,1200,apartment,1,0.0, '1 an',october,1.0,557.0,0,1.0,4 1/2,23,H3W 1N3,-73.6442,45.4988,Côte-des-Neiges Southwest,531
+1560787863,1400,apartment,1,0.0, '1 an',july,1.0,,0,1.0,na,49,,-1.0,-1.0,-1,1017
+1516530278,1410,apartment,1,0.0, '1 an',na,,,1,0.0,3 1/2,62,H3G 0E4,-73.5853,45.5019,Downtown Montreal Southeast,2589
+1560871978,1200,apartment,1,0.0, '1 an',july,1.0,,0,1.0,studio,43,H3C 0Y4,-73.5679,45.503,Griffintown (Includes Île Notre-Dame & Île Sainte-Hélène),1777
+1560871988,1300,apartment,1,0.0, '1 an',july,1.0,,0,1.0,studio,51,H3G 0E4,-73.5853,45.5019,Downtown Montreal Southeast,2589
+1538719666,1525,apartment,1,0.0, '1 an',na,,,1,0.0,na,58,H3C 0Y4,-73.5679,45.503,Griffintown (Includes Île Notre-Dame & Île Sainte-Hélène),1777
+1538719696,2300,apartment,1,0.0, '1 an',na,,,1,0.0,na,62,H3C 0Y4,-73.5679,45.503,Griffintown (Includes Île Notre-Dame & Île Sainte-Hélène),1777
+1569868156,1705,apartment,1,0.0, '1 an',june,0.0,600.0,0,0.0,4 1/2,59,H3J 2Z7,-73.5725,45.4922,Petite-Bourgogne,2336
+1569867935,1495,apartment,1,0.0, 'Au mois',july,1.0,645.0,0,0.0,3 1/2,59,H3J 2Z7,-73.5725,45.4922,Petite-Bourgogne,2322
+1569867833,900,Room,1,,,na,0.0,,0,0.0,na,64,H4V 2K7,-73.6555,45.4755,Côte-Saint-Luc East,743
+1565013917,618,apartment,1,1.0, '1 an',may,1.0,2000.0,0,1.0,3 1/2,57,H8R 2A6,-73.6557,45.4473,Saint-Pierre,422
+1568550253,1600,apartment,3,0.0, '1 an',may,1.0,1000.0,0,1.0,na,63,H3H 2G2,-73.5967,45.5123,Downtown Montreal South & West,2474
+1567092251,3200,apartment,17,0.0, '1 an',july,1.0,900.0,0,1.0,condo,59,H2P 2G8,-73.6418,45.5409,Villeray West,651
+1505844983,2895,apartment,2,0.0, '1 an',na,0.0,,0,,na,64,H3G 1X7,-73.5853,45.5019,Downtown Montreal Southeast,1173
+1568087423,1695,apartment,8,0.0, '1 an',na,0.0,,1,0.0,4 1/2,48,H3K 1J7,-73.564,45.4858,Pointe-Saint-Charles,231
+1569867468,925,apartment,1,0.0, '1 an',june,1.0,700.0,0,0.0,na,50,H4N 1P1,-73.6807,45.5329,Saint-Laurent Outer Northeast,284
+1569867387,1400,Room,1,,,na,0.0,,0,0.0,na,62,H4V 1J4,-73.6555,45.4755,Côte-Saint-Luc East,870
+1521467838,895,apartment,1,0.0, '1 an',july,0.0,,0,1.0,3 1/2,30,H2K3H4,-73.5672,45.53,Centre-Sud North,1379
+1569867169,1350,apartment,1,0.0, '1 an',july,1.0,1050.0,0,0.0,na,54,H3H 2G2,-73.5967,45.5123,Downtown Montreal South & West,2392
+1552949077,1750,apartment,1,1.0, '1 an',september,1.0,770.0,1,1.0,na,54,H3P 1A5,-73.653,45.5209,Mount Royal North,790
+1505828706,1250,apartment,1,0.0, '1 an',june,0.0,,0,0.0,na,54,,-1.0,-1.0,-1,861
+1557042884,1750,apartment,1,0.0, '1 an',july,0.0,,0,0.0,na,59,H2X1X9,-73.5739,45.5148,Plateau Mont-Royal Southeast,242
+1557442218,1195,apartment,1,0.0, '1 an',june,0.0,,0,1.0,na,39,H3P 1A5,-73.653,45.5209,Mount Royal North,1215
+1563324363,1295,apartment,1,0.0, '1 an',august,0.0,,0,0.0,na,42,H3P 1A5,-73.653,45.5209,Mount Royal North,965
+1565191120,1195,apartment,1,0.0, '1 an',july,0.0,,0,0.0,na,44,H3P 1A5,-73.653,45.5209,Mount Royal North,527
+1569866978,995,apartment,1,0.0, '1 an',july,0.0,600.0,1,0.0,na,49,H3P 1A5,-73.653,45.5209,Mount Royal North,556
+1505791637,1295,apartment,1,, 'Non disponible',na,0.0,,0,0.0,na,42,H3X 1Z8,-73.6483,45.4915,Hampstead,287
+1569855813,850,apartment,1,0.0, '1 an',july,0.0,,0,0.0,na,35,H3N 2P3,-73.6464,45.5335,Parc-Extension,652
+1505771439,1085,apartment,1,, 'Non disponible',na,0.0,,0,0.0,3 1/2,58,H2E 1X9,-73.6256,45.5522,Villeray Northeast,772
+1505780929,1590,apartment,1,, 'Non disponible',na,0.0,,0,0.0,na,40,H9R 1E8,-73.8207,45.4748,Pointe-Claire,4486
+1569866808,1475,Room,1,,,na,0.0,,0,0.0,na,41,H9R 1E8,-73.8207,45.4748,Pointe-Claire,4486
+1569866503,1700,apartment,1,0.0, '1 an',july,0.0,2000.0,0,0.0,4 1/2,35,H3Y 2B2,-73.618,45.489,Westmount West,1529
+1569866361,540,Room,1,,,na,0.0,,0,0.0,na,53,H2J 1L6,-73.5928,45.5289,Plateau Mont-Royal North Central,1627
+1569866343,2795,apartment,1,0.0, '1 an',july,0.0,750.0,0,0.0,na,46,H2L 1L5,-73.5744,45.5252,Centre-Sud South,406
+1564734957,425,Room,1,,,na,0.0,,0,0.0,na,50,J4T 1V8,-73.4481,45.4966,Saint-Hubert West,1388
+1545547605,1180,apartment,1,0.0, '1 an',july,1.0,563.0,0,1.0,4 1/2,35,H3S 1E1,-73.6292,45.5155,Côte-des-Neiges North,672
+1569864993,540,apartment,1,0.0, '1 an',july,0.0,450.0,0,0.0,na,47,H2A 2T5,-73.6118,45.5583,Saint-Michel East,996
+1569863379,1300,apartment,1,1.0, '1 an',july,0.0,900.0,0,0.0,condo,63,H8N 2S3,-73.6084,45.4551,LaSalle Northwest,1466
+1569866149,650,apartment,1,0.0, '1 an',june,1.0,800.0,0,0.0,na,37,H3N 1M7,-73.6464,45.5335,Parc-Extension,1280
+1569866130,1300,Room,1,,,na,0.0,,0,0.0,na,63,H3K 2R2,-73.564,45.4858,Pointe-Saint-Charles,50
+1569866008,1300,apartment,1,0.0, 'Au mois',july,0.0,230.0,1,0.0,4 1/2,35,H4V 2N9,-73.6555,45.4755,Côte-Saint-Luc East,198
+1569855255,540,apartment,1,0.0, '1 an',april,1.0,,0,0.0,na,54,H3S 1K1,-73.6292,45.5155,Côte-des-Neiges North,1302
+1569865838,700,apartment,1,0.0, '1 an',july,0.0,1.0,0,1.0,studio,42,H2K 4A1,-73.5672,45.53,Centre-Sud North,579
+1569865720,2083,Room,1,,,na,0.0,,0,0.0,na,64,H1V 3G9,-73.551,45.5702,Maisonneuve,727
+1559939455,970,apartment,1,0.0, '1 an',july,0.0,625.0,1,0.0,4 1/2,23,H1X1M1,-73.5935,45.5577,Rosemont Central,412
+1569865550,600,Room,1,,,na,0.0,,0,0.0,na,52,,-1.0,-1.0,-1,2987
+1569865136,1265,apartment,1,0.0, '1 an',july,0.0,500.0,0,0.0,3 1/2,46,H2J3W6,-73.5928,45.5289,Plateau Mont-Royal North Central,1465
+1569865128,525,Room,1,,,na,0.0,,0,0.0,na,63,H2T 1R5,-73.6024,45.5278,Plateau Mont-Royal West,1343
+1569865102,865,Room,1,,,na,0.0,,0,0.0,4 1/2,62,H2M 1R1,-73.6515,45.55,Ahuntsic East,350
+1569864832,680,Room,1,,,na,0.0,,0,0.0,na,19,H2J 1J8,-73.5928,45.5289,Plateau Mont-Royal North Central,744
+1569863749,760,apartment,1,0.0, '1 an',july,1.0,700.0,0,0.0,na,53,H2J 1L3,-73.5928,45.5289,Plateau Mont-Royal North Central,1463
+1569864635,450,apartment,1,0.0, '1 an',july,0.0,1.0,0,0.0,na,27,H4E 1N2,-73.5863,45.468,Ville Émard,165
+1569864631,925,apartment,1,0.0, '1 an',july,0.0,500.0,0,0.0,na,60,H1T 1W6,-73.5869,45.5653,Rosemont North,1659
+1569864565,850,Room,1,,,na,0.0,,0,0.0,3 1/2,53,H2B 2A2,-73.647,45.5664,Ahuntsic North,161
+1569080939,685,apartment,5,1.0, '1 an',july,0.0,1300.0,0,0.0,2 1/2,31,H4A 2K5,-73.6252,45.4781,Notre-Dame-de-Grâce Northeast,349
+1512462938,760,apartment,1,0.0, '1 an',na,0.0,,0,,na,56,H2J 1L3,-73.5928,45.5289,Plateau Mont-Royal North Central,1080
+1513481531,1150,apartment,1,1.0, '1 an',december,1.0,1500.0,0,0.0,4 1/2,62,H1M 1S7,-73.5559,45.5902,Mercier West,3117
+1553940613,1500,apartment,1,0.0, '1 an',july,1.0,750.0,0,0.0,na,50,H1R 1X2,-73.6229,45.5844,Saint-Léonard West,516
+1569864459,850,apartment,1,0.0, '1 an',september,0.0,900.0,0,0.0,studio,64,H3H 1T6,-73.5967,45.5123,Downtown Montreal South & West,2196
+1569864335,1875,apartment,1,0.0, '1 an',june,1.0,1.0,0,0.0,na,56,H4W 1T2,-73.6704,45.478,Côte-Saint-Luc West,1058
+1569864270,1250,apartment,1,0.0, '1 an',july,1.0,1.0,0,0.0,4 1/2,53,H2L 2M5,-73.5744,45.5252,Centre-Sud South,547
+1569864196,850,apartment,1,0.0, '1 an',september,1.0,900.0,0,0.0,4 1/2,63,H2A 2B8,-73.6118,45.5583,Saint-Michel East,775
+1569864186,1200,Room,1,,,na,0.0,,0,0.0,na,56,,-1.0,-1.0,-1,774
+1569864094,1250,apartment,1,0.0, '1 an',august,0.0,950.0,0,0.0,na,25,H4G 1K2,-73.5798,45.4644,Verdun North,143
+1569863838,1300,Room,1,,,na,0.0,,0,0.0,na,57,H2E 2M3,-73.6256,45.5522,Villeray Northeast,1408
+1569863674,2200,Room,1,1.0,,na,0.0,,0,0.0,na,57,H2J 1L3,-73.5928,45.5289,Plateau Mont-Royal North Central,1080
+1569863063,1200,apartment,1,0.0, '1 an',june,1.0,1000.0,0,0.0,na,53,H3S 2E8,-73.6292,45.5155,Côte-des-Neiges North,502
+1569859989,2400,apartment,1,0.0, '1 an',na,,,0,,na,57,H2J 1L3,-73.5928,45.5289,Plateau Mont-Royal North Central,1463
+1569857001,1700,apartment,1,0.0, '1 an',june,1.0,1000.0,0,1.0,condo,37,H2L 2E3,-73.5744,45.5252,Centre-Sud South,483
+1569860151,1350,apartment,1,0.0, '1 an',june,1.0,1100.0,0,0.0,condo,51,H1H 3Z3,-73.6524,45.5829,Montreal North South,1182
+1569858854,1800,apartment,1,0.0, '1 an',june,1.0,1250.0,0,0.0,na,62,H2K 2J7,-73.5672,45.53,Centre-Sud North,1620
+1483457704,1600,apartment,1,0.0, '1 an',june,1.0,1200.0,0,1.0,na,55,H2K 3P2,-73.5672,45.53,Centre-Sud North,1130
+1569863487,1700,Room,1,,,na,0.0,,0,0.0,na,49,H2J 1M7,-73.5928,45.5289,Plateau Mont-Royal North Central,939
+1569863463,1250,apartment,1,0.0, '1 an',june,1.0,900.0,0,1.0,4 1/2,61,H2K 3E5,-73.5672,45.53,Centre-Sud North,1087
+1569863335,650,Room,1,1.0,,na,0.0,,0,0.0,na,27,H2G 2V6,-73.6061,45.5434,Petite-Patrie Northeast,51
+1569861441,1100,Room,1,0.0,,na,0.0,,0,0.0,4 1/2,34,H8R1T4,-73.6557,45.4473,Saint-Pierre,839
+1569862430,870,apartment,1,0.0, '1 an',june,1.0,,0,1.0,na,60,H3S 2E8,-73.6292,45.5155,Côte-des-Neiges North,369
+1569860794,1630,apartment,1,0.0, '1 an',june,1.0,900.0,0,0.0,na,48,H2W 1J9,-73.5839,45.5194,Plateau Mont-Royal South Central,757
+1569862191,1250,apartment,1,0.0, '1 an',july,1.0,1.0,0,0.0,2 1/2,57,H2W 1S6,-73.5839,45.5194,Plateau Mont-Royal South Central,982
+1505786059,1265,apartment,1,0.0, '1 an',january,1.0,626.0,0,1.0,3 1/2,62,H2L 2H5,-73.5744,45.5252,Centre-Sud South,1262
+1505786052,700,apartment,1,0.0, '1 an',july,1.0,472.0,0,1.0,na,63,H2K4A1,-73.5672,45.53,Centre-Sud North,1652
+1505786055,1250,apartment,1,0.0, '1 an',october,1.0,956.0,0,1.0,na,25,H4G1K2,-73.5798,45.4644,Verdun North,168
+1505786049,1815,apartment,1,0.0, '1 an',july,1.0,472.0,0,1.0,3 1/2,58,H3C 2G6,-73.5679,45.503,Griffintown (Includes Île Notre-Dame & Île Sainte-Hélène),3674
+1569862049,1605,Room,1,,,na,0.0,,0,0.0,3 1/2,60,H3C 2G6,-73.5679,45.503,Griffintown (Includes Île Notre-Dame & Île Sainte-Hélène),3674
+1569862002,2435,apartment,1,0.0, '1 an',july,0.0,1200.0,0,0.0,4 1/2,54,H3C 2G6,-73.5679,45.503,Griffintown (Includes Île Notre-Dame & Île Sainte-Hélène),3757
+1569861950,1605,apartment,1,2.0, '1 an',june,1.0,669.0,1,1.0,studio,57,H3C 2G6,-73.5679,45.503,Griffintown (Includes Île Notre-Dame & Île Sainte-Hélène),3660
+1569861852,700,Room,1,0.0,,na,0.0,,0,0.0,na,59,H2K4A1,-73.5672,45.53,Centre-Sud North,1817
+1562168461,1350,apartment,1,0.0, '1 an',july,0.0,1300.0,1,0.0,na,36,H2H2M2,-73.5837,45.5377,Plateau Mont-Royal North,251
+1562165139,1400,apartment,1,0.0, '1 an',june,0.0,900.0,0,1.0,3 1/2,40,H4C 1S9,-73.5922,45.478,Saint-Henri,3047
+1569860042,1850,apartment,1,0.0, '1 an',na,,,0,,na,63,H2K 2H9,-73.5672,45.53,Centre-Sud North,254
+1569856551,1250,apartment,1,0.0, '1 an',june,1.0,,0,0.0,4 1/2,39,H1W 3B8,-73.5616,45.5423,Hochelaga,258
+1569858814,1645,apartment,1,0.0, '1 an',june,1.0,750.0,1,0.0,na,64,H3S 1R3,-73.6292,45.5155,Côte-des-Neiges North,443
+1569855254,1800,apartment,1,0.0, '1 an',may,1.0,,0,0.0,na,60,H2K 2J7,-73.5672,45.53,Centre-Sud North,1620
+1569548409,1650,apartment,1,1.0, '1 an',july,1.0,550.0,0,1.0,4 1/2,55,H4C 2P2,-73.5922,45.478,Saint-Henri,1182
+1505757496,950,apartment,1,0.0, '1 an',na,0.0,,1,0.0,3 1/2,45,H2G 2W8,-73.6061,45.5434,Petite-Patrie Northeast,978
+1505830104,2083,apartment,1,0.0, '1 an',na,0.0,,0,,na,61,H1V 3G9,-73.551,45.5702,Maisonneuve,688
+1569080939,1400,apartment,5,1.0, '1 an',july,0.0,1300.0,0,0.0,condo,64,,-1.0,-1.0,-1,302
+1567840899,1900,apartment,1,0.0, '1 an',june,1.0,1.0,0,0.0,na,59,H3W 1J4,-73.6442,45.4988,Côte-des-Neiges Southwest,530
+1565674822,1575,apartment,1,0.0, '1 an',august,1.0,850.0,0,0.0,4 1/2,57,H3H 1T6,-73.5967,45.5123,Downtown Montreal South & West,2135
+1569548409,1500,apartment,1,1.0, '1 an',july,1.0,550.0,0,1.0,na,50,H1R 1X2,-73.6229,45.5844,Saint-Léonard West,516
+1569861494,775,Room,1,1.0,,na,0.0,,0,0.0,3 1/2,43,H1X1C7,-73.5935,45.5577,Rosemont Central,678
+1569861382,950,Room,1,,,na,0.0,,0,0.0,na,23,H4J 1E7,-73.7231,45.5353,Cartierville Central,536
+1569861236,1400,apartment,1,2.0, '1 an',june,0.0,7500.0,0,1.0,condo,64,,-1.0,-1.0,-1,302
+1569858536,900,apartment,1,, '1 an',july,0.0,1200.0,0,0.0,na,58,H1S 2P6,-73.5985,45.5716,Saint-Léonard Southeast,1116
+1569860789,389,apartment,1,0.0, '1 an',july,1.0,450.0,1,0.0,na,48,H4J 2P1,-73.7231,45.5353,Cartierville Central,454
+1569860694,2200,apartment,1,1.0, 'Au mois',july,1.0,900.0,0,0.0,na,35,H4J1Y6,-73.7231,45.5353,Cartierville Central,823
+1569857387,1380,apartment,1,0.0, '1 an',june,1.0,900.0,0,0.0,na,12,H1K2P4,-73.5428,45.6077,Anjou East,676
+1569857220,975,apartment,1,0.0, '1 an',june,1.0,800.0,0,0.0,3 1/2,56,H3X 1V6,-73.6483,45.4915,Hampstead,229
+1569858521,1550,apartment,1,0.0, '1 an',june,1.0,500.0,0,0.0,4 1/2,11,H5A 1E4,-73.5679,45.503,Place Bonaventure,615
+1569858063,1500,apartment,1,0.0, '1 an',june,1.0,,0,0.0,3 1/2,46,H2J 1M9,-73.5928,45.5289,Plateau Mont-Royal North Central,1240
+1569860165,1200,apartment,1,0.0, '1 an',august,0.0,1000.0,0,0.0,4 1/2,42,H2M 2L3,-73.6515,45.55,Ahuntsic East,937
+1569859922,1300,apartment,1,0.0, '1 an',july,1.0,450.0,1,0.0,3 1/2,42,H2H 1A6,-73.5837,45.5377,Plateau Mont-Royal North,922
+1569859895,1450,apartment,1,0.0, '1 an',june,0.0,950.0,0,0.0,na,41,H4X 1M8,-73.6649,45.4575,Montreal West,711
+1569859742,1800,apartment,1,0.0, '1 an',july,1.0,650.0,0,0.0,na,29,H1T 3J4,-73.5869,45.5653,Rosemont North,345
+1569854149,975,apartment,1,0.0, '1 an',june,0.0,,0,0.0,3 1/2,64,H3X 1V6,-73.6483,45.4915,Hampstead,229
+1569859255,945,apartment,1,0.0, '1 an',july,1.0,940.0,0,0.0,4 1/2,41,H1N 2Z6,-73.5499,45.5719,Mercier Southeast,381
+1568845572,820,apartment,1,0.0, '1 an',july,0.0,800.0,0,0.0,3 1/2,42,H1B 2M7,-73.5502,45.6454,Montreal East,234
+1569859131,850,apartment,1,1.0, '1 an',july,1.0,850.0,0,0.0,studio,46,H2W 1T5,-73.5839,45.5194,Plateau Mont-Royal South Central,1751
+1569859114,1515,Room,1,,,na,0.0,,0,0.0,na,24,H2J2P9,-73.5928,45.5289,Plateau Mont-Royal North Central,270
+1553967169,995,apartment,1,0.0, '1 an',october,0.0,900.0,0,0.0,4 1/2,40,H3N 2H2,-73.6464,45.5335,Parc-Extension,1755
+1524310923,975,apartment,1,0.0, '1 an',october,0.0,420.0,0,1.0,4 1/2,57,H3X 2Y2,-73.6483,45.4915,Hampstead,242
+1569859064,1526,apartment,1,0.0, '1 an',july,0.0,905.0,0,0.0,na,59,H3H 1Y3,-73.5967,45.5123,Downtown Montreal South & West,868
+1569859042,1076,apartment,1,0.0, '1 an',july,1.0,1.0,0,0.0,studio,57,H3H 1Y3,-73.5967,45.5123,Downtown Montreal South & West,1034
+1553657134,1238,apartment,1,0.0, '1 an',april,0.0,300.0,0,0.0,na,60,H3H 1Y3,-73.5967,45.5123,Downtown Montreal South & West,1360
+1540155614,1000,apartment,1,0.0, '1 an',na,0.0,,0,,3 1/2,39,H4A 3R5,-73.6252,45.4781,Notre-Dame-de-Grâce Northeast,1705
+1540155618,850,apartment,1,0.0, '1 an',na,0.0,,0,,4 1/2,22,H1Y 2J6,-73.598,45.5525,Rosemont South,311
+1540770789,875,apartment,1,0.0, '1 an',na,0.0,,0,,studio,47,H2J 3K9,-73.5928,45.5289,Plateau Mont-Royal North Central,553
+1540155619,999,apartment,1,0.0, '1 an',na,0.0,,0,,na,16,H3K 2X2,-73.564,45.4858,Pointe-Saint-Charles,213
+1540155617,869,apartment,1,0.0, '1 an',na,0.0,,0,,na,17,H4L 3N3,-73.6974,45.5269,Saint-Laurent Inner Northeast,243
+1569852101,699,apartment,1,0.0, '1 an',august,1.0,720.0,0,0.0,na,16,H4L 3N3,-73.6974,45.5269,Saint-Laurent Inner Northeast,243
+1566779065,1260,apartment,1,1.0, '1 an',july,1.0,1000.0,0,1.0,na,16,H4L 3N3,-73.6974,45.5269,Saint-Laurent Inner Northeast,243
+1492741172,825,Room,1,1.0,,na,0.0,,0,0.0,na,15,H4L 3N3,-73.6974,45.5269,Saint-Laurent Inner Northeast,243
+1565310166,1565,apartment,1,0.0, '1 an',july,0.0,1420.0,0,1.0,na,60,H4J 2M4,-73.7231,45.5353,Cartierville Central,4133
+1566423890,2375,apartment,1,2.0, '1 an',august,0.0,1800.0,0,1.0,condo,40,H3E 1Y1,-73.5457,45.4679,L'Île-Des-Soeurs,1072
+1569857629,2300,apartment,1,0.0, '1 an',july,1.0,720.0,0,0.0,na,52,H4A 3A2,-73.6252,45.4781,Notre-Dame-de-Grâce Northeast,1740
+1569857556,2980,apartment,1,1.0, '1 an',july,0.0,900.0,0,0.0,na,62,H4R 3B6,-73.7309,45.5148,Saint-Laurent Central,750
+1565838743,895,apartment,14,0.0, '1 an',july,1.0,700.0,1,0.0,studio,62,H2S 2E8,-73.6144,45.5356,Petite-Patrie Southwest,2252
+1554998717,1145,apartment,1,0.0, '1 an',march,0.0,1000.0,0,0.0,na,35,H2G 1Y6,-73.6061,45.5434,Petite-Patrie Northeast,847
+1505771636,1000,apartment,1,0.0, '1 an',april,0.0,,0,0.0,4 1/2,22,H1H 2A9,-73.6524,45.5829,Montreal North South,1011
+1505777134,940,apartment,2,0.0, '1 an',na,,,1,,3 1/2,29,H4B 2R3,-73.636,45.4681,Notre-Dame-de-Grâce Southwest,390
+1556964287,915,apartment,14,0.0, '1 an',na,0.0,,0,0.0,na,28,H4N 1L5,-73.6807,45.5329,Saint-Laurent Outer Northeast,1101
+1569857511,1395,Room,1,,,na,0.0,,0,0.0,4 1/2,64,H4N 1P2,-73.6807,45.5329,Saint-Laurent Outer Northeast,2461
+1569854153,1915,apartment,1,0.0, '1 an',july,0.0,,0,0.0,na,48,H3C 1V8,-73.5679,45.503,Griffintown (Includes Île Notre-Dame & Île Sainte-Hélène),3533
+1569857015,916,apartment,1,0.0, '1 an',july,1.0,,0,1.0,na,59,H2X 1X7,-73.5739,45.5148,Plateau Mont-Royal Southeast,1408
+1569855300,750,apartment,1,0.0, '1 an',may,1.0,,0,0.0,studio,42,H2W 1T5,-73.5839,45.5194,Plateau Mont-Royal South Central,1751
+1569856962,1300,apartment,1,0.0, '1 an',july,0.0,300.0,0,0.0,condo,64,H3C 1W9,-73.5679,45.503,Griffintown (Includes Île Notre-Dame & Île Sainte-Hélène),5033
+1569856953,1095,Room,1,,,na,0.0,,0,0.0,3 1/2,61,H2E 1X9,-73.6256,45.5522,Villeray Northeast,1224
+1569856947,2083,apartment,1,0.0, '1 an',june,0.0,570.0,0,0.0,na,64,H1V 3G9,-73.551,45.5702,Maisonneuve,727
+1569856834,600,Room,1,1.0,,na,0.0,,0,0.0,studio,12,H3N 1E4,-73.6464,45.5335,Parc-Extension,521
+1569856833,950,apartment,1,0.0, '1 an',july,1.0,1611.0,0,0.0,na,19,H2W 1E8,-73.5839,45.5194,Plateau Mont-Royal South Central,918
+1569856803,980,apartment,1,0.0, '1 an',july,0.0,1300.0,0,0.0,3 1/2,53,H2E 2C8,-73.6256,45.5522,Villeray Northeast,457
+1569856616,700,apartment,1,0.0, '1 an',july,0.0,850.0,0,0.0,3 1/2,13,H8N1S6,-73.6084,45.4551,LaSalle Northwest,250
+1569856590,500,Room,1,,,na,0.0,,0,0.0,na,33,H1H 3Y4,-73.6524,45.5829,Montreal North South,432
+1569856556,1600,apartment,1,0.0, '1 an',july,0.0,315.0,0,0.0,4 1/2,37,H1R 3T5,-73.6229,45.5844,Saint-Léonard West,992
+1569856390,1080,Room,1,,,na,0.0,,0,0.0,na,50,H3T 1K5,-73.616,45.5115,Côte-des-Neiges Northeast,391
+1569855824,480,apartment,1,0.0, '1 an',july,1.0,,0,0.0,na,49,H1X2M7,-73.5935,45.5577,Rosemont Central,573
+1569856265,660,apartment,1,0.0, '1 an',july,1.0,600.0,0,0.0,na,24,H2L 3W2,-73.5744,45.5252,Centre-Sud South,255
+1569855388,500,apartment,1,0.0, '1 an',june,1.0,,0,0.0,na,64,,-1.0,-1.0,-1,2537
+1569856185,1095,apartment,1,0.0, '1 an',july,1.0,1100.0,0,0.0,3 1/2,58,H2E 1X9,-73.6256,45.5522,Villeray Northeast,572
+1569856179,785,apartment,1,1.0, '1 an',july,0.0,1100.0,0,1.0,3 1/2,40,H1G2T4,-73.6389,45.6061,Montreal North North,97
+1569856103,1400,apartment,1,1.0, '1 an',june,1.0,992.0,0,1.0,na,36,H1T 3H3,-73.5869,45.5653,Rosemont North,712
+1569856017,1820,apartment,1,0.0, '1 an',july,0.0,612.0,0,0.0,na,20,H3T 1K3,-73.616,45.5115,Côte-des-Neiges Northeast,1253
+1569856015,1700,apartment,1,0.0, '1 an',july,0.0,850.0,0,0.0,na,32,H2E 2E8,-73.6256,45.5522,Villeray Northeast,735
+1569855935,1800,apartment,1,0.0, '1 an',july,1.0,1100.0,0,0.0,na,14,H1T2Y6,-73.5869,45.5653,Rosemont North,237
+1525749583,700,apartment,1,0.0, '1 an',april,0.0,280.0,1,0.0,3 1/2,27,H2K 2P4,-73.5672,45.53,Centre-Sud North,287
+1569855733,1350,Room,1,0.0,,na,0.0,,0,0.0,4 1/2,45,H3T 1E1,-73.616,45.5115,Côte-des-Neiges Northeast,1266
+1569855616,1095,Room,1,,,na,0.0,,0,0.0,na,52,H2G 2B2,-73.6061,45.5434,Petite-Patrie Northeast,845
+1559849424,820,apartment,1,0.0, '1 an',july,0.0,725.0,0,0.0,studio,14,H4C 2N7,-73.5922,45.478,Saint-Henri,303
+1567988808,800,apartment,1,0.0, '1 an',june,1.0,950.0,0,0.0,na,14,H2V 1L5,-73.6153,45.5298,Outremont,40
+1505777150,250,apartment,1,0.0, '1 an',na,0.0,,1,,na,60,H3S 1H3,-73.6292,45.5155,Côte-des-Neiges North,552
+1505777144,730,apartment,1,0.0, '1 an',na,0.0,,1,,3 1/2,38,H8R 3E1,-73.6557,45.4473,Saint-Pierre,542
+1505777142,1100,apartment,1,0.0, '1 an',na,0.0,,1,,na,12,H4G 3A2,-73.5798,45.4644,Verdun North,267
+1569854423,1550,apartment,1,0.0, '1 an',june,1.0,1000.0,0,0.0,na,47,H3C 1V8,-73.5679,45.503,Griffintown (Includes Île Notre-Dame & Île Sainte-Hélène),3705
+1569852086,3020,apartment,1,0.0, '1 an',august,1.0,1000.0,0,0.0,na,44,H3C 1V8,-73.5679,45.503,Griffintown (Includes Île Notre-Dame & Île Sainte-Hélène),3635
+1563407020,1325,apartment,1,0.0, '1 an',na,0.0,,0,0.0,studio,55,H3C 1V8,-73.5679,45.503,Griffintown (Includes Île Notre-Dame & Île Sainte-Hélène),3824
+1567987384,1150,apartment,1,0.0, '1 an',june,1.0,850.0,0,0.0,3 1/2,59,H2R 2E6,-73.6266,45.5452,Villeray Southeast,1469
+1569855191,1800,apartment,1,0.0, '1 an',july,1.0,810.0,0,1.0,na,54,H4J 2M4,-73.7231,45.5353,Cartierville Central,4133
+1563407340,1595,apartment,1,0.0, '1 an',na,0.0,,0,0.0,4 1/2,56,H2W 2A9,-73.5839,45.5194,Plateau Mont-Royal South Central,839
+1558473524,1050,apartment,1,0.0, '1 an',na,0.0,,0,0.0,4 1/2,12,H4G 2X3,-73.5798,45.4644,Verdun North,248
+1563406590,1630,apartment,1,0.0, 'Au mois',na,0.0,,1,0.0,condo,64,H2J 4B7,-73.5928,45.5289,Plateau Mont-Royal North Central,786
+1559775449,1095,apartment,2,0.0, '1 an',june,1.0,1442.0,0,1.0,3 1/2,64,H2P 1S3,-73.6418,45.5409,Villeray West,1639
+1561593580,1250,apartment,1,0.0, '1 an',april,0.0,500.0,0,0.0,4 1/2,63,H1X 1S1,-73.5935,45.5577,Rosemont Central,941
+1569495770,1095,apartment,3,0.0, '1 an',july,0.0,200.0,1,0.0,studio,60,H2W 2E7,-73.5839,45.5194,Plateau Mont-Royal South Central,666
+1568274107,1690,apartment,6,0.0, '1 an',july,0.0,500.0,1,0.0,na,54,H1V 2W4,-73.551,45.5702,Maisonneuve,1529
+1563406590,2900,apartment,1,0.0, 'Au mois',na,0.0,,1,0.0,na,41,H2W 2H5,-73.5839,45.5194,Plateau Mont-Royal South Central,1645
+1563406591,760,apartment,1,0.0, '1 an',na,0.0,,0,0.0,na,36,H1W 2M8,-73.5616,45.5423,Hochelaga,265
+1569854883,825,apartment,1,0.0, '1 an',july,0.0,300.0,0,1.0,studio,64,H2G 2X3,-73.6061,45.5434,Petite-Patrie Northeast,2109
+1569854598,1195,apartment,1,2.0, '1 an',june,0.0,800.0,0,0.0,studio,52,H2K 3Z3,-73.5672,45.53,Centre-Sud North,1315
+1569854484,1095,apartment,1,0.0, '1 an',june,1.0,1.0,0,0.0,studio,60,H2W 2E7,-73.5839,45.5194,Plateau Mont-Royal South Central,666
+1569854361,1495,apartment,1,0.0, '1 an',september,1.0,700.0,0,1.0,3 1/2,60,H2W 2E7,-73.5839,45.5194,Plateau Mont-Royal South Central,842
+1569854344,720,apartment,1,0.0, '1 an',july,0.0,200.0,0,0.0,na,36,H2M1S7,-73.6515,45.55,Ahuntsic East,191
+1569854120,1225,apartment,1,0.0, '1 an',july,1.0,1025.0,0,0.0,condo,64,H4G 1N5,-73.5798,45.4644,Verdun North,2895
+1569854003,900,Room,1,1.0,,na,0.0,,0,0.0,studio,49,H3W 2H8,-73.6442,45.4988,Côte-des-Neiges Southwest,986
+1559635015,1695,apartment,1,0.0, '1 an',july,0.0,1150.0,0,0.0,condo,51,H2S 3H3,-73.6144,45.5356,Petite-Patrie Southwest,1471
+1557458937,700,apartment,1,0.0, '1 an',july,0.0,1150.0,0,0.0,3 1/2,28,H4G 1V1,-73.5798,45.4644,Verdun North,43
+1540931401,1300,apartment,1,0.0, '1 an',august,0.0,,0,0.0,studio,63,H2R 2T2,-73.6266,45.5452,Villeray Southeast,1650
+1505846054,1450,apartment,1,0.0, '1 an',august,0.0,,0,0.0,na,38,H2B 2W3,-73.647,45.5664,Ahuntsic North,765
+1569853581,1450,apartment,1,0.0, '1 an',june,1.0,1.0,0,0.0,na,54,H2B 2W3,-73.647,45.5664,Ahuntsic North,628
+1559787967,870,apartment,1,1.0, '1 an',july,0.0,923.0,0,1.0,na,37,H3M 3B3,-73.6979,45.5459,Cartierville Northeast,759
+1535709014,1375,apartment,1,0.0, '1 an',july,1.0,800.0,0,0.0,3 1/2,52,H2V 2V3,-73.6153,45.5298,Outremont,839
+1546907286,1695,apartment,1,0.0, '1 an',april,1.0,750.0,0,0.0,na,57,H2V 2V3,-73.6153,45.5298,Outremont,618
+0,975,,1,,,na,0.0,,0,0.0,na,59,H3W 2H8,-73.6442,45.4988,Côte-des-Neiges Southwest,956
+0,1850,,1,,,na,0.0,,0,0.0,condo,56,H4P 1B2,-73.6722,45.4991,Mount Royal South,809
+0,1129,,1,,,na,0.0,,0,0.0,na,58,H3E 1B5,-73.5457,45.4679,L'Île-Des-Soeurs,4753
+0,1299,,1,,,na,0.0,,0,0.0,na,48,H3E 1G1,-73.5457,45.4679,L'Île-Des-Soeurs,4850
+1537921837,1749,apartment,1,0.0, '1 an',july,1.0,1050.0,0,0.0,na,59,H3E 1E5,-73.5457,45.4679,L'Île-Des-Soeurs,5465
+1520363948,1199,apartment,1,0.0, '1 an',april,1.0,770.0,0,0.0,na,58,H3E 1B8,-73.5457,45.4679,L'Île-Des-Soeurs,4747
+1568548528,1199,apartment,1,0.0, '1 an',july,1.0,630.0,0,0.0,na,52,H3E 1H2,-73.5457,45.4679,L'Île-Des-Soeurs,4928
+1505846093,1775,apartment,1,0.0, '1 an',na,0.0,,0,0.0,na,52,H3V 1C8,-73.6177,45.4965,Côte-des-Neiges East,1589
+1505846100,1015,apartment,1,0.0, '1 an',na,0.0,,0,0.0,3 1/2,51,H3V 1C8,-73.6177,45.4965,Côte-des-Neiges East,1701
+1505846102,1499,apartment,1,0.0, '1 an',na,0.0,,0,0.0,4 1/2,52,H3V 1C8,-73.6177,45.4965,Côte-des-Neiges East,1689
+1569853211,1050,apartment,1,0.0, '1 an',june,0.0,680.0,0,0.0,na,37,H3M 3B3,-73.6979,45.5459,Cartierville Northeast,759
+1569852398,1475,apartment,1,0.0, '1 an',july,1.0,,0,1.0,na,61,H3C 0G1,-73.5679,45.503,Griffintown (Includes Île Notre-Dame & Île Sainte-Hélène),496
+1569843182,2145,apartment,1,0.0, '1 an',june,1.0,700.0,0,0.0,condo,54,H2H 1A6,-73.5837,45.5377,Plateau Mont-Royal North,1112
+1569849912,1350,apartment,1,0.0, '1 an',june,1.0,800.0,1,1.0,3 1/2,57,H3H 1N5,-73.5967,45.5123,Downtown Montreal South & West,884
+1569845910,1295,apartment,1,0.0, '1 an',june,1.0,1000.0,0,0.0,4 1/2,60,H2K 3E5,-73.5672,45.53,Centre-Sud North,478
+1569852056,1135,apartment,1,0.0, '1 an',august,1.0,600.0,0,0.0,na,61,H4J 2M4,-73.7231,45.5353,Cartierville Central,4133
+1569852085,990,apartment,1,0.0, '1 an',august,0.0,,0,0.0,na,44,H4J 2M4,-73.7231,45.5353,Cartierville Central,4133
+1505846065,2725,apartment,1,1.0, '1 an',august,0.0,1400.0,0,1.0,na,55,H3W 2H1,-73.6442,45.4988,Côte-des-Neiges Southwest,554
+1561044862,2995,apartment,1,1.0, '1 an',august,0.0,18001.0,0,0.0,na,54,H3W 2H1,-73.6442,45.4988,Côte-des-Neiges Southwest,153
+1553967192,2125,apartment,1,1.0, '1 an',august,0.0,1300.0,0,1.0,na,62,H3W 2H1,-73.6442,45.4988,Côte-des-Neiges Southwest,1550
+1506847165,1295,apartment,1,0.0, '1 an',september,0.0,590.0,0,0.0,na,38,H3W 2H1,-73.6442,45.4988,Côte-des-Neiges Southwest,571
+1567299480,1395,apartment,1,0.0, '1 an',july,0.0,700.0,1,0.0,na,47,H2T 1P5,-73.6024,45.5278,Plateau Mont-Royal West,1422
+1569852972,1550,apartment,1,1.0, '1 an',july,1.0,1100.0,0,0.0,na,32,H9C1T3,-73.9012,45.5141,L'Île Bizard Northeast,261
+1569852916,3100,apartment,1,1.0, '1 an',june,1.0,1300.0,0,1.0,na,56,H3Z2E7,-73.5885,45.4909,Westmount East,635
+1569852795,995,apartment,1,0.0, '1 an',july,1.0,800.0,0,0.0,na,50,H4J2G6,-73.7231,45.5353,Cartierville Central,1565
+1559155401,1495,apartment,5,0.0, '1 an',june,0.0,900.0,0,0.0,4 1/2,48,H2J 3J6,-73.5928,45.5289,Plateau Mont-Royal North Central,589
+1569575984,1475,apartment,1,0.0, '1 an',july,1.0,1100.0,1,0.0,na,26,H3N 1S8,-73.6464,45.5335,Parc-Extension,1072
+1568304226,1128,apartment,10,1.0, '1 an',july,1.0,900.0,0,0.0,4 1/2,17,H4A 3H3,-73.6252,45.4781,Notre-Dame-de-Grâce Northeast,189
+1544404778,1250,apartment,18,0.0, '1 an',january,0.0,500.0,1,1.0,3 1/2,55,H1V 2L9,-73.551,45.5702,Maisonneuve,1102
+1529772915,899,apartment,23,0.0, '1 an',august,1.0,450.0,0,0.0,na,58,H3E 1B5,-73.5457,45.4679,L'Île-Des-Soeurs,4753
+1569852578,500,Room,1,,,na,0.0,,0,0.0,na,41,H2M1Y3,-73.6515,45.55,Ahuntsic East,2466
+1569852361,380,Room,1,,,na,0.0,,0,0.0,na,29,H1W3L2,-73.5616,45.5423,Hochelaga,630
+1569852328,2500,apartment,1,1.0, '1 an',july,1.0,1023.0,0,1.0,na,63,H3C 1X6,-73.5679,45.503,Griffintown (Includes Île Notre-Dame & Île Sainte-Hélène),983
+1569852300,1200,apartment,1,0.0, '1 an',july,0.0,350.0,1,0.0,na,47,H2R 2P6,-73.6266,45.5452,Villeray Southeast,140
+1569852266,925,apartment,1,0.0, '1 an',june,0.0,540.0,0,0.0,3 1/2,53,H2G 1E4,-73.6061,45.5434,Petite-Patrie Northeast,185
+1569852241,1250,apartment,1,0.0, '1 an',july,0.0,650.0,1,1.0,4 1/2,49,H2A 1X5,-73.6118,45.5583,Saint-Michel East,5741
+1569850593,833,apartment,1,0.0, '1 an',na,0.0,,0,,studio,59,H2K 2H7,-73.5672,45.53,Centre-Sud North,2043
+1569849864,1750,apartment,1,0.0, '1 an',june,1.0,1100.0,0,0.0,na,42,H1X 2G1,-73.5935,45.5577,Rosemont Central,1342
+1569850203,1450,apartment,1,0.0, '1 an',june,1.0,1700.0,0,0.0,na,49,H2M 1Y5,-73.6515,45.55,Ahuntsic East,1091
+1569851320,1250,apartment,1,0.0, '1 an',june,1.0,700.0,0,0.0,4 1/2,53,H2K 1B8,-73.5672,45.53,Centre-Sud North,1052
+1569852054,915,apartment,1,0.0, '1 an',july,0.0,1200.0,0,0.0,4 1/2,35,H1G 4L5,-73.6389,45.6061,Montreal North North,646
+1569851993,425,Room,1,,,na,0.0,,0,0.0,na,63,H1N 2R3,-73.5499,45.5719,Mercier Southeast,852
+1568549337,1025,apartment,1,0.0, '1 an',july,0.0,,1,0.0,na,39,H1W 3P5,-73.5616,45.5423,Hochelaga,506
+1565898716,710,apartment,1,0.0, '1 an',na,0.0,,0,0.0,2 1/2,43,H1V 1Z4,-73.551,45.5702,Maisonneuve,544
+1567346029,995,apartment,1,0.0, '1 an',july,1.0,,1,0.0,4 1/2,31,H1W 3P5,-73.5616,45.5423,Hochelaga,371
+1569851960,965,apartment,1,0.0, '1 an',july,1.0,600.0,0,0.0,4 1/2,18,H2G 1N4,-73.6061,45.5434,Petite-Patrie Northeast,205
+1569851864,1320,apartment,1,0.0, '1 an',june,0.0,450.0,1,1.0,condo,64,H2X 2R4,-73.5739,45.5148,Plateau Mont-Royal Southeast,3941
+1569851785,1650,apartment,1,0.0, '1 an',june,1.0,1000.0,0,0.0,na,19,H1W 3P4,-73.5616,45.5423,Hochelaga,51
+1569851765,995,apartment,1,0.0, '1 an',august,1.0,750.0,0,0.0,na,64,H2G 2A9,-73.6061,45.5434,Petite-Patrie Northeast,1068
+1569851751,1695,apartment,1,0.0, '1 an',july,1.0,800.0,0,1.0,condo,51,H2S 3A9,-73.6144,45.5356,Petite-Patrie Southwest,679
+1562061832,985,apartment,1,0.0, '1 an',july,1.0,,0,0.0,na,49,H3X 2B5,-73.6483,45.4915,Hampstead,1593
+1561528750,1025,apartment,1,0.0, '1 an',april,0.0,,0,0.0,na,52,H4P 1B2,-73.6722,45.4991,Mount Royal South,1153
+1561528936,1350,apartment,1,0.0, '1 an',na,0.0,,0,,na,64,H3R 1B3,-73.6545,45.5181,Mount Royal Central,1462
+1561528937,1900,apartment,1,0.0, '1 an',na,0.0,,0,,na,64,H3R 1B3,-73.6545,45.5181,Mount Royal Central,1460
+1557136173,795,apartment,1,0.0, '1 an',july,0.0,,0,0.0,2 1/2,47,H3Z 1V7,-73.5885,45.4909,Westmount East,1354
+1557310712,2150,apartment,1,0.0, '1 an',may,1.0,,0,0.0,na,58,H4A 2W2,-73.6252,45.4781,Notre-Dame-de-Grâce Northeast,1474
+1569579369,1675,apartment,1,1.0, '1 an',july,1.0,600.0,0,1.0,na,42,H3K 2H2,-73.564,45.4858,Pointe-Saint-Charles,1603
+1569851356,1320,apartment,1,0.0, '1 an',june,0.0,450.0,1,1.0,condo,64,H2X 2R4,-73.5739,45.5148,Plateau Mont-Royal Southeast,3941
+1569851292,1350,apartment,1,0.0, '1 an',july,0.0,650.0,1,1.0,4 1/2,48,H2A 1X5,-73.6118,45.5583,Saint-Michel East,6704
+1569851011,1500,apartment,1,0.0, '1 an',july,0.0,1000.0,0,0.0,na,46,H2E 2J4,-73.6256,45.5522,Villeray Northeast,342
+1569850224,1750,apartment,1,0.0, '1 an',june,1.0,1000.0,0,0.0,4 1/2,46,H2J 1M9,-73.5928,45.5289,Plateau Mont-Royal North Central,1288
+1569850920,500,Room,1,,,na,0.0,,0,0.0,na,36,H2K1X6,-73.5672,45.53,Centre-Sud North,927
+1569850635,2300,apartment,1,1.0, '1 an',august,1.0,1600.0,0,0.0,na,41,H3W 2M2,-73.6442,45.4988,Côte-des-Neiges Southwest,870
+1565553707,1995,apartment,1,0.0, '1 an',june,0.0,836.0,0,1.0,na,41,H3G 1W4,-73.5853,45.5019,Downtown Montreal Southeast,271
+1568826680,4500,apartment,1,, '1 an',july,1.0,2343.0,0,1.0,na,40,H3P 1C2,-73.653,45.5209,Mount Royal North,1424
+1567631083,2530,apartment,1,1.0, '1 an',may,1.0,1449.0,0,1.0,na,58,H4R 1K8,-73.7309,45.5148,Saint-Laurent Central,2732
+1563381618,1810,apartment,1,2.0, '1 an',july,1.0,1200.0,0,0.0,na,55,H1X 1M1,-73.5935,45.5577,Rosemont Central,266
+1568492838,1650,apartment,9,0.0, '1 an',july,0.0,2000.0,0,0.0,na,34,H4C 3E3,-73.5922,45.478,Saint-Henri,318
+1569630589,925,apartment,2,0.0, '1 an',july,0.0,800.0,0,0.0,na,19,H4H 1V2,-73.5818,45.4532,Verdun South,283
+1550238430,1320,apartment,3,0.0, '1 an',may,0.0,,1,0.0,studio,64,H2X 2T1,-73.5739,45.5148,Plateau Mont-Royal Southeast,808
+1552872360,1290,apartment,6,0.0, '1 an',july,1.0,900.0,0,0.0,na,40,H4A 3E6,-73.6252,45.4781,Notre-Dame-de-Grâce Northeast,221
+1567631083,2530,apartment,1,1.0, '1 an',may,1.0,1449.0,0,1.0,na,58,H4R 1K8,-73.7309,45.5148,Saint-Laurent Central,2732
+1568484512,4000,Room,1,,,na,0.0,,0,0.0,na,54,H9S 5H2,-73.7733,45.4409,L'Île-Dorval,539
+1569850346,895,apartment,1,0.0, '1 an',july,0.0,750.0,0,0.0,na,52,H2E 2J5,-73.6256,45.5522,Villeray Northeast,297
+1569843027,1150,apartment,1,0.0, '1 an',june,1.0,,0,0.0,3 1/2,54,H3X 3Z5,-73.6483,45.4915,Hampstead,1001
+1569849856,1300,apartment,1,0.0, '1 an',june,1.0,1000.0,0,0.0,4 1/2,41,H3W 1Y7,-73.6442,45.4988,Côte-des-Neiges Southwest,916
+1569849601,525,Room,1,,,na,0.0,,0,0.0,na,46,H2R 2E3,-73.6266,45.5452,Villeray Southeast,1810
+1569849324,530,Room,1,,,na,0.0,,0,0.0,na,64,H2M 1N6,-73.6515,45.55,Ahuntsic East,74
+1569849269,1000,apartment,1,0.0, '1 an',july,1.0,1.0,0,0.0,na,56,H2M 2T9,-73.6515,45.55,Ahuntsic East,330
+1569849180,1630,apartment,1,1.0, '1 an',july,1.0,1000.0,0,0.0,na,50,H4A 2N3,-73.6252,45.4781,Notre-Dame-de-Grâce Northeast,1093
+1569848877,1350,apartment,1,0.0, '1 an',july,1.0,760.0,0,0.0,condo,50,H1W 3G9,-73.5616,45.5423,Hochelaga,931
+1569848870,2100,apartment,1,1.0, '1 an',september,1.0,840.0,0,1.0,4 1/2,52,H3J 1S1,-73.5725,45.4922,Petite-Bourgogne,1475
+1569843798,1595,apartment,1,0.0, '1 an',june,1.0,850.0,0,1.0,condo,53,H4C 1W6,-73.5922,45.478,Saint-Henri,1205
+1569848712,450,Room,1,,,na,0.0,,0,0.0,na,18,H2S2S3,-73.6144,45.5356,Petite-Patrie Southwest,752
+1569848457,1190,apartment,1,0.0, '1 an',july,1.0,800.0,0,0.0,na,52,H2K 3T5,-73.5672,45.53,Centre-Sud North,797
+1569848247,950,apartment,1,0.0, '1 an',june,0.0,750.0,0,0.0,4 1/2,38,H1L 2L1,-73.5362,45.5943,Mercier North,1052
+1569848318,1500,apartment,1,0.0, '1 an',june,1.0,900.0,1,1.0,4 1/2,19,H2J 2L9,-73.5928,45.5289,Plateau Mont-Royal North Central,483
+1569848215,850,apartment,1,0.0, '1 an',july,1.0,800.0,0,0.0,4 1/2,42,H2G 2V1,-73.6061,45.5434,Petite-Patrie Northeast,513
+1569848158,1100,apartment,1,0.0, '1 an',july,0.0,775.0,0,0.0,4 1/2,53,H2R 2K6,-73.6266,45.5452,Villeray Southeast,141
+1569848144,500,Room,1,,,na,0.0,,0,0.0,na,61,,-1.0,-1.0,-1,322
+1569848136,755,apartment,1,1.0, '1 an',september,0.0,70.0,0,0.0,4 1/2,32,H3L 3L4,-73.6754,45.5529,Ahuntsic Southwest,294
+1569847789,1190,apartment,1,0.0, '1 an',june,0.0,500.0,0,0.0,na,22,H2R2E2,-73.6266,45.5452,Villeray Southeast,234
+1569847748,1900,apartment,1,1.0, '1 an',july,1.0,1050.0,1,1.0,na,59,H4G 2R2,-73.5798,45.4644,Verdun North,2246
+1569842303,2300,apartment,1,1.0, '1 an',july,1.0,990.0,0,1.0,4 1/2,31,H2V 3A3,-73.6153,45.5298,Outremont,208
+1569847310,1245,apartment,1,0.0, '1 an',july,0.0,9999.0,0,0.0,na,51,H2R2G1,-73.6266,45.5452,Villeray Southeast,417
+1569846985,895,apartment,1,0.0, '1 an',june,0.0,650.0,0,0.0,na,44,H1X 1Z1,-73.5935,45.5577,Rosemont Central,1149
+1569846900,1650,apartment,1,1.0, '1 an',june,0.0,1300.0,0,0.0,na,36,H1H 4A7,-73.6524,45.5829,Montreal North South,882
+1569846810,800,apartment,1,0.0, '1 an',july,0.0,300.0,0,0.0,2 1/2,45,H2S 2G1,-73.6144,45.5356,Petite-Patrie Southwest,433
+1569846728,1800,Room,1,2.0,,na,0.0,,0,0.0,na,62,H1W1K3,-73.5616,45.5423,Hochelaga,255
+1569846669,1025,apartment,1,0.0, '1 an',june,1.0,750.0,0,0.0,3 1/2,37,H1Y 2P6,-73.598,45.5525,Rosemont South,740
+1569846072,1495,apartment,1,0.0, '1 an',june,1.0,,0,1.0,3 1/2,61,H4C 1W6,-73.5922,45.478,Saint-Henri,1134
+1112618148,1150,apartment,1,0.0, '1 an',may,1.0,1150.0,0,0.0,na,52,,-1.0,-1.0,-1,853
+1569846097,725,apartment,1,0.0, '1 an',july,0.0,700.0,0,0.0,na,31,H1W1C7,-73.5616,45.5423,Hochelaga,731
+1569846098,1350,apartment,1,0.0, '1 an',july,1.0,554.0,0,0.0,na,41,H2L 3G9,-73.5744,45.5252,Centre-Sud South,349
+1569846080,575,Room,1,,,na,0.0,,0,0.0,na,58,H9X 2C1,-73.9515,45.418,Sainte-Anne-De- Bellevue,2388
+1331418142,1000,apartment,1,, 'Non disponible',na,0.0,,0,0.0,na,36,H4W 1P5,-73.6704,45.478,Côte-Saint-Luc West,748
+1568626014,1350,apartment,8,, 'Non disponible',na,,,0,0.0,na,36,H3H 1C3,-73.5967,45.5123,Downtown Montreal South & West,3906
+1505844985,1100,apartment,2,0.0, '1 an',na,0.0,,0,,na,29,H8Y 3B9,-73.8162,45.5145,Roxboro,281
+1567456005,1400,apartment,15,0.0, '1 an',june,0.0,1100.0,0,0.0,na,64,H8R 3C7,-73.6557,45.4473,Saint-Pierre,1405
+1567437820,1875,apartment,2,1.0, '1 an',june,0.0,1250.0,0,1.0,na,64,H1N 2T3,-73.5499,45.5719,Mercier Southeast,768
+1568843027,795,apartment,6,0.0, '1 an',june,0.0,10.0,0,0.0,4 1/2,34,H1H4B6,-73.6524,45.5829,Montreal North South,382
+1569845868,1050,apartment,1,1.0, '1 an',july,1.0,700.0,0,0.0,na,64,H3W 2T7,-73.6442,45.4988,Côte-des-Neiges Southwest,1543
+1536474527,550,apartment,1,0.0, '1 an',december,0.0,400.0,0,0.0,2 1/2,60,H2R 2P7,-73.6266,45.5452,Villeray Southeast,772
+1569581241,1524,apartment,1,0.0, '1 an',june,1.0,650.0,0,1.0,na,50,H2X 1W7,-73.5739,45.5148,Plateau Mont-Royal Southeast,1299
+1569845722,1375,apartment,1,0.0, '1 an',july,0.0,600.0,0,1.0,condo,60,H3H 0A2,-73.5967,45.5123,Downtown Montreal South & West,951
+1561658151,850,apartment,1,0.0, '1 an',july,0.0,720.0,0,0.0,3 1/2,13,H3S 1G3,-73.6292,45.5155,Côte-des-Neiges North,177
+1569845712,700,apartment,1,0.0, 'Au mois',june,0.0,360.0,0,0.0,studio,28,,-1.0,-1.0,-1,349
+1569845708,800,Room,1,,,na,0.0,,0,0.0,4 1/2,40,H2X 3K4,-73.5739,45.5148,Plateau Mont-Royal Southeast,512
+1569845687,1100,apartment,1,0.0, '1 an',july,1.0,650.0,0,0.0,na,63,H2R 2G8,-73.6266,45.5452,Villeray Southeast,581
+1569845667,1150,apartment,1,0.0, '1 an',july,1.0,850.0,0,0.0,na,50,H4E 3G6,-73.5863,45.468,Ville Émard,1347
+1569635044,1450,apartment,1,1.0, '1 an',july,1.0,650.0,0,1.0,condo,45,H4R 3J3,-73.7309,45.5148,Saint-Laurent Central,422
+1469618802,495,Room,1,,,na,0.0,,0,0.0,na,23,,-1.0,-1.0,-1,327
+1552313362,1199,apartment,1,0.0, '1 an',february,0.0,550.0,0,1.0,na,47,H4G 2A5,-73.5798,45.4644,Verdun North,342
+1562498276,1399,apartment,1,0.0, '1 an',april,0.0,800.0,0,0.0,na,22,H2G 2H1,-73.6061,45.5434,Petite-Patrie Northeast,323
+1569845445,1500,apartment,1,0.0, '1 an',july,1.0,554.0,0,0.0,na,62,H2L 3G9,-73.5744,45.5252,Centre-Sud South,349
+1569845311,600,Room,1,,,na,0.0,,0,0.0,4 1/2,36,,-1.0,-1.0,-1,361
+1569845260,880,apartment,1,0.0, '1 an',july,0.0,380.0,1,0.0,3 1/2,33,H2E 1V2,-73.6256,45.5522,Villeray Northeast,740
+1569845238,1200,apartment,1,0.0, '1 an',july,1.0,650.0,0,0.0,na,57,H2R 2G8,-73.6266,45.5452,Villeray Southeast,508
+1567795003,1550,apartment,1,0.0, '1 an',july,0.0,950.0,1,0.0,na,59,H1M 2Z8,-73.5559,45.5902,Mercier West,988
+1569845110,1290,apartment,1,0.0, '1 an',july,0.0,850.0,0,0.0,4 1/2,51,H3H 1Z7,-73.5967,45.5123,Downtown Montreal South & West,1274
+1569844918,550,Room,1,,,na,0.0,,0,0.0,na,28,H2W 2K8,-73.5839,45.5194,Plateau Mont-Royal South Central,148
+1567283464,350,Room,1,,,na,0.0,,0,0.0,na,56,H9S 4R9,-73.7733,45.4409,L'Île-Dorval,919
+1566762502,2895,apartment,1,1.0, '1 an',june,1.0,1301.0,0,1.0,na,64,H4C 2S5,-73.5922,45.478,Saint-Henri,665
+1564892641,1475,apartment,1,0.0, '1 an',july,0.0,970.0,0,0.0,4 1/2,45,H2T 2G7,-73.6024,45.5278,Plateau Mont-Royal West,341
+1569844650,700,apartment,1,0.0, 'Au mois',june,0.0,360.0,0,0.0,studio,28,,-1.0,-1.0,-1,349
+1569844600,850,apartment,1,1.0, '1 an',july,0.0,1.0,0,0.0,4 1/2,46,J6J 3N3,-73.7494,45.3944,Châteauguay North,468
+1569844567,1500,apartment,1,0.0, '1 an',august,0.0,900.0,0,0.0,na,17,H4G2W6,-73.5798,45.4644,Verdun North,499
+1569844382,950,apartment,1,0.0, '1 an',july,0.0,900.0,0,0.0,na,45,H4J 2L2,-73.7231,45.5353,Cartierville Central,54
+1569844227,1500,apartment,1,0.0, '1 an',july,1.0,554.0,0,0.0,na,62,H2L3G9,-73.5744,45.5252,Centre-Sud South,353
+1569844209,590,apartment,1,0.0, '1 an',july,0.0,450.0,0,0.0,2 1/2,64,H4J 2M7,-73.7231,45.5353,Cartierville Central,927
+1569844059,1300,apartment,1,1.0, '1 an',june,0.0,650.0,1,1.0,condo,64,H2K3W8,-73.5672,45.53,Centre-Sud North,396
+1569844048,1350,apartment,1,0.0, '1 an',june,0.0,650.0,0,1.0,na,41,H2S 2S1,-73.6144,45.5356,Petite-Patrie Southwest,210
+1569843919,1445,apartment,1,1.0, '1 an',july,1.0,700.0,0,1.0,condo,30,H3L 2E1,-73.6754,45.5529,Ahuntsic Southwest,2980
+1569843810,1690,apartment,1,0.0, '1 an',july,1.0,1200.0,0,1.0,na,59,H2M 1Y5,-73.6515,45.55,Ahuntsic East,1887
+1569843694,1599,apartment,1,0.0, '1 an',july,1.0,647.0,0,1.0,condo,41,H3C 4A8,-73.5679,45.503,Griffintown (Includes Île Notre-Dame & Île Sainte-Hélène),308
+1569843525,2000,apartment,1,0.0, '1 an',july,1.0,1150.0,0,0.0,na,57,H2L3G9,-73.5744,45.5252,Centre-Sud South,450
+1569843524,1500,apartment,1,1.0, '1 an',june,0.0,1100.0,0,1.0,na,58,H8N1Z8,-73.6084,45.4551,LaSalle Northwest,486
+1565838743,940,apartment,14,0.0, '1 an',july,1.0,700.0,1,0.0,3 1/2,29,H4B 2R3,-73.636,45.4681,Notre-Dame-de-Grâce Southwest,390
+1562112730,950,apartment,14,0.0, '1 an',april,1.0,1.0,1,0.0,studio,32,H3H 2N3,-73.5967,45.5123,Downtown Montreal South & West,426
+1552844300,2150,apartment,1,0.0, '1 an',june,1.0,865.0,0,1.0,condo,63,H3J 1R9,-73.5725,45.4922,Petite-Bourgogne,3008
+1565926897,630,apartment,22,0.0, '1 an',june,0.0,300.0,0,0.0,studio,64,H1V 2E7,-73.551,45.5702,Maisonneuve,948
+1569843524,1190,apartment,1,1.0, '1 an',june,0.0,1100.0,0,1.0,4 1/2,38,H1X 2M5,-73.5935,45.5577,Rosemont Central,509
+1569843427,1500,Room,1,,,na,0.0,,0,0.0,na,58,H8N1Z8,-73.6084,45.4551,LaSalle Northwest,486
+1569843362,400,apartment,1,0.0, '1 an',july,0.0,800.0,0,0.0,na,32,H3S 1J6,-73.6292,45.5155,Côte-des-Neiges North,765
+1559905845,1450,Room,1,,,na,0.0,,0,0.0,condo,52,H2W 1V7,-73.5839,45.5194,Plateau Mont-Royal South Central,1226
+1569843285,495,Room,1,,,na,0.0,,0,0.0,na,33,,-1.0,-1.0,-1,315
+1569843144,500,apartment,1,, '1 an',july,1.0,2400.0,0,1.0,na,29,H3T 1L6,-73.616,45.5115,Côte-des-Neiges Northeast,873
+1569842931,2600,apartment,1,1.0, '1 an',july,1.0,350.0,1,0.0,na,44,H2E 1X7,-73.6256,45.5522,Villeray Northeast,1026
+1569842616,760,apartment,1,0.0, '1 an',july,0.0,800.0,0,0.0,studio,57,H4V2M7,-73.6555,45.4755,Côte-Saint-Luc East,912
+1569842676,850,apartment,1,0.0, '1 an',june,0.0,350.0,0,0.0,4 1/2,43,H1Z 3P4,-73.6444,45.5652,Saint-Michel West,155
+1569842584,550,Room,1,,,na,0.0,,0,0.0,na,58,H4J 2M7,-73.7231,45.5353,Cartierville Central,928
+1505800583,575,apartment,1,0.0, '1 an',na,0.0,,0,1.0,na,63,H9X 2C1,-73.9515,45.418,Sainte-Anne-De- Bellevue,2393
+1569842468,1090,Room,1,1.0,,na,0.0,,0,0.0,condo,43,H8N 2P6,-73.6084,45.4551,LaSalle Northwest,1151
+1569842224,950,apartment,1,0.0, '1 an',july,0.0,1000.0,0,1.0,studio,59,H2L 4C1,-73.5744,45.5252,Centre-Sud South,460
+1569841952,980,apartment,1,0.0, '1 an',june,1.0,,0,1.0,na,53,H3W 1W6,-73.6442,45.4988,Côte-des-Neiges Southwest,246
+1569837433,1775,apartment,1,0.0, '1 an',july,0.0,,0,1.0,4 1/2,54,H2K 1C2,-73.5672,45.53,Centre-Sud North,1187
+1519644598,1600,Room,1,0.0,,na,0.0,,0,0.0,na,61,H3C 0S3,-73.5679,45.503,Griffintown (Includes Île Notre-Dame & Île Sainte-Hélène),3032
+1513649688,291,Room,1,0.0,,na,0.0,,0,0.0,na,46,H3B 4W5,-73.5672,45.5058,Downtown Montreal East,3333
+1512520831,858,Room,1,0.0,,na,0.0,,0,0.0,na,56,H3B 4W5,-73.5672,45.5058,Downtown Montreal East,3698
+1505799221,367,Room,1,0.0,,na,0.0,,0,0.0,na,47,H3B 4W5,-73.5672,45.5058,Downtown Montreal East,3407
+1505799190,1538,Room,1,0.0,,na,0.0,,0,0.0,na,56,H3B 4W5,-73.5672,45.5058,Downtown Montreal East,3762
+1569841802,1500,Room,1,,,na,0.0,,0,0.0,condo,52,H2S 3G4,-73.6144,45.5356,Petite-Patrie Southwest,915
+1569841691,520,Room,1,,,na,0.0,,0,0.0,na,49,H3K 1T4,-73.564,45.4858,Pointe-Saint-Charles,858
+1569841289,500,apartment,1,0.0, '1 an',july,1.0,310.0,1,0.0,na,58,H3T 1E8,-73.616,45.5115,Côte-des-Neiges Northeast,2594
+1569841141,800,Room,1,,,na,0.0,,0,0.0,2 1/2,62,H2S 2G1,-73.6144,45.5356,Petite-Patrie Southwest,477
+1569839113,600,apartment,1,0.0, '1 an',july,0.0,,0,0.0,na,60,H3H2G7,-73.5967,45.5123,Downtown Montreal South & West,1386
+1569840073,720,apartment,1,0.0, '1 an',june,1.0,1200.0,0,0.0,studio,47,H2W 1R2,-73.5839,45.5194,Plateau Mont-Royal South Central,1495
+1569840468,2200,apartment,1,0.0, '1 an',june,1.0,845.0,0,0.0,na,50,H2L 3M4,-73.5744,45.5252,Centre-Sud South,1305
+1569833085,1375,apartment,1,0.0, '1 an',june,1.0,1000.0,1,1.0,4 1/2,51,H3N 2N2,-73.6464,45.5335,Parc-Extension,1043
+1569834505,1850,apartment,1,0.0, '1 an',june,0.0,,0,0.0,4 1/2,57,H3H 1N5,-73.5967,45.5123,Downtown Montreal South & West,943
+1569832757,1095,apartment,1,0.0, '1 an',june,1.0,1400.0,0,0.0,3 1/2,47,H1M 3B7,-73.5559,45.5902,Mercier West,815
+1569812745,1800,apartment,1,0.0, '1 an',june,1.0,,0,0.0,na,60,H2P 1E3,-73.6418,45.5409,Villeray West,967
+1569835567,1225,apartment,1,0.0, '1 an',june,0.0,300.0,1,1.0,4 1/2,48,H3S 1G2,-73.6292,45.5155,Côte-des-Neiges North,754
+1569840911,850,apartment,1,0.0, '1 an',june,0.0,4.0,0,0.0,studio,53,H2L 5B6,-73.5744,45.5252,Centre-Sud South,447
+1569840572,820,apartment,1,0.0, '1 an',june,0.0,750.0,0,1.0,na,60,H1H4P4,-73.6524,45.5829,Montreal North South,666
+1569840561,1795,apartment,1,0.0, '1 an',june,1.0,600.0,0,0.0,condo,62,H3C 0K8,-73.5679,45.503,Griffintown (Includes Île Notre-Dame & Île Sainte-Hélène),918
+1569840557,725,apartment,1,1.0, '1 an',july,0.0,726.0,0,1.0,3 1/2,59,H1T 3M9,-73.5869,45.5653,Rosemont North,342
+1569840437,1750,Room,1,,,na,0.0,,0,0.0,condo,55,H3C 6S3,-73.5679,45.503,Griffintown (Includes Île Notre-Dame & Île Sainte-Hélène),1013
+1569840410,500,Room,1,,,na,0.0,,0,0.0,na,63,,-1.0,-1.0,-1,1159
+1517850314,539,apartment,3,0.0, '1 an',june,0.0,320.0,0,0.0,na,53,H1V 3N7,-73.551,45.5702,Maisonneuve,549
+1568925741,735,apartment,3,0.0, '1 an',july,0.0,700.0,0,0.0,2 1/2,38,H1T 2G4,-73.5869,45.5653,Rosemont North,401
+1498791132,960,apartment,21,0.0, '1 an',october,0.0,600.0,1,0.0,4 1/2,54,H1Y 1L9,-73.598,45.5525,Rosemont South,739
+1565013917,870,apartment,1,1.0, '1 an',may,1.0,2000.0,0,1.0,3 1/2,64,H2B 1S5,-73.647,45.5664,Ahuntsic North,1213
+1567711071,3200,apartment,13,0.0, '1 an',july,0.0,1200.0,0,1.0,condo,59,H2P 2G8,-73.6418,45.5409,Villeray West,651
+1569839967,2850,apartment,1,1.0, '1 an',june,0.0,950.0,1,1.0,condo,64,H2Z1L7,-73.5623,45.5066,Downtown Montreal Northeast,550
+1560010130,2750,apartment,1,0.0, '1 an',june,0.0,630.0,0,0.0,condo,61,H2L 0B9,-73.5744,45.5252,Centre-Sud South,621
+1563926007,1039,apartment,1,0.0, '1 an',june,0.0,630.0,0,0.0,3 1/2,63,H4N 1P2,-73.6807,45.5329,Saint-Laurent Outer Northeast,1738
+1568879806,949,apartment,1,0.0, '1 an',june,0.0,850.0,0,0.0,3 1/2,64,H4N 1P2,-73.6807,45.5329,Saint-Laurent Outer Northeast,1738
+1569839956,1279,apartment,1,0.0, '1 an',july,1.0,550.0,0,0.0,4 1/2,62,H4N 1P2,-73.6807,45.5329,Saint-Laurent Outer Northeast,1738
+1569839821,900,apartment,1,0.0, '1 an',july,1.0,500.0,0,0.0,3 1/2,30,H2E 1Z3,-73.6256,45.5522,Villeray Northeast,414
+1561321884,1000,apartment,1,0.0, '1 an',june,0.0,650.0,0,0.0,3 1/2,40,H2G 2R7,-73.6061,45.5434,Petite-Patrie Northeast,861
+1569839752,750,apartment,1,0.0, '1 an',june,1.0,650.0,0,0.0,3 1/2,29,H1W 3A9,-73.5616,45.5423,Hochelaga,292
+1569622551,790,apartment,1,0.0, '1 an',july,1.0,500.0,1,0.0,3 1/2,49,H1X 1X2,-73.5935,45.5577,Rosemont Central,574
+1567395957,795,apartment,1,0.0, '1 an',july,1.0,1100.0,1,0.0,na,56,H3N 1R7,-73.6464,45.5335,Parc-Extension,709
+1506904956,1475,apartment,1,0.0, '1 an',december,0.0,800.0,0,0.0,condo,57,H3N 1S8,-73.6464,45.5335,Parc-Extension,1072
+1569839567,1450,apartment,1,0.0, '1 an',july,1.0,850.0,0,0.0,na,33,H2W 1C5,-73.5839,45.5194,Plateau Mont-Royal South Central,955
+1569839359,990,apartment,1,0.0, '1 an',july,0.0,875.0,0,0.0,4 1/2,43,H4H 1H3,-73.5818,45.4532,Verdun South,1145
+1569839131,1100,Room,1,,,na,0.0,,0,0.0,na,60,H4E 1M7,-73.5863,45.468,Ville Émard,2419
+1569812756,470,apartment,1,0.0, '1 an',july,1.0,,0,0.0,na,40,H2A1W7,-73.6118,45.5583,Saint-Michel East,809
+1569838734,1295,apartment,1,0.0, '1 an',july,0.0,70.0,0,0.0,na,54,H3S 1G2,-73.6292,45.5155,Côte-des-Neiges North,1198
+1569838653,1380,apartment,1,0.0, '1 an',july,1.0,1000.0,0,0.0,na,49,H2L 3W8,-73.5744,45.5252,Centre-Sud South,499
+1569838638,1850,Room,1,,,na,0.0,,0,0.0,na,35,H1Y3A8,-73.598,45.5525,Rosemont South,1339
+1565334659,995,apartment,1,0.0, '1 an',july,0.0,1025.0,0,0.0,na,58,H2S 2R9,-73.6144,45.5356,Petite-Patrie Southwest,670
+1569838011,1150,Room,1,,,na,0.0,,0,0.0,na,16,H8P 2M8,-73.5979,45.4371,LaSalle Southeast,449
+1569837687,833,apartment,1,0.0, '1 an',july,1.0,720.0,0,1.0,studio,61,H2K 2H8,-73.5672,45.53,Centre-Sud North,1789
+1543969444,1100,Room,1,,,na,0.0,,0,0.0,4 1/2,34,H2R 2H4,-73.6266,45.5452,Villeray Southeast,341
+1543755233,450,Room,1,,,na,0.0,,0,0.0,na,48,H2E 1V5,-73.6256,45.5522,Villeray Northeast,1892
+1569837501,450,apartment,1,0.0, '1 an',july,0.0,1011.0,0,1.0,na,45,H2E 2T7,-73.6256,45.5522,Villeray Northeast,1889
+1569837286,1395,apartment,1,0.0, '1 an',june,0.0,850.0,0,0.0,condo,30,H1M 2K8,-73.5559,45.5902,Mercier West,454
+1569837269,1350,apartment,1,0.0, '1 an',june,1.0,450.0,0,0.0,4 1/2,44,H2R 2N3,-73.6266,45.5452,Villeray Southeast,1356
+1569837067,595,apartment,1,0.0, '1 an',july,0.0,1.0,0,0.0,2 1/2,44,H1W 1Y5,-73.5616,45.5423,Hochelaga,390
+1569837028,665,apartment,1,0.0, '1 an',july,0.0,1000.0,0,0.0,na,26,H2H 2J3,-73.5837,45.5377,Plateau Mont-Royal North,406
+1569837001,1500,Room,1,,,na,0.0,,0,0.0,na,50,H2V 3Y6,-73.6153,45.5298,Outremont,451
+1553782770,495,apartment,1,0.0, '1 an',june,1.0,,0,0.0,na,37,H8S 4L6,-73.6811,45.4496,Lachine East,237
+1569836801,2515,apartment,1,0.0, '1 an',july,0.0,950.0,0,0.0,na,57,H1T 3X2,-73.5869,45.5653,Rosemont North,1976
+1569833037,905,apartment,1,0.0, '1 an',june,1.0,800.0,1,1.0,4 1/2,31,H1T3K2,-73.5869,45.5653,Rosemont North,275
+1569833768,1320,apartment,1,0.0, '1 an',june,1.0,550.0,0,0.0,3 1/2,47,H4E 3P6,-73.5863,45.468,Ville Émard,1254
+1569832909,895,Room,1,,,na,0.0,,0,0.0,3 1/2,57,H2E 2J5,-73.6256,45.5522,Villeray Northeast,853
+1569648495,250,apartment,1,1.0, '1 an',july,0.0,1.0,0,0.0,na,35,H2H 1E9,-73.5837,45.5377,Plateau Mont-Royal North,587
+1566257791,1020,apartment,1,1.0, '1 an',july,1.0,909.0,1,1.0,na,47,H3L 2G7,-73.6754,45.5529,Ahuntsic Southwest,810
+1569244846,2050,apartment,1,0.0, '1 an',june,0.0,700.0,1,0.0,condo,53,,-1.0,-1.0,-1,1047
+1568755116,1150,apartment,7,1.0, '1 an',july,0.0,535.0,1,1.0,3 1/2,62,,-1.0,-1.0,-1,406
+1564698301,1210,apartment,2,0.0, '1 an',may,1.0,1.0,0,0.0,3 1/2,59,H2L 3W8,-73.5744,45.5252,Centre-Sud South,3927
+1569456404,825,apartment,3,0.0, '1 an',july,1.0,800.0,0,0.0,3 1/2,42,H8T 1T9,-73.7192,45.4648,Lachine West,897
+1563375794,1184,apartment,4,1.0, '1 an',july,0.0,522.0,0,1.0,na,64,H3E1C4,-73.5457,45.4679,L'Île-Des-Soeurs,1961
+1567131364,1250,apartment,17,0.0, '1 an',july,1.0,1100.0,0,0.0,condo,61,H4E 0A2,-73.5863,45.468,Ville Émard,1216
+1569836516,1795,Room,1,,,na,0.0,,0,0.0,na,50,H4E 1G8,-73.5863,45.468,Ville Émard,239
+1568646232,550,apartment,1,0.0, '1 an',july,1.0,1200.0,1,0.0,condo,64,H1W1G6,-73.5616,45.5423,Hochelaga,1538
+1563304787,1225,apartment,1,0.0, '1 an',june,0.0,500.0,0,0.0,na,16,H1M 1S7,-73.5559,45.5902,Mercier West,423
+1569271273,780,apartment,1,0.0, '1 an',september,1.0,1000.0,0,0.0,3 1/2,52,H2A 2T4,-73.6118,45.5583,Saint-Michel East,311
+1569699100,1520,apartment,1,0.0, '1 an',july,1.0,1000.0,0,0.0,na,64,H1T 1B1,-73.5869,45.5653,Rosemont North,757
+1569813674,1416,apartment,1,0.0, '1 an',july,0.0,675.0,1,0.0,na,42,H4W 1S4,-73.6704,45.478,Côte-Saint-Luc West,357
+1531917414,950,apartment,1,0.0, '1 an',may,0.0,1500.0,0,0.0,na,55,H1K 3N5,-73.5428,45.6077,Anjou East,889
+1569830638,2100,apartment,1,0.0, '1 an',july,0.0,350.0,1,1.0,na,59,H2V3C9,-73.6153,45.5298,Outremont,1399
+1569836228,990,apartment,1,0.0, 'Au mois',june,0.0,500.0,1,0.0,na,30,H2L 3T8,-73.5744,45.5252,Centre-Sud South,921
+1569836124,760,apartment,1,0.0, '1 an',june,0.0,1000.0,0,0.0,na,28,H4E 3C5,-73.5863,45.468,Ville Émard,855
+1569835928,1400,apartment,1,0.0, '1 an',october,1.0,1000.0,0,0.0,condo,46,H1W1G6,-73.5616,45.5423,Hochelaga,1548
+1569835714,1825,apartment,1,0.0, '1 an',august,1.0,1.0,0,1.0,na,64,H2H 2H8,-73.5837,45.5377,Plateau Mont-Royal North,2468
+1569818627,1388,apartment,1,0.0, '1 an',august,0.0,950.0,0,0.0,na,19,H4L 2Z9,-73.6974,45.5269,Saint-Laurent Inner Northeast,260
+1569835587,1050,Room,1,,,na,0.0,,0,0.0,na,45,H1J 1W2,-73.569,45.6036,Anjou West,191
+1569835573,500,apartment,1,0.0, '1 an',july,0.0,1950.0,1,1.0,na,59,H2R 2N3,-73.6266,45.5452,Villeray Southeast,1562
+1569834329,2400,apartment,1,0.0, '1 an',july,0.0,1550.0,1,1.0,na,39,H2L 3V6,-73.5744,45.5252,Centre-Sud South,1548
+1569835384,1600,apartment,1,0.0, '1 an',july,0.0,1.0,0,0.0,na,48,H2L 3T8,-73.5744,45.5252,Centre-Sud South,1196
+1569835360,1400,apartment,1,0.0, '1 an',july,0.0,500.0,0,0.0,na,8,H1G 2G4,-73.6389,45.6061,Montreal North North,260
+1569835046,860,apartment,1,1.0, '1 an',july,0.0,950.0,0,0.0,na,48,H1V 1B9,-73.551,45.5702,Maisonneuve,1729
+1569834943,1200,apartment,1,0.0, '1 an',july,0.0,1000.0,0,0.0,na,56,H1K 1Y6,-73.5428,45.6077,Anjou East,690
+1569834812,800,Room,1,,,na,0.0,,0,0.0,4 1/2,62,H1H4M7,-73.6524,45.5829,Montreal North South,1137
+1569834799,500,apartment,1,0.0, '1 an',july,0.0,490.0,0,0.0,na,64,H8S3E3,-73.6811,45.4496,Lachine East,1824
+1569834780,700,apartment,1,0.0, '1 an',july,0.0,350.0,0,0.0,2 1/2,26,H2E1W3,-73.6256,45.5522,Villeray Northeast,330
+1569834765,750,apartment,1,1.0, '1 an',july,0.0,650.0,0,0.0,studio,64,H3K 2M6,-73.564,45.4858,Pointe-Saint-Charles,1073
+1569834686,710,apartment,1,0.0, '1 an',july,1.0,745.0,0,1.0,4 1/2,27,H1E3L1,-73.5729,45.6595,Rivière-Des-Prairies Southwest,147
+1569830757,1290,apartment,1,0.0, '1 an',july,0.0,,0,0.0,na,63,H2E 2M7,-73.6256,45.5522,Villeray Northeast,956
+1505846114,1075,apartment,1,0.0, '1 an',june,0.0,625.0,0,0.0,3 1/2,44,H3V 1B4,-73.6177,45.4965,Côte-des-Neiges East,183
+1528581783,1166,apartment,1,1.0, '1 an',august,0.0,,0,0.0,3 1/2,59,H3Z 1R3,-73.5885,45.4909,Westmount East,1726
+1505768246,1995,apartment,1,0.0, '1 an',july,0.0,580.0,0,0.0,na,36,H3S 2N8,-73.6292,45.5155,Côte-des-Neiges North,942
+1505768287,1095,apartment,1,0.0, '1 an',august,0.0,,0,0.0,na,45,H3S 2N8,-73.6292,45.5155,Côte-des-Neiges North,949
+1569834173,1450,apartment,1,0.0, '1 an',june,0.0,1100.0,0,0.0,na,44,H3S 2N8,-73.6292,45.5155,Côte-des-Neiges North,949
+1569834160,1680,apartment,1,0.0, '1 an',july,0.0,800.0,0,0.0,na,35,H2J 3B7,-73.5928,45.5289,Plateau Mont-Royal North Central,417
+1569834045,949,apartment,1,1.0, '1 an',june,0.0,650.0,0,0.0,4 1/2,49,H1H1A2,-73.6524,45.5829,Montreal North South,489
+1566419163,795,apartment,1,0.0, '1 an',june,1.0,1200.0,0,0.0,4 1/2,27,H1E 5G3,-73.5729,45.6595,Rivière-Des-Prairies Southwest,163
+1568304106,975,apartment,1,1.0, '1 an',june,0.0,1182.0,1,0.0,na,37,H1Z 1C5,-73.6444,45.5652,Saint-Michel West,164
+1569834023,1900,apartment,1,0.0, '1 an',july,0.0,1000.0,0,0.0,condo,62,H3E 1S5,-73.5457,45.4679,L'Île-Des-Soeurs,768
+1562641685,700,apartment,1,0.0, '1 an',na,0.0,,0,,4 1/2,55,H1H4M7,-73.6524,45.5829,Montreal North South,1074
+1505757506,575,apartment,4,0.0, '1 an',october,0.0,,0,1.0,na,49,H2R 2H9,-73.6266,45.5452,Villeray Southeast,323
+1505746957,1350,apartment,2,0.0, 'Non disponible',na,,,1,0.0,3 1/2,61,H3W 1J4,-73.6442,45.4988,Côte-des-Neiges Southwest,904
+1563564701,1500,apartment,25,1.0, '1 an',july,0.0,660.0,0,1.0,3 1/2,41,H3G 1Y2,-73.5853,45.5019,Downtown Montreal Southeast,4434
+1568925741,1650,apartment,3,0.0, '1 an',july,0.0,700.0,0,0.0,condo,45,H3C 2K5,-73.5679,45.503,Griffintown (Includes Île Notre-Dame & Île Sainte-Hélène),2050
+1569851751,960,apartment,1,0.0, '1 an',july,1.0,800.0,0,1.0,4 1/2,54,H1Y 1L9,-73.598,45.5525,Rosemont South,739
+1568714489,1695,apartment,1,0.0, '1 an',na,0.0,,0,,condo,51,H2S 3A9,-73.6144,45.5356,Petite-Patrie Southwest,679
+1567083739,650,apartment,1,0.0, '1 an',july,0.0,320.0,0,1.0,studio,38,H2E 2T6,-73.6256,45.5522,Villeray Northeast,347
+1569652498,1150,apartment,1,0.0, '1 an',na,0.0,,0,,studio,52,H3C0L5,-73.5679,45.503,Griffintown (Includes Île Notre-Dame & Île Sainte-Hélène),1062
+1569833996,685,apartment,1,0.0, '1 an',june,0.0,858.0,0,0.0,2 1/2,51,H2J 2J3,-73.5928,45.5289,Plateau Mont-Royal North Central,462
+1563304228,995,apartment,1,1.0, '1 an',july,0.0,750.0,1,1.0,3 1/2,29,H1Y 3E3,-73.598,45.5525,Rosemont South,133
+1557043565,2350,apartment,1,0.0, '1 an',na,0.0,,0,,condo,47,H3G 1T1,-73.5853,45.5019,Downtown Montreal Southeast,797
+1563738411,785,apartment,1,0.0, '1 an',na,0.0,,0,0.0,2 1/2,55,H2R 2L4,-73.6266,45.5452,Villeray Southeast,1045
+1568787638,800,apartment,1,0.0, '1 an',na,0.0,,0,0.0,3 1/2,51,H1T 3G2,-73.5869,45.5653,Rosemont North,417
+1562061680,635,apartment,1,0.0, '1 an',na,,,0,1.0,2 1/2,38,H1X 1Y9,-73.5935,45.5577,Rosemont Central,422
+1569483220,705,apartment,1,0.0, '1 an',na,0.0,,0,,2 1/2,55,H2S 1G1,-73.6144,45.5356,Petite-Patrie Southwest,543
+1563739410,685,apartment,1,0.0, '1 an',na,0.0,,0,,2 1/2,56,H1X 1K4,-73.5935,45.5577,Rosemont Central,428
+1563579040,790,apartment,1,0.0, '1 an',july,0.0,,0,0.0,3 1/2,56,H1T 3G2,-73.5869,45.5653,Rosemont North,341
+1566234403,675,apartment,1,0.0, '1 an',na,0.0,,0,0.0,na,53,H2K 2T5,-73.5672,45.53,Centre-Sud North,312
+1563722152,660,apartment,1,0.0, '1 an',na,0.0,,0,0.0,2 1/2,50,H2K 2T5,-73.5672,45.53,Centre-Sud North,425
+1569833930,790,Room,1,,,na,0.0,,0,0.0,3 1/2,52,H2K 2T5,-73.5672,45.53,Centre-Sud North,303
+1569833687,420,apartment,1,0.0, '1 an',july,1.0,615.0,0,0.0,na,49,H1W 3M3,-73.5616,45.5423,Hochelaga,749
+1569831737,850,apartment,1,0.0, '1 an',na,0.0,,0,0.0,4 1/2,41,H1Y 2V5,-73.598,45.5525,Rosemont South,482
+1569830788,1500,apartment,1,0.0, '1 an',june,1.0,,0,0.0,na,25,H4A 2T4,-73.6252,45.4781,Notre-Dame-de-Grâce Northeast,640
+1569833608,1365,apartment,1,2.0, '1 an',june,1.0,1850.0,0,0.0,4 1/2,40,H3V 1B4,-73.6177,45.4965,Côte-des-Neiges East,854
+1569833443,2660,apartment,1,1.0, '1 an',july,0.0,930.0,0,0.0,na,64,H3S 2N6,-73.6292,45.5155,Côte-des-Neiges North,3612
+1569833366,960,apartment,1,0.0, '1 an',july,0.0,800.0,0,0.0,4 1/2,47,H1K 1Y6,-73.5428,45.6077,Anjou East,568
+1569833109,760,apartment,1,0.0, '1 an',june,1.0,1250.0,0,0.0,3 1/2,37,H9G1A5,-73.8446,45.4794,Dollard-Des- Ormeaux Southwest,207
+1569832872,1440,apartment,1,0.0, '1 an',july,0.0,500.0,0,0.0,na,64,H3S 2N6,-73.6292,45.5155,Côte-des-Neiges North,4387
+1569818212,850,apartment,1,0.0, '1 an',july,1.0,962.0,0,1.0,na,49,H1V 1B9,-73.551,45.5702,Maisonneuve,1790
+1569832409,1800,apartment,1,0.0, '1 an',june,1.0,,1,1.0,condo,35,H2S 3C5,-73.6144,45.5356,Petite-Patrie Southwest,1657
+1569832158,1050,Room,1,1.0,,na,0.0,,0,0.0,studio,56,H2H 1N5,-73.5837,45.5377,Plateau Mont-Royal North,765
+1569832114,670,apartment,1,1.0, '1 an',july,0.0,850.0,1,1.0,na,52,H2L 3Z1,-73.5744,45.5252,Centre-Sud South,777
+1505782753,1650,apartment,1,1.0, '1 an',na,0.0,,1,0.0,na,64,H4L 3Y8,-73.6974,45.5269,Saint-Laurent Inner Northeast,509
+1553467794,1845,apartment,1,0.0, '1 an',na,0.0,,1,0.0,na,44,H3H 1X1,-73.5967,45.5123,Downtown Montreal South & West,644
+1505793111,1499,apartment,1,0.0, '1 an',na,0.0,,1,0.0,4 1/2,61,H3V 1C2,-73.6177,45.4965,Côte-des-Neiges East,1121
+1539392408,1395,apartment,1,0.0, '1 an',na,0.0,,1,0.0,3 1/2,43,H4C 0C2,-73.5922,45.478,Saint-Henri,1718
+1505793128,1195,apartment,1,0.0, '1 an',na,0.0,,0,0.0,studio,56,H3V 1C2,-73.6177,45.4965,Côte-des-Neiges East,1883
+1552371610,1899,apartment,1,0.0, '1 an',august,0.0,,0,0.0,4 1/2,43,H4C 0C2,-73.5922,45.478,Saint-Henri,1718
+1569831819,1100,apartment,1,, '1 an',july,0.0,2000.0,1,1.0,4 1/2,64,H3M 1R2,-73.6979,45.5459,Cartierville Northeast,586
+1569831794,3000,Room,1,,,na,0.0,,0,0.0,na,56,H1Z 2R2,-73.6444,45.5652,Saint-Michel West,1848
+1569830761,550,apartment,1,0.0, '1 an',june,1.0,550.0,0,0.0,na,42,H3S2E3,-73.6292,45.5155,Côte-des-Neiges North,244
+1569830753,1295,apartment,1,1.0, '1 an',july,0.0,,0,0.0,condo,63,H2S 2P2,-73.6144,45.5356,Petite-Patrie Southwest,1386
+1569341962,1355,apartment,4,1.0, '1 an',august,1.0,750.0,0,0.0,4 1/2,53,H3V 1B4,-73.6177,45.4965,Côte-des-Neiges East,1719
+1569492774,1495,apartment,3,0.0, '1 an',july,0.0,250.0,1,0.0,na,38,H3W 2C5,-73.6442,45.4988,Côte-des-Neiges Southwest,703
+1567395957,895,apartment,1,0.0, '1 an',july,1.0,1100.0,1,0.0,studio,64,H2G 2X3,-73.6061,45.5434,Petite-Patrie Northeast,2343
+1564698301,1475,apartment,2,0.0, '1 an',may,1.0,1.0,0,0.0,condo,57,H3N 1S8,-73.6464,45.5335,Parc-Extension,1072
+1553940613,825,apartment,1,0.0, '1 an',july,1.0,750.0,0,0.0,3 1/2,42,H8T 1T9,-73.7192,45.4648,Lachine West,897
+1569830098,1250,apartment,1,0.0, '1 an',july,0.0,,0,0.0,4 1/2,53,H2L 2M5,-73.5744,45.5252,Centre-Sud South,547
+1569830038,860,apartment,1,0.0, '1 an',july,0.0,,0,0.0,3 1/2,63,H8T 1N9,-73.7192,45.4648,Lachine West,1273
+1569830602,860,apartment,1,0.0, '1 an',june,1.0,,1,0.0,3 1/2,63,H8T 1N9,-73.7192,45.4648,Lachine West,1085
+1569831006,1250,apartment,1,0.0, '1 an',july,1.0,,0,0.0,studio,62,H2J 2W6,-73.5928,45.5289,Plateau Mont-Royal North Central,881
+1569812746,1155,apartment,1,0.0, '1 an',july,0.0,,0,0.0,3 1/2,49,H2G 1A2,-73.6061,45.5434,Petite-Patrie Northeast,716
+1569826182,775,apartment,1,0.0, '1 an',june,1.0,,0,1.0,2 1/2,55,H3S 1G2,-73.6292,45.5155,Côte-des-Neiges North,1343
+1569831687,1350,Room,1,1.0,,na,0.0,,0,0.0,3 1/2,57,H2W 1S6,-73.5839,45.5194,Plateau Mont-Royal South Central,995
+1569829709,875,apartment,1,2.0, '1 an',july,0.0,1100.0,0,0.0,na,47,H2J 2S7,-73.5928,45.5289,Plateau Mont-Royal North Central,494
+1567255239,1875,apartment,1,0.0, '1 an',july,1.0,,0,0.0,na,62,H1K3N5,-73.5428,45.6077,Anjou East,626
+1564781175,1300,apartment,1,0.0, '1 an',may,1.0,,0,0.0,4 1/2,58,H3X 1W1,-73.6483,45.4915,Hampstead,1196
+1562068451,1445,apartment,1,0.0, '1 an',july,1.0,,0,0.0,na,49,H3X 1W1,-73.6483,45.4915,Hampstead,1208
+1569831338,1245,Room,1,,,na,0.0,,0,0.0,4 1/2,53,H3X 1W1,-73.6483,45.4915,Hampstead,1194
+1569831321,500,Room,1,1.0,,na,0.0,,0,0.0,na,29,H1Z 3N7,-73.6444,45.5652,Saint-Michel West,13
+1569831243,866,apartment,1,0.0, '1 an',july,0.0,350.0,1,1.0,studio,55,H3H 2J1,-73.5967,45.5123,Downtown Montreal South & West,538
+1569831244,990,apartment,1,0.0, '1 an',july,1.0,1250.0,0,1.0,na,21,H2L 3T8,-73.5744,45.5252,Centre-Sud South,1213
+1569831167,2375,apartment,1,1.0, '1 an',july,0.0,600.0,0,1.0,na,61,H4E1M3,-73.5863,45.468,Ville Émard,2659
+1569831037,1350,Room,1,1.0,,na,0.0,,0,0.0,3 1/2,57,H3C 0S3,-73.5679,45.503,Griffintown (Includes Île Notre-Dame & Île Sainte-Hélène),467
+1569830882,875,Room,1,,,na,0.0,,0,0.0,na,36,H2L 3Z1,-73.5744,45.5252,Centre-Sud South,681
+1569830606,660,apartment,1,0.0, '1 an',july,0.0,,0,0.0,na,64,H2T 1J3,-73.6024,45.5278,Plateau Mont-Royal West,279
+1569817051,1355,apartment,1,0.0, '1 an',may,0.0,,0,0.0,4 1/2,54,H3V 1B4,-73.6177,45.4965,Côte-des-Neiges East,1381
+1569830737,2325,apartment,1,0.0, '1 an',july,0.0,650.0,0,0.0,na,63,H3H 1C5,-73.5967,45.5123,Downtown Montreal South & West,2772
+1569830729,1085,apartment,1,0.0, '1 an',july,0.0,500.0,0,1.0,4 1/2,63,H2G 1Y8,-73.6061,45.5434,Petite-Patrie Northeast,1521
+1569830684,915,apartment,1,0.0, '1 an',july,0.0,2.0,1,1.0,na,50,H1W 3B6,-73.5616,45.5423,Hochelaga,3340
+1569830564,1750,apartment,1,1.0, '1 an',september,1.0,850.0,0,1.0,4 1/2,56,H2L 3Z1,-73.5744,45.5252,Centre-Sud South,715
+1559915125,750,apartment,1,0.0, '1 an',july,0.0,,0,0.0,na,24,H1K2C2,-73.5428,45.6077,Anjou East,289
+1548811389,1250,apartment,1,0.0, '1 an',april,0.0,,0,0.0,4 1/2,64,H2E 1X3,-73.6256,45.5522,Villeray Northeast,632
+1556961712,820,apartment,1,0.0, '1 an',na,0.0,,0,0.0,na,52,H2P 2L6,-73.6418,45.5409,Villeray West,538
+1505829557,1460,apartment,1,0.0, '1 an',na,0.0,,0,0.0,4 1/2,48,H3N 2B6,-73.6464,45.5335,Parc-Extension,845
+1515940511,725,apartment,1,0.0, '1 an',na,0.0,,0,0.0,studio,48,H2G 2W7,-73.6061,45.5434,Petite-Patrie Northeast,484
+1551071205,850,apartment,1,0.0, '1 an',na,0.0,,0,0.0,na,47,H1L 5G1,-73.5362,45.5943,Mercier North,585
+1557043593,750,apartment,1,0.0, '1 an',na,0.0,,0,0.0,na,63,H3S 1J1,-73.6292,45.5155,Côte-des-Neiges North,465
+1505829591,1110,apartment,1,0.0, '1 an',na,0.0,,0,0.0,na,64,H3S 1H2,-73.6292,45.5155,Côte-des-Neiges North,766
+1505829607,800,apartment,1,0.0, '1 an',april,0.0,,0,0.0,na,63,H3T 1J3,-73.616,45.5115,Côte-des-Neiges Northeast,589
+1564502183,1360,apartment,1,0.0, '1 an',na,0.0,,0,0.0,na,61,H3T 1J3,-73.616,45.5115,Côte-des-Neiges Northeast,537
+1540767348,825,apartment,1,0.0, '1 an',na,0.0,,0,0.0,na,56,H4V 1X7,-73.6555,45.4755,Côte-Saint-Luc East,501
+1554786743,960,apartment,1,0.0, '1 an',na,0.0,,0,0.0,4 1/2,62,H3N 1Z8,-73.6464,45.5335,Parc-Extension,511
+1554785732,800,apartment,1,0.0, '1 an',na,0.0,,0,0.0,studio,59,H2R 2S6,-73.6266,45.5452,Villeray Southeast,499
+1565476504,840,apartment,1,0.0, '1 an',na,0.0,,0,0.0,2 1/2,43,H3N 2H5,-73.6464,45.5335,Parc-Extension,533
+1546155303,820,apartment,1,0.0, '1 an',september,0.0,548.0,0,1.0,2 1/2,49,H2V 4J1,-73.6153,45.5298,Outremont,668
+1562064046,1099,apartment,16,0.0, '1 an',na,0.0,,0,0.0,na,57,H1R 2T7,-73.6229,45.5844,Saint-Léonard West,422
+1462841684,890,Room,7,1.0,,na,0.0,,0,0.0,na,39,H3N 2E1,-73.6464,45.5335,Parc-Extension,473
+1567513588,995,apartment,14,0.0, '1 an',july,0.0,700.0,0,0.0,studio,61,H3G 2A9,-73.5853,45.5019,Downtown Montreal Southeast,1282
+1568302985,995,apartment,10,0.0, '1 an',june,0.0,10.0,0,0.0,3 1/2,58,H1R 2N8,-73.6229,45.5844,Saint-Léonard West,1082
+1535170975,725,apartment,1,0.0, '1 an',na,0.0,,0,0.0,3 1/2,43,H1E6X3,-73.5729,45.6595,Rivière-Des-Prairies Southwest,359
+1561216377,880,apartment,1,0.0, '1 an',july,0.0,,0,0.0,na,56,H1T 3H3,-73.5869,45.5653,Rosemont North,525
+1552369737,1275,apartment,1,0.0, '1 an',na,0.0,,0,0.0,4 1/2,64,H2A 2V5,-73.6118,45.5583,Saint-Michel East,466
+1569830287,800,apartment,1,0.0, '1 an',june,0.0,1.0,0,0.0,3 1/2,64,H1T 3H3,-73.5869,45.5653,Rosemont North,542
+1569830286,1100,Room,1,1.0,,na,0.0,,0,0.0,4 1/2,25,H2E2J6,-73.6256,45.5522,Villeray Northeast,108
+1569830276,850,apartment,1,0.0, '1 an',june,1.0,550.0,0,1.0,na,41,H2J 2S4,-73.5928,45.5289,Plateau Mont-Royal North Central,484
+1566549010,1500,apartment,1,0.0, '1 an',july,0.0,900.0,1,0.0,condo,59,H3C 0P8,-73.5679,45.503,Griffintown (Includes Île Notre-Dame & Île Sainte-Hélène),992
+1569830239,1350,apartment,1,0.0, '1 an',june,0.0,689.0,0,1.0,4 1/2,62,,-1.0,-1.0,-1,430
+1569830039,1350,apartment,1,0.0, '1 an',july,0.0,640.0,0,0.0,condo,63,H4N0B3,-73.6807,45.5329,Saint-Laurent Outer Northeast,1108
+1505844414,870,apartment,1,0.0, '1 an',na,0.0,,0,0.0,3 1/2,59,,-1.0,-1.0,-1,500
+1555909535,1900,apartment,1,0.0, '1 an',na,0.0,,1,0.0,4 1/2,58,H3W 1J4,-73.6442,45.4988,Côte-des-Neiges Southwest,983
+1569829966,1500,Room,1,1.0,,na,0.0,,0,0.0,3 1/2,46,H2S 3A4,-73.6144,45.5356,Petite-Patrie Southwest,367
+1569812972,850,apartment,1,0.0, '1 an',june,0.0,,0,0.0,na,58,H2J 2S7,-73.5928,45.5289,Plateau Mont-Royal North Central,475
+1569829830,1094,apartment,1,0.0, '1 an',july,1.0,650.0,0,0.0,3 1/2,53,H1M 3B7,-73.5559,45.5902,Mercier West,1621
+1569829778,926,apartment,1,0.0, '1 an',august,0.0,950.0,1,1.0,3 1/2,64,H3H 1V8,-73.5967,45.5123,Downtown Montreal South & West,561
+1569829697,1800,Room,1,,,na,0.0,,0,0.0,na,64,H4C1Y2,-73.5922,45.478,Saint-Henri,3130
+1559469013,270,apartment,1,0.0, '1 an',july,1.0,375.0,0,0.0,na,26,H1Z 1S5,-73.6444,45.5652,Saint-Michel West,209
+1569829634,850,Room,1,,,na,0.0,,0,0.0,2 1/2,55,H3W 1Y5,-73.6442,45.4988,Côte-des-Neiges Southwest,2337
+1569559630,600,apartment,1,0.0, '1 an',august,1.0,975.0,0,0.0,na,62,H2X2J8,-73.5739,45.5148,Plateau Mont-Royal Southeast,1345
+1569829615,1245,Room,1,1.0,,na,0.0,,0,0.0,3 1/2,62,H3W 1Y5,-73.6442,45.4988,Côte-des-Neiges Southwest,1159
+1569829384,850,apartment,1,1.0, '1 an',june,0.0,1000.0,0,0.0,na,47,H2L 3Z1,-73.5744,45.5252,Centre-Sud South,679
+1389897288,2000,Room,1,,,na,0.0,,0,0.0,condo,50,H2X2J8,-73.5739,45.5148,Plateau Mont-Royal Southeast,708
+1569829368,750,Room,1,1.0,,na,0.0,,0,0.0,na,24,H2T 1S1,-73.6024,45.5278,Plateau Mont-Royal West,495
+1569829316,775,apartment,1,0.0, '1 an',june,0.0,355.0,1,1.0,studio,46,H2J 2S7,-73.5928,45.5289,Plateau Mont-Royal North Central,569
+1569829231,1050,apartment,1,0.0, '1 an',june,1.0,800.0,0,0.0,2 1/2,48,H2L 5B6,-73.5744,45.5252,Centre-Sud South,456
+1569823667,800,Room,1,0.0,,na,0.0,,0,0.0,na,25,H2N 1X7,-73.659,45.5402,Ahuntsic Southeast,60
+1569828936,2230,apartment,1,0.0, '1 an',july,0.0,1000.0,0,0.0,na,64,H2L 2H1,-73.5744,45.5252,Centre-Sud South,272
+1569828888,1500,apartment,1,1.0, '1 an',july,1.0,1.0,0,0.0,na,42,H2V 3Y6,-73.6153,45.5298,Outremont,524
+1569828732,945,apartment,1,0.0, '1 an',july,0.0,700.0,1,0.0,na,55,H4B 1X6,-73.636,45.4681,Notre-Dame-de-Grâce Southwest,1516
+1569828613,900,apartment,1,0.0, '1 an',july,0.0,850.0,1,0.0,na,51,H4E 3C8,-73.5863,45.468,Ville Émard,845
+1569828594,1615,apartment,1,0.0, '1 an',august,1.0,1300.0,1,0.0,na,61,H2S3H8,-73.6144,45.5356,Petite-Patrie Southwest,716
+1569828508,2100,Room,1,,,na,0.0,,0,0.0,na,58,H2J 2K9,-73.5928,45.5289,Plateau Mont-Royal North Central,788
+1569828429,400,apartment,1,2.0, 'Au mois',july,0.0,1200.0,1,0.0,na,9,H2B2Z1,-73.647,45.5664,Ahuntsic North,233
+1569828396,2200,Room,1,,,na,0.0,,0,0.0,na,54,H2A 2C5,-73.6118,45.5583,Saint-Michel East,690
+1569828253,685,apartment,1,0.0, '1 an',july,0.0,900.0,0,0.0,na,62,H1W 3T4,-73.5616,45.5423,Hochelaga,1380
+1569828234,1000,Room,1,,,na,0.0,,0,0.0,4 1/2,24,H1L 5S4,-73.5362,45.5943,Mercier North,278
+1564895249,685,apartment,2,0.0, '1 an',may,0.0,1000.0,0,0.0,na,63,H1W 3T4,-73.5616,45.5423,Hochelaga,1536
+1568236267,900,apartment,10,1.0, '1 an',june,1.0,1800.0,0,1.0,4 1/2,33,H1G 2V2,-73.6389,45.6061,Montreal North North,500
+1568874673,1800,apartment,6,1.0, '1 an',july,1.0,1200.0,0,0.0,condo,64,H3C 2C7,-73.5679,45.503,Griffintown (Includes Île Notre-Dame & Île Sainte-Hélène),1615
+1563407807,1225,apartment,8,0.0, '1 an',june,0.0,,0,0.0,na,34,H1H 1M9,-73.6524,45.5829,Montreal North South,213
+1569828206,950,apartment,1,1.0, '1 an',july,0.0,900.0,0,0.0,studio,41,H2L 1H8,-73.5744,45.5252,Centre-Sud South,2325
+1569812763,650,apartment,1,0.0, '1 an',july,0.0,,0,0.0,studio,63,H1N 1L4,-73.5499,45.5719,Mercier Southeast,469
+1569827942,1180,Room,1,,,na,0.0,,0,0.0,na,45,H1W 3N2,-73.5616,45.5423,Hochelaga,355
+1569827861,775,apartment,1,0.0, '1 an',july,1.0,900.0,0,0.0,3 1/2,59,H3S 1G2,-73.6292,45.5155,Côte-des-Neiges North,1343
+1569827807,575,apartment,1,0.0, 'Au mois',june,1.0,20.0,1,0.0,na,64,H2A 2W1,-73.6118,45.5583,Saint-Michel East,2191
+1569827717,1295,apartment,1,1.0, '1 an',july,1.0,1500.0,0,0.0,na,54,H2Z 1M1,-73.5623,45.5066,Downtown Montreal Northeast,385
+1569827651,775,apartment,1,0.0, '1 an',july,1.0,900.0,1,0.0,na,28,H2M1Y5,-73.6515,45.55,Ahuntsic East,129
+1569827430,1880,apartment,1,0.0, '1 an',july,0.0,636.0,0,1.0,na,59,H3W 2E6,-73.6442,45.4988,Côte-des-Neiges Southwest,772
+1569825604,1450,apartment,1,0.0, '1 an',june,1.0,900.0,0,0.0,na,39,H4G 1Z7,-73.5798,45.4644,Verdun North,274
+1556327531,1380,apartment,1,0.0, '1 an',may,1.0,1300.0,0,1.0,condo,56,H3H 0A2,-73.5967,45.5123,Downtown Montreal South & West,1060
+1566747839,1990,apartment,1,0.0, '1 an',july,0.0,1205.0,0,1.0,4 1/2,49,H2W 2G7,-73.5839,45.5194,Plateau Mont-Royal South Central,1127
+1569827304,2600,Room,1,,,na,0.0,,0,0.0,condo,31,H2T 2P6,-73.6024,45.5278,Plateau Mont-Royal West,684
+1569826952,2120,apartment,1,0.0, '1 an',july,0.0,550.0,0,0.0,condo,64,H3A 1L6,-73.5804,45.5078,Downtown Montreal North,3417
+1569826918,490,apartment,1,0.0, '1 an',june,0.0,860.0,0,0.0,na,20,H1W 2B1,-73.5616,45.5423,Hochelaga,173
+1569812958,900,apartment,1,0.0, '1 an',july,1.0,,0,0.0,4 1/2,63,H2R 2M5,-73.6266,45.5452,Villeray Southeast,565
+1569826228,1250,apartment,1,1.0, '1 an',july,1.0,1.0,0,0.0,4 1/2,22,H2K1X4,-73.5672,45.53,Centre-Sud North,203
+1569826034,1095,apartment,1,0.0, '1 an',july,0.0,500.0,1,1.0,3 1/2,46,H1M 3B7,-73.5559,45.5902,Mercier West,744
+1569825980,945,Room,1,,,na,0.0,,0,0.0,na,64,H4B 1X6,-73.636,45.4681,Notre-Dame-de-Grâce Southwest,1516
+1558651113,1145,apartment,1,1.0, '1 an',august,0.0,1350.0,0,1.0,na,23,H3K 1S7,-73.564,45.4858,Pointe-Saint-Charles,759
+1569825779,595,apartment,1,0.0, '1 an',june,0.0,860.0,0,0.0,na,63,H8P 2R9,-73.5979,45.4371,LaSalle Southeast,2177
+1569811340,1700,apartment,1,0.0, '1 an',june,0.0,,0,0.0,3 1/2,53,H1V 3H6,-73.551,45.5702,Maisonneuve,1554
+1569825643,1250,apartment,1,0.0, '1 an',july,1.0,900.0,1,1.0,4 1/2,22,H2K1X4,-73.5672,45.53,Centre-Sud North,184
+1569329089,825,apartment,1,0.0, '1 an',july,0.0,400.0,0,0.0,na,55,H1V 1K6,-73.551,45.5702,Maisonneuve,3352
+1566251808,1800,apartment,1,0.0, '1 an',august,0.0,900.0,0,0.0,na,35,H2G1G7,-73.6061,45.5434,Petite-Patrie Northeast,1343
+1567456143,695,apartment,1,0.0, '1 an',june,0.0,600.0,0,0.0,2 1/2,57,H1V 2E7,-73.551,45.5702,Maisonneuve,975
+1569824939,1600,apartment,1,1.0, '1 an',july,1.0,1075.0,1,1.0,na,61,H1Y 3C4,-73.598,45.5525,Rosemont South,616
+1569825200,900,Room,1,,,na,0.0,,0,0.0,na,61,H4B 1N9,-73.636,45.4681,Notre-Dame-de-Grâce Southwest,1023
+1569824960,2350,apartment,1,0.0, '1 an',july,1.0,500.0,0,0.0,condo,57,H2X 2L2,-73.5739,45.5148,Plateau Mont-Royal Southeast,3141
+1569824710,995,apartment,1,1.0, '1 an',june,1.0,800.0,1,0.0,na,18,H1X 2G8,-73.5935,45.5577,Rosemont Central,902
+1569824686,1550,apartment,1,0.0, '1 an',june,0.0,700.0,0,1.0,condo,61,H3H 0A2,-73.5967,45.5123,Downtown Montreal South & West,887
+1569824579,1500,apartment,1,1.0, '1 an',august,1.0,792.0,0,1.0,condo,61,H8P 3C1,-73.5979,45.4371,LaSalle Southeast,1211
+1569824467,1690,apartment,1,0.0, '1 an',june,1.0,450.0,1,0.0,condo,64,H3G 1T6,-73.5853,45.5019,Downtown Montreal Southeast,2972
+1512462940,1550,apartment,1,0.0, '1 an',na,0.0,,0,,na,59,H3L 2N8,-73.6754,45.5529,Ahuntsic Southwest,1299
+1505830068,1140,apartment,1,0.0, '1 an',na,0.0,,1,,3 1/2,55,H2X 3J6,-73.5739,45.5148,Plateau Mont-Royal Southeast,514
+1546155303,1120,apartment,1,0.0, '1 an',september,0.0,548.0,0,1.0,3 1/2,57,H3H 1T6,-73.5967,45.5123,Downtown Montreal South & West,2080
+1568812654,1425,apartment,5,0.0, '1 an',june,0.0,1000.0,0,0.0,condo,64,H1S 3A9,-73.5985,45.5716,Saint-Léonard Southeast,2244
+1568626014,1099,apartment,8,, 'Non disponible',na,,,0,0.0,na,57,H1R 2T7,-73.6229,45.5844,Saint-Léonard West,422
+1544402041,900,apartment,18,0.0, '1 an',january,0.0,400.0,1,1.0,na,11,H1G 4X8,-73.6389,45.6061,Montreal North North,140
+1532591934,1350,apartment,3,0.0, '1 an',july,0.0,,0,1.0,na,36,H3H 1C3,-73.5967,45.5123,Downtown Montreal South & West,3906
+1505830068,900,apartment,1,0.0, '1 an',na,0.0,,1,,studio,60,H1V 2L9,-73.551,45.5702,Maisonneuve,1119
+1505830094,1150,apartment,1,0.0, 'Au mois',na,0.0,,0,1.0,na,44,H1B 5G6,-73.5502,45.6454,Montreal East,505
+1525863879,1425,apartment,1,0.0, '1 an',na,0.0,,0,1.0,condo,64,H1S 3A9,-73.5985,45.5716,Saint-Léonard Southeast,2244
+1505830082,995,apartment,1,0.0, '1 an',na,0.0,,1,,na,64,H2X 2N4,-73.5739,45.5148,Plateau Mont-Royal Southeast,1347
+1569824291,820,apartment,1,0.0, '1 an',july,0.0,900.0,0,0.0,na,63,H4B 1M5,-73.636,45.4681,Notre-Dame-de-Grâce Southwest,2135
+1569816014,1490,apartment,1,0.0, '1 an',july,0.0,,0,0.0,4 1/2,63,H2L 4G4,-73.5744,45.5252,Centre-Sud South,1613
+1569824082,1000,Room,1,,,na,0.0,,0,0.0,4 1/2,24,H1L 5S4,-73.5362,45.5943,Mercier North,278
+1569824064,640,apartment,1,0.0, '1 an',july,0.0,1200.0,0,0.0,studio,61,H1V 1B9,-73.551,45.5702,Maisonneuve,2707
+1569824049,500,apartment,1,0.0, '1 an',july,0.0,350.0,0,0.0,na,14,H2K2Z9,-73.5672,45.53,Centre-Sud North,294
+1569823941,1495,apartment,1,0.0, '1 an',july,1.0,1250.0,0,0.0,na,62,H4H 2N4,-73.5818,45.4532,Verdun South,434
+1569823938,575,apartment,1,0.0, '1 an',june,0.0,750.0,0,0.0,na,57,H3L 3L4,-73.6754,45.5529,Ahuntsic Southwest,460
+1569823919,1425,Room,1,1.0,,na,0.0,,0,0.0,na,56,H2K 1B4,-73.5672,45.53,Centre-Sud North,453
+1569823876,820,apartment,1,0.0, '1 an',june,1.0,732.0,0,1.0,3 1/2,48,H2E 2H4,-73.6256,45.5522,Villeray Northeast,331
+1569823752,1100,apartment,1,0.0, '1 an',july,0.0,500.0,0,0.0,na,62,H2K4E6,-73.5672,45.53,Centre-Sud North,2464
+1558758824,1550,apartment,1,0.0, '1 an',na,0.0,,0,0.0,condo,59,H3H 0A2,-73.5967,45.5123,Downtown Montreal South & West,887
+1558713327,715,apartment,1,0.0, '1 an',na,0.0,,0,0.0,na,50,H3S 1X4,-73.6292,45.5155,Côte-des-Neiges North,524
+1551598575,1495,apartment,1,1.0, '1 an',na,0.0,,0,0.0,3 1/2,50,H4C 2B5,-73.5922,45.478,Saint-Henri,598
+1549065404,1299,apartment,1,0.0, '1 an',na,0.0,,0,0.0,na,31,H4G 2Z2,-73.5798,45.4644,Verdun North,384
+1558713309,2999,apartment,1,0.0, '1 an',na,0.0,,0,0.0,na,29,H3T 1M9,-73.616,45.5115,Côte-des-Neiges Northeast,748
+1505769280,999,apartment,1,0.0, '1 an',na,0.0,,0,0.0,3 1/2,47,H3W 1P8,-73.6442,45.4988,Côte-des-Neiges Southwest,868
+1505846052,1199,apartment,1,0.0, '1 an',na,0.0,,0,0.0,na,56,H3W 2T7,-73.6442,45.4988,Côte-des-Neiges Southwest,841
+1505787168,999,apartment,1,0.0, '1 an',na,0.0,,0,,3 1/2,59,H4J 2K7,-73.7231,45.5353,Cartierville Central,482
+1532943672,899,apartment,1,0.0, '1 an',na,0.0,,0,0.0,2 1/2,58,H3W 1M4,-73.6442,45.4988,Côte-des-Neiges Southwest,992
+1505846078,1299,apartment,1,0.0, '1 an',na,0.0,,0,0.0,na,37,H4J 1S7,-73.7231,45.5353,Cartierville Central,534
+1505769535,1100,apartment,1,0.0, '1 an',na,0.0,,0,0.0,4 1/2,44,H2G 2N8,-73.6061,45.5434,Petite-Patrie Northeast,619
+1505769536,1450,apartment,1,0.0, '1 an',na,0.0,,0,0.0,4 1/2,62,H2X 2J7,-73.5739,45.5148,Plateau Mont-Royal Southeast,1726
+1516243802,1599,apartment,1,0.0, '1 an',na,0.0,,0,0.0,condo,55,H3L 2C8,-73.6754,45.5529,Ahuntsic Southwest,2464
+1505846089,1250,apartment,1,0.0, '1 an',na,0.0,,0,0.0,condo,55,H3L 2C8,-73.6754,45.5529,Ahuntsic Southwest,2447
+1569823683,1099,apartment,1,0.0, '1 an',july,0.0,900.0,0,0.0,studio,64,H2X 2J7,-73.5739,45.5148,Plateau Mont-Royal Southeast,1708
+1569822558,875,apartment,1,0.0, '1 an',june,1.0,,0,0.0,2 1/2,59,H2X 2J7,-73.5739,45.5148,Plateau Mont-Royal Southeast,1718
+1569810218,2340,apartment,1,0.0, '1 an',na,0.0,,0,0.0,na,61,H4C 1K1,-73.5922,45.478,Saint-Henri,771
+1569819581,950,apartment,1,0.0, '1 an',na,0.0,,1,1.0,3 1/2,60,H1T 2N8,-73.5869,45.5653,Rosemont North,817
+1569812957,1095,apartment,1,0.0, '1 an',june,1.0,,0,0.0,4 1/2,26,H1T 3R8,-73.5869,45.5653,Rosemont North,666
+1569820861,1585,apartment,1,0.0, '1 an',june,1.0,1800.0,1,1.0,condo,43,H2R 1W6,-73.6266,45.5452,Villeray Southeast,929
+1567749569,1325,apartment,1,0.0, '1 an',july,1.0,900.0,0,0.0,4 1/2,42,H1M 3B7,-73.5559,45.5902,Mercier West,1467
+1567748593,4000,apartment,1,0.0, '1 an',july,1.0,600.0,0,0.0,na,56,H2L 3C7,-73.5744,45.5252,Centre-Sud South,1134
+1559852870,890,apartment,1,0.0, '1 an',june,0.0,1.0,0,0.0,4 1/2,34,H1L 2M9,-73.5362,45.5943,Mercier North,685
+1563375794,860,apartment,4,1.0, '1 an',july,0.0,522.0,0,1.0,3 1/2,26,H4G 1X3,-73.5798,45.4644,Verdun North,422
+1559155401,700,apartment,5,0.0, '1 an',june,0.0,900.0,0,0.0,na,45,H1E 1Y5,-73.5729,45.6595,Rivière-Des-Prairies Southwest,536
+1505844409,1250,apartment,3,0.0, '1 an',na,0.0,,1,0.0,condo,61,H4E 0A2,-73.5863,45.468,Ville Émard,1216
+1462841684,1495,Room,7,1.0,,na,0.0,,0,0.0,4 1/2,48,H2J 3J6,-73.5928,45.5289,Plateau Mont-Royal North Central,589
+1569823056,1900,Room,1,,,na,0.0,,0,0.0,condo,54,H3W 1J4,-73.6442,45.4988,Côte-des-Neiges Southwest,984
+1569823022,995,Room,1,,,na,0.0,,0,0.0,studio,61,H3G 2A9,-73.5853,45.5019,Downtown Montreal Southeast,1282
+1569822901,490,apartment,1,0.0, 'Au mois',june,0.0,330.0,1,1.0,na,16,H3L 1W8,-73.6754,45.5529,Ahuntsic Southwest,272
+1569811586,1120,apartment,1,0.0, '1 an',july,1.0,350.0,0,0.0,na,19,H1Z 4A8,-73.6444,45.5652,Saint-Michel West,533
+1551598619,450,apartment,1,0.0, '1 an',february,0.0,690.0,0,1.0,na,13,H3W 1L4,-73.6442,45.4988,Côte-des-Neiges Southwest,338
+1551598632,1500,apartment,1,0.0, '1 an',february,1.0,740.0,0,1.0,na,48,H2L 3T1,-73.5744,45.5252,Centre-Sud South,793
+1564868062,1055,apartment,1,0.0, '1 an',may,0.0,535.0,0,1.0,studio,53,H3X 1Y9,-73.6483,45.4915,Hampstead,1994
+1564857161,1870,apartment,1,0.0, '1 an',july,0.0,740.0,0,1.0,na,46,H2L2X4,-73.5744,45.5252,Centre-Sud South,2319
+1563475070,1820,apartment,1,0.0, '1 an',july,0.0,1437.0,0,0.0,na,54,H2L2X4,-73.5744,45.5252,Centre-Sud South,2077
+1569822805,1590,Room,1,,,na,0.0,,0,0.0,na,44,H2L2X4,-73.5744,45.5252,Centre-Sud South,2173
+1569822697,1776,apartment,1,0.0, '1 an',june,1.0,630.0,0,1.0,na,50,H2L2X4,-73.5744,45.5252,Centre-Sud South,2290
+1569822691,2650,Room,1,1.0,,na,0.0,,0,0.0,na,58,H2T2H9,-73.6024,45.5278,Plateau Mont-Royal West,1542
+1569822608,1390,apartment,1,1.0, '1 an',june,0.0,1150.0,0,0.0,3 1/2,50,H3C 4A8,-73.5679,45.503,Griffintown (Includes Île Notre-Dame & Île Sainte-Hélène),2217
+1569822598,1100,apartment,1,0.0, '1 an',june,0.0,300.0,0,0.0,studio,30,H8R 3T3,-73.6557,45.4473,Saint-Pierre,478
+1567970598,1150,apartment,1,0.0, '1 an',august,0.0,340.0,1,1.0,na,55,H2K 1B4,-73.5672,45.53,Centre-Sud North,409
+1569822236,1765,Room,1,,,na,0.0,,0,0.0,na,52,H3H 1C5,-73.5967,45.5123,Downtown Montreal South & West,3703
+1569822201,675,apartment,1,0.0, '1 an',august,1.0,979.0,1,1.0,na,50,H4J 2M7,-73.7231,45.5353,Cartierville Central,2637
+1569822199,1250,apartment,1,0.0, '1 an',july,1.0,350.0,0,0.0,na,54,H3C 0P8,-73.5679,45.503,Griffintown (Includes Île Notre-Dame & Île Sainte-Hélène),1883
+1567701368,750,apartment,1,1.0, '1 an',july,0.0,450.0,0,1.0,na,64,H1V 3K8,-73.551,45.5702,Maisonneuve,1339
+1569822056,2350,apartment,1,0.0, '1 an',june,1.0,900.0,0,1.0,4 1/2,39,H2X 2R1,-73.5739,45.5148,Plateau Mont-Royal Southeast,519
+1569818788,795,apartment,1,0.0, '1 an',july,0.0,,0,0.0,na,11,H2H 1C7,-73.5837,45.5377,Plateau Mont-Royal North,990
+1569817054,1275,Room,1,,,na,0.0,,0,0.0,na,58,H4C 2M6,-73.5922,45.478,Saint-Henri,1658
+1569811353,1500,apartment,1,0.0, '1 an',july,1.0,,0,0.0,4 1/2,55,H2W 1S6,-73.5839,45.5194,Plateau Mont-Royal South Central,909
+1569812752,1200,apartment,1,0.0, '1 an',june,0.0,,0,0.0,3 1/2,52,H1V 3G9,-73.551,45.5702,Maisonneuve,822
+1569820387,800,apartment,1,0.0, '1 an',july,0.0,,0,0.0,na,47,H3H 1C5,-73.5967,45.5123,Downtown Montreal South & West,1899
+1569809787,900,apartment,1,0.0, '1 an',na,0.0,,0,0.0,3 1/2,59,H1V 1K6,-73.551,45.5702,Maisonneuve,3160
+1569809410,1225,apartment,1,, 'Non disponible',na,0.0,,0,0.0,4 1/2,51,H3S 1G2,-73.6292,45.5155,Côte-des-Neiges North,1356
+1569822076,1100,apartment,1,0.0, '1 an',july,0.0,1.0,0,0.0,3 1/2,39,H2T 2S9,-73.6024,45.5278,Plateau Mont-Royal West,878
+1569821976,1650,apartment,1,0.0, '1 an',september,0.0,130.0,1,1.0,na,64,H4G 1T2,-73.5798,45.4644,Verdun North,2262
+1569821621,1200,apartment,1,0.0, '1 an',july,1.0,1800.0,0,0.0,2 1/2,48,H3C1N5,-73.5679,45.503,Griffintown (Includes Île Notre-Dame & Île Sainte-Hélène),1369
+1567182581,900,apartment,1,0.0, '1 an',july,1.0,750.0,1,1.0,studio,43,H3X1V6,-73.6483,45.4915,Hampstead,407
+1566598640,825,apartment,1,0.0, '1 an',july,1.0,750.0,0,1.0,4 1/2,45,H1Z 1R2,-73.6444,45.5652,Saint-Michel West,904
+1569821556,1700,apartment,1,0.0, '1 an',june,0.0,750.0,0,0.0,na,62,H2K1K5,-73.5672,45.53,Centre-Sud North,3349
+1569821486,1290,apartment,1,0.0, '1 an',july,1.0,850.0,0,0.0,3 1/2,64,H2X1X3,-73.5739,45.5148,Plateau Mont-Royal Southeast,1004
+1569816041,1290,apartment,1,0.0, '1 an',july,0.0,,0,0.0,3 1/2,26,H2X 1C3,-73.5739,45.5148,Plateau Mont-Royal Southeast,1038
+1528170492,820,apartment,1,0.0, '1 an',january,0.0,586.0,0,1.0,3 1/2,42,H2E 2H4,-73.6256,45.5522,Villeray Northeast,306
+1528170374,925,apartment,1,0.0, '1 an',january,0.0,728.0,0,1.0,4 1/2,45,H1Z 3M6,-73.6444,45.5652,Saint-Michel West,894
+1569232177,640,apartment,1,0.0, '1 an',july,0.0,600.0,1,0.0,studio,61,H1V 1B9,-73.551,45.5702,Maisonneuve,2707
+1536421473,1195,apartment,18,0.0, '1 an',na,0.0,,0,0.0,condo,56,H1R 3C0,-73.6229,45.5844,Saint-Léonard West,1009
+1569817050,1395,apartment,1,0.0, '1 an',na,0.0,,0,,condo,56,H1R 3N3,-73.6229,45.5844,Saint-Léonard West,1035
+1569821380,1550,apartment,1,0.0, '1 an',june,0.0,600.0,1,1.0,condo,43,H2L 0G2,-73.5744,45.5252,Centre-Sud South,849
+1569821241,595,apartment,1,0.0, '1 an',july,0.0,225.0,0,0.0,na,60,H3S 1T9,-73.6292,45.5155,Côte-des-Neiges North,486
+1569821038,1299,apartment,1,0.0, '1 an',june,0.0,750.0,0,0.0,na,57,H2X 1X7,-73.5739,45.5148,Plateau Mont-Royal Southeast,1476
+1569821006,1765,apartment,1,0.0, '1 an',july,1.0,700.0,1,0.0,na,64,H3H 1C5,-73.5967,45.5123,Downtown Montreal South & West,2790
+1569821001,1300,apartment,1,0.0, '1 an',june,0.0,1.0,0,1.0,3 1/2,54,H2R2A9,-73.6266,45.5452,Villeray Southeast,1147
+1569820893,585,apartment,1,0.0, '1 an',july,0.0,800.0,0,0.0,studio,61,H1M2K7,-73.5559,45.5902,Mercier West,335
+1569820889,820,apartment,1,0.0, '1 an',june,0.0,650.0,0,0.0,3 1/2,42,H2E 2H4,-73.6256,45.5522,Villeray Northeast,306
+1569820883,1195,apartment,1,0.0, '1 an',august,1.0,450.0,0,0.0,na,39,H1N 1L9,-73.5499,45.5719,Mercier Southeast,223
+1569809755,775,apartment,1,0.0, '1 an',august,0.0,700.0,1,0.0,na,63,,-1.0,-1.0,-1,1860
+1569811022,1100,apartment,1,0.0, '1 an',august,1.0,450.0,0,0.0,na,42,H4A 1G1,-73.6252,45.4781,Notre-Dame-de-Grâce Northeast,1041
+1569812965,942,apartment,1,0.0, '1 an',july,1.0,,0,0.0,na,49,H2S 1B9,-73.6144,45.5356,Petite-Patrie Southwest,344
+1569820577,915,apartment,1,0.0, '1 an',july,0.0,500.0,0,0.0,condo,60,H1W 2E3,-73.5616,45.5423,Hochelaga,3343
+1569820514,1450,apartment,1,0.0, '1 an',june,0.0,1.0,0,0.0,na,61,H4G 1T2,-73.5798,45.4644,Verdun North,1534
+1569820301,1445,apartment,1,0.0, '1 an',june,0.0,1200.0,0,0.0,na,36,H2X 2B5,-73.5739,45.5148,Plateau Mont-Royal Southeast,1664
+1566046866,775,apartment,1,0.0, '1 an',july,1.0,975.0,0,1.0,2 1/2,54,H3S 1G2,-73.6292,45.5155,Côte-des-Neiges North,749
+1569820252,1100,apartment,1,1.0, '1 an',july,1.0,1400.0,0,0.0,2 1/2,24,H2X 1T8,-73.5739,45.5148,Plateau Mont-Royal Southeast,219
+1569820148,1200,apartment,1,0.0, '1 an',june,0.0,650.0,0,0.0,na,61,H4A 2Z1,-73.6252,45.4781,Notre-Dame-de-Grâce Northeast,1804
+1569811876,1295,apartment,1,0.0, '1 an',na,0.0,,0,0.0,na,48,H1X 1P8,-73.5935,45.5577,Rosemont Central,1033
+1569811901,1750,apartment,1,0.0, '1 an',na,0.0,,0,0.0,na,63,H1G 3Z4,-73.6389,45.6061,Montreal North North,656
+1569811826,850,apartment,1,0.0, '1 an',na,0.0,,1,0.0,3 1/2,62,H1N 1E3,-73.5499,45.5719,Mercier Southeast,104
+1569819941,790,apartment,1,1.0, '1 an',july,1.0,1100.0,0,1.0,na,46,H8R 2A8,-73.6557,45.4473,Saint-Pierre,1420
+1569819597,1125,apartment,1,0.0, '1 an',september,1.0,900.0,0,1.0,4 1/2,26,H1T 3R9,-73.5869,45.5653,Rosemont North,676
+1569819552,875,apartment,1,0.0, '1 an',june,0.0,750.0,0,0.0,3 1/2,26,H1T 3R9,-73.5869,45.5653,Rosemont North,610
+1569819528,850,apartment,1,0.0, '1 an',july,0.0,800.0,0,0.0,3 1/2,26,H4E 2R7,-73.5863,45.468,Ville Émard,392
+1569819462,1625,apartment,1,1.0, '1 an',july,0.0,450.0,1,0.0,na,61,H3N 2J4,-73.6464,45.5335,Parc-Extension,2085
+1569819304,1400,Room,1,,,na,0.0,,0,0.0,na,28,H3L 2E2,-73.6754,45.5529,Ahuntsic Southwest,146
+1569819248,1300,apartment,1,0.0, '1 an',june,0.0,750.0,0,0.0,na,54,H4V 2H8,-73.6555,45.4755,Côte-Saint-Luc East,1889
+1569819133,850,apartment,1,0.0, '1 an',june,0.0,775.0,0,0.0,na,51,H1Z 3T5,-73.6444,45.5652,Saint-Michel West,507
+1569818955,975,Room,1,,,na,0.0,,0,0.0,3 1/2,62,,-1.0,-1.0,-1,844
+1569812975,700,apartment,1,1.0, '1 an',may,1.0,,0,0.0,na,53,H3H 1N7,-73.5967,45.5123,Downtown Montreal South & West,660
+1569812741,1250,apartment,1,0.0, '1 an',july,1.0,,0,0.0,4 1/2,56,H4V 1P2,-73.6555,45.4755,Côte-Saint-Luc East,584
+1569811345,800,apartment,1,0.0, '1 an',na,0.0,,0,,na,30,H4N 1L5,-73.6807,45.5329,Saint-Laurent Outer Northeast,847
+1569809741,590,apartment,1,0.0, '1 an',september,0.0,800.0,0,0.0,na,62,H3H 1G5,-73.5967,45.5123,Downtown Montreal South & West,2101
+1569809563,1095,apartment,1,0.0, '1 an',na,0.0,,0,0.0,na,48,H1M 3B7,-73.5559,45.5902,Mercier West,864
+1569362568,775,apartment,4,0.0, '1 an',may,1.0,940.0,0,1.0,2 1/2,54,H3S 1G2,-73.6292,45.5155,Côte-des-Neiges North,1340
+1548275796,900,apartment,3,0.0, '1 an',july,0.0,650.0,0,1.0,3 1/2,61,H1V 1K6,-73.551,45.5702,Maisonneuve,3143
+1505777134,800,apartment,3,0.0, '1 an',na,,,1,,2 1/2,38,H2P 1S2,-73.6418,45.5409,Villeray West,1524
+1505773527,1095,apartment,29,0.0, '1 an',na,0.0,,0,0.0,4 1/2,26,H4E 2R7,-73.5863,45.468,Ville Émard,392
+1569809260,1430,apartment,1,0.0, '1 an',august,1.0,586.0,1,1.0,na,28,H1T 4B5,-73.5869,45.5653,Rosemont North,707
+1569818782,915,apartment,1,0.0, '1 an',june,0.0,1100.0,0,0.0,na,63,H1H0C2,-73.6524,45.5829,Montreal North South,706
+1569818775,1915,apartment,1,0.0, '1 an',june,0.0,725.0,0,0.0,na,48,H3C 1V8,-73.5679,45.503,Griffintown (Includes Île Notre-Dame & Île Sainte-Hélène),3533
+1569818759,1150,apartment,1,1.0, '1 an',june,0.0,1300.0,0,0.0,na,38,H4V 2P5,-73.6555,45.4755,Côte-Saint-Luc East,1040
+1569818708,1690,Room,1,,,na,0.0,,0,0.0,na,54,H1V 2W4,-73.551,45.5702,Maisonneuve,1529
+1569818605,1430,apartment,1,0.0, '1 an',july,1.0,550.0,0,0.0,condo,61,H3C 1V6,-73.5679,45.503,Griffintown (Includes Île Notre-Dame & Île Sainte-Hélène),1163
+1569818601,1200,apartment,1,0.0, '1 an',july,1.0,1000.0,0,0.0,na,39,H4N 1L5,-73.6807,45.5329,Saint-Laurent Outer Northeast,1010
+1569812310,875,apartment,1,0.0, '1 an',june,1.0,600.0,1,1.0,na,60,H1W 2S3,-73.5616,45.5423,Hochelaga,359
+1569814827,1650,apartment,1,0.0, '1 an',june,1.0,,1,0.0,na,57,H1H 2J5,-73.6524,45.5829,Montreal North South,1906
+1569809557,547,apartment,1,0.0, '1 an',july,0.0,,0,0.0,na,55,H3W2J7,-73.6442,45.4988,Côte-des-Neiges Southwest,1355
+1569810258,925,apartment,1,0.0, '1 an',september,1.0,,0,0.0,3 1/2,23,H2L 3L7,-73.5744,45.5252,Centre-Sud South,491
+1569809411,1275,apartment,1,, 'Non disponible',na,0.0,,0,0.0,4 1/2,53,H1X3K1,-73.5935,45.5577,Rosemont Central,265
+1569818299,1300,apartment,1,0.0, '1 an',july,0.0,1100.0,0,0.0,condo,50,H2K 3V6,-73.5672,45.53,Centre-Sud North,1080
+1569818182,1950,apartment,1,0.0, '1 an',july,1.0,550.0,0,0.0,4 1/2,63,H2X 2E1,-73.5739,45.5148,Plateau Mont-Royal Southeast,1249
+1569813304,750,apartment,1,0.0, '1 an',june,0.0,,0,0.0,studio,38,H2P 1S2,-73.6418,45.5409,Villeray West,1483
+1569816022,2525,apartment,1,0.0, '1 an',july,0.0,,0,0.0,na,64,H2X 3K3,-73.5739,45.5148,Plateau Mont-Royal Southeast,407
+1569817025,925,apartment,1,1.0, '1 an',june,0.0,900.0,0,0.0,na,61,,-1.0,-1.0,-1,877
+1569816816,950,apartment,1,0.0, '1 an',july,0.0,400.0,0,0.0,4 1/2,62,H2E 1Z3,-73.6256,45.5522,Villeray Northeast,200
+1569816551,650,apartment,1,0.0, '1 an',july,0.0,600.0,0,1.0,na,57,H2W 1C9,-73.5839,45.5194,Plateau Mont-Royal South Central,758
+1569816292,815,apartment,1,0.0, '1 an',july,0.0,700.0,0,0.0,3 1/2,60,H1V 1B9,-73.551,45.5702,Maisonneuve,492
+1561408541,550,apartment,1,1.0, '1 an',june,0.0,800.0,1,0.0,2 1/2,47,H2K2Z8,-73.5672,45.53,Centre-Sud North,177
+1350048286,1500,Room,1,,,na,0.0,,0,0.0,na,12,H1N 3A3,-73.5499,45.5719,Mercier Southeast,91
+1569816209,630,Room,1,1.0,,na,0.0,,0,0.0,2 1/2,24,H1B 5A4,-73.5502,45.6454,Montreal East,424
+1564750857,1650,apartment,1,0.0, '1 an',july,0.0,900.0,0,0.0,condo,62,H3H 0A2,-73.5967,45.5123,Downtown Montreal South & West,968
+1569815868,850,Room,1,,,na,0.0,,0,0.0,na,49,H2T 2P9,-73.6024,45.5278,Plateau Mont-Royal West,434
+1569815865,1600,apartment,1,0.0, 'Au mois',july,0.0,1475.0,0,1.0,condo,64,H2G 2K5,-73.6061,45.5434,Petite-Patrie Northeast,740
+1564861099,1050,apartment,1,1.0, '1 an',july,1.0,900.0,0,0.0,na,36,H2S 1C9,-73.6144,45.5356,Petite-Patrie Southwest,312
+1569815492,1050,apartment,1,0.0, 'Au mois',july,0.0,1000.0,0,0.0,na,59,H3S 1S4,-73.6292,45.5155,Côte-des-Neiges North,148
+1569815291,3800,apartment,1,0.0, '1 an',july,0.0,960.0,1,1.0,condo,64,H3B 3A7,-73.5672,45.5058,Downtown Montreal East,1111
+1569815275,1300,Room,1,,,na,0.0,,0,0.0,4 1/2,64,H3K 1L9,-73.564,45.4858,Pointe-Saint-Charles,897
+1553548798,1550,apartment,1,0.0, '1 an',june,1.0,850.0,0,0.0,na,61,H3N 2S2,-73.6464,45.5335,Parc-Extension,874
+1564600083,810,apartment,1,0.0, '1 an',june,1.0,507.0,0,0.0,3 1/2,57,H8R 2A7,-73.6557,45.4473,Saint-Pierre,1284
+1564682487,1450,apartment,1,0.0, '1 an',june,1.0,500.0,0,0.0,na,26,H4C 3R7,-73.5922,45.478,Saint-Henri,326
+1560383064,960,apartment,1,0.0, '1 an',june,1.0,266.0,0,0.0,3 1/2,35,H3H 2M1,-73.5967,45.5123,Downtown Montreal South & West,2775
+1560155619,1950,apartment,1,0.0, '1 an',june,1.0,1090.0,0,0.0,na,56,H3H 1K7,-73.5967,45.5123,Downtown Montreal South & West,3944
+0,1135,,1,,,na,0.0,,0,0.0,na,51,H2L 1L8,-73.5744,45.5252,Centre-Sud South,4265
+0,1045,,1,,,na,0.0,,0,0.0,studio,64,H3H 1K7,-73.5967,45.5123,Downtown Montreal South & West,3565
+0,1250,,1,,,na,0.0,,0,0.0,3 1/2,63,H3H 1K7,-73.5967,45.5123,Downtown Montreal South & West,3957
+0,810,,1,,,na,0.0,,0,0.0,studio,36,H3H 2M1,-73.5967,45.5123,Downtown Montreal South & West,2774
+0,1595,,1,,,na,0.0,,0,0.0,na,51,H4B 2K8,-73.636,45.4681,Notre-Dame-de-Grâce Southwest,3598
