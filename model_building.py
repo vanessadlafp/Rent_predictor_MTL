@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Wed Jun 16 18:27:57 2021
+Created on Fri Jun 25 18:05:27 2021
 
 @author: Vanessa
 """
@@ -12,11 +12,12 @@ import seaborn as sns
 import statsmodels.api as sm
 import scipy.stats as stats
 from scipy.stats import norm
-from sklearn.linear_model import LinearRegression
 import math
 from sklearn.metrics import mean_squared_error, mean_absolute_error
 from sklearn.model_selection import train_test_split
-
+from sklearn.linear_model import LinearRegression, Lasso
+from sklearn.model_selection import cross_val_score
+from sklearn.ensemble import RandomForestRegressor
 
 df = pd.read_csv('data_eda.csv')
 
@@ -52,24 +53,14 @@ df_model['AC']= df_model.AC.astype(str)
 categorical_data= df_model.select_dtypes('object')
 Features = df_model.select_dtypes('number')
 
-# Check the skew of all numerical features
-skewed_feats = Features.skew().sort_values(ascending=False)
-skewness= pd.DataFrame({'Skew':skewed_feats})
 
 ##Regular linear regression will be made as a baseline for other models to 
 ## properly understand the weight each feature has on the target 
 
 ##Create dummy variables
 df_dummies= pd.get_dummies(categorical_data, drop_first=True)
-df_dum= np.array(df_dummies)
 
-
-##We first scale the data
-scaler= StandardScaler()
-scaler.fit(Features)
-inputs_scaled= scaler.transform(Features)
-
-predictors= np.concatenate((inputs_scaled,df_dum), axis=1)
+predictors= pd.concat([Features,df_dummies], axis=1)
 
 ##Checking OLS assumptions
 
@@ -98,48 +89,72 @@ fig.suptitle(" qq-plot & distribution SalePrice ", fontsize= 15)
 
 sm.qqplot(targets, stats.t, distargs=(4,),fit=True, line="45", ax = ax[0])
 
-##train test split 
-
-X_train, X_test, y_train, y_test = train_test_split(predictors, targets, test_size=0.2, random_state=1)
+#Train test split
+X_train, X_test, y_train, y_test = train_test_split(predictors, targets, test_size=0.2, random_state=42)
 
 # multiple linear regression 
-X_sm =sm.add_constant(X_train)
-model = sm.OLS(y_train,X_sm)
+X_sm = predictors = sm.add_constant(predictors)
+model = sm.OLS(targets,X_sm)
 model.fit().summary()
 
 
+##Actual regression
+lm = LinearRegression()
+lm.fit(X_train, y_train)
+
+np.mean(cross_val_score(lm,X_train,y_train, scoring = 'neg_mean_absolute_error', cv= 3))
+
+# lasso regression 
+lm_l = Lasso(alpha= 0.01)
+lm_l.fit(X_train,y_train)
+np.mean(cross_val_score(lm_l,X_train,y_train, scoring = 'neg_mean_absolute_error', cv= 3))
 
 
-##sklearn
+alpha = []
+error = []
 
-reg= LinearRegression()
-reg.fit(X_train, y_train)
-y_hat= reg.predict(X_train)
+for i in range(1,100):
+    alpha.append(i/100)
+    lml = Lasso(alpha=(i/100))
+    error.append(np.mean(cross_val_score(lml,X_train,y_train, scoring = 'neg_mean_absolute_error', cv= 3)))
+    
+plt.plot(alpha,error)
 
-plt.scatter(y_train, y_hat)
+err = tuple(zip(alpha,error))
+df_err = pd.DataFrame(err, columns = ['alpha','error'])
+df_err[df_err.error == max(df_err.error)]
 
-sns.distplot(y_train- y_hat)
+# random forest 
+rf = RandomForestRegressor()
+np.mean(cross_val_score(rf,X_train,y_train,scoring = 'neg_mean_absolute_error', cv= 3))
 
-reg.score(X_train, y_train)
+from sklearn.model_selection import GridSearchCV
+parameters = {'n_estimators':range(10,300,10), 'criterion':('mse','mae'), 'max_features':('auto','sqrt','log2')}
+gs = GridSearchCV(rf,parameters,scoring='neg_mean_absolute_error',cv=3)
+gs.fit(X_train,y_train)
 
-reg.intercept_
+gs.best_score_
+gs.best_estimator_
 
-reg.coef_
+# test ensembles 
+tpred_lm = lm.predict(X_test)
+tpred_lml = lm_l.predict(X_test)
+tpred_rf = gs.best_estimator_.predict(X_test)
 
-features_cols= [c for c in Features.columns.values]
-dummies_cols= [c for c in df_dummies.columns.values]
-coef_cols= features_cols + dummies_cols
+mean_absolute_error(y_test,tpred_lm)
+mean_absolute_error(y_test,tpred_lml)
+mean_absolute_error(y_test,tpred_rf)
 
-reg_summary= pd.DataFrame(coef_cols, columns= ["Features"])
-reg_summary["Weights"]= reg.coef_
-
-
-sns.set_style("white")
-plt.figure(figsize= (40,40))
-sns.barplot(x= 'Weights', y='Features', data= reg_summary)
-plt.title("Coeficcients OLS", fontsize= 14,
-         weight= "bold")
-sns.despine()
+mean_absolute_error(y_test,(tpred_lm+tpred_rf)/2)
 
 
-y_hat_test= reg.predict(X_test)
+import pickle
+pickl = {'model': gs.best_estimator_}
+pickle.dump( pickl, open( 'model_file' + ".p", "wb" ) )
+
+file_name = "model_file.p"
+with open(file_name, 'rb') as pickled:
+    data = pickle.load(pickled)
+    model = data['model']
+
+model.predict(np.array(list(X_test.iloc[1,:])).reshape(1,-1))[0]
