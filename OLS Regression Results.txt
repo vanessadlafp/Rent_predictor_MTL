@@ -1,0 +1,139 @@
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                  price   R-squared:                       0.383
+Model:                            OLS   Adj. R-squared:                  0.318
+Method:                 Least Squares   F-statistic:                     5.899
+Date:                Fri, 25 Jun 2021   Prob (F-statistic):           3.88e-57
+Time:                        18:49:22   Log-Likelihood:                -351.45
+No. Observations:                1178   AIC:                             928.9
+Df Residuals:                    1065   BIC:                             1502.
+Df Model:                         112                                         
+Covariance Type:            nonrobust                                         
+======================================================================================================================================
+                                                                         coef    std err          t      P>|t|      [0.025      0.975]
+--------------------------------------------------------------------------------------------------------------------------------------
+const                                                                  6.4309      0.129     49.945      0.000       6.178       6.684
+days_since                                                             0.0008      0.004      0.224      0.823      -0.006       0.008
+parking                                                                0.0821      0.029      2.856      0.004       0.026       0.139
+title_length                                                           0.0022      0.001      2.505      0.012       0.000       0.004
+desc_length                                                          2.92e-05   1.17e-05      2.502      0.013     6.3e-06    5.21e-05
+lease_term_ 'Au mois'                                                 -0.0919      0.071     -1.288      0.198      -0.232       0.048
+moving_date_august                                                     0.1976      0.086      2.297      0.022       0.029       0.366
+moving_date_december                                                   0.0126      0.163      0.077      0.939      -0.308       0.333
+moving_date_february                                                   0.1630      0.153      1.068      0.286      -0.136       0.462
+moving_date_january                                                    0.0972      0.142      0.683      0.495      -0.182       0.376
+moving_date_july                                                       0.0711      0.075      0.945      0.345      -0.077       0.219
+moving_date_june                                                       0.0949      0.077      1.235      0.217      -0.056       0.246
+moving_date_march                                                      0.1125      0.139      0.807      0.420      -0.161       0.386
+moving_date_may                                                        0.1595      0.091      1.744      0.082      -0.020       0.339
+moving_date_na                                                         0.1324      0.082      1.608      0.108      -0.029       0.294
+moving_date_november                                                   0.0404      0.356      0.114      0.910      -0.658       0.738
+moving_date_october                                                   -0.0507      0.126     -0.404      0.687      -0.297       0.196
+moving_date_september                                                  0.0285      0.105      0.272      0.786      -0.177       0.234
+pets_allowed_1.0                                                       0.0087      0.023      0.382      0.703      -0.036       0.053
+furnished_1                                                           -0.0027      0.027     -0.100      0.920      -0.057       0.051
+AC_1.0                                                                 0.0351      0.026      1.372      0.170      -0.015       0.085
+district_Ahuntsic Central                                             -0.2958      0.352     -0.840      0.401      -0.987       0.395
+district_Ahuntsic East                                                -0.1150      0.130     -0.886      0.376      -0.370       0.140
+district_Ahuntsic North                                               -0.1557      0.147     -1.057      0.291      -0.445       0.133
+district_Ahuntsic Southeast                                           -0.3623      0.351     -1.033      0.302      -1.051       0.326
+district_Ahuntsic Southwest                                           -0.3045      0.126     -2.414      0.016      -0.552      -0.057
+district_Anjou East                                                    0.0231      0.141      0.164      0.870      -0.253       0.299
+district_Cartierville Central                                         -0.1473      0.122     -1.206      0.228      -0.387       0.092
+district_Cartierville Northeast                                       -0.1530      0.186     -0.821      0.412      -0.519       0.213
+district_Centre-Sud North                                             -0.0460      0.084     -0.548      0.584      -0.211       0.119
+district_Centre-Sud South                                              0.1196      0.081      1.471      0.142      -0.040       0.279
+district_Châteauguay North                                            -0.4357      0.352     -1.237      0.216      -1.127       0.255
+district_Côte-Saint-Luc East                                          -0.0332      0.156     -0.212      0.832      -0.340       0.274
+district_Côte-Saint-Luc West                                           0.2714      0.169      1.610      0.108      -0.059       0.602
+district_Côte-des-Neiges East                                          0.0701      0.136      0.515      0.607      -0.197       0.337
+district_Côte-des-Neiges North                                        -0.2254      0.092     -2.462      0.014      -0.405      -0.046
+district_Côte-des-Neiges Northeast                                     0.0108      0.135      0.080      0.936      -0.254       0.276
+district_Côte-des-Neiges Southwest                                     0.1295      0.098      1.328      0.185      -0.062       0.321
+district_Dollard-Des- Ormeaux Southwest                               -0.2652      0.352     -0.754      0.451      -0.955       0.425
+district_Dorval Outskirts                                             -1.7039      0.350     -4.862      0.000      -2.392      -1.016
+district_Downtown Montreal East                                        0.1754      0.210      0.834      0.405      -0.238       0.588
+district_Downtown Montreal North                                       0.3336      0.353      0.946      0.344      -0.358       1.025
+district_Downtown Montreal Northeast                                   0.1164      0.142      0.819      0.413      -0.162       0.395
+district_Downtown Montreal South & West                                0.0197      0.084      0.236      0.814      -0.144       0.184
+district_Downtown Montreal Southeast                                   0.2884      0.095      3.036      0.002       0.102       0.475
+district_Griffintown (Includes Île Notre-Dame & Île Sainte-Hélène)     0.3039      0.094      3.223      0.001       0.119       0.489
+district_Hampstead                                                     0.0125      0.113      0.111      0.912      -0.209       0.234
+district_Hochelaga                                                    -0.2470      0.095     -2.590      0.010      -0.434      -0.060
+district_L'Île Bizard Northeast                                        0.2936      0.352      0.834      0.404      -0.397       0.984
+district_L'Île-Des-Soeurs                                             -0.0063      0.125     -0.050      0.960      -0.252       0.239
+district_L'Île-Dorval                                                 -0.3829      0.255     -1.499      0.134      -0.884       0.118
+district_LaSalle Northwest                                            -0.0679      0.124     -0.547      0.584      -0.311       0.175
+district_LaSalle Southeast                                            -0.3588      0.210     -1.707      0.088      -0.771       0.054
+district_Lachine East                                                 -0.0813      0.142     -0.571      0.568      -0.361       0.198
+district_Lachine West                                                 -0.1653      0.170     -0.969      0.333      -0.500       0.169
+district_Longueuil Southwest                                          -0.5553      0.352     -1.579      0.115      -1.245       0.135
+district_Maisonneuve                                                  -0.0825      0.100     -0.825      0.410      -0.279       0.114
+district_Mercier North                                                -0.1502      0.125     -1.202      0.230      -0.395       0.095
+district_Mercier Southeast                                            -0.1113      0.141     -0.788      0.431      -0.388       0.166
+district_Mercier West                                                 -0.0176      0.107     -0.164      0.870      -0.228       0.192
+district_Montreal East                                                -0.0634      0.158     -0.402      0.687      -0.373       0.246
+district_Montreal North North                                         -0.0689      0.142     -0.485      0.628      -0.348       0.210
+district_Montreal North South                                         -0.1485      0.110     -1.347      0.178      -0.365       0.068
+district_Montreal West                                                 0.1843      0.254      0.726      0.468      -0.314       0.682
+district_Mount Royal North                                             0.0819      0.169      0.483      0.629      -0.251       0.414
+district_Mount Royal South                                            -0.1293      0.189     -0.685      0.493      -0.499       0.241
+district_Notre-Dame-de-Grâce Northeast                                 0.1075      0.091      1.185      0.236      -0.071       0.286
+district_Notre-Dame-de-Grâce Southwest                                -0.0693      0.126     -0.551      0.582      -0.316       0.178
+district_Old Montreal                                                  1.0504      0.351      2.992      0.003       0.362       1.739
+district_Outremont                                                     0.2547      0.105      2.431      0.015       0.049       0.460
+district_Parc-Extension                                               -0.0322      0.102     -0.316      0.752      -0.232       0.168
+district_Petite-Bourgogne                                              0.2388      0.110      2.179      0.030       0.024       0.454
+district_Petite-Patrie Northeast                                      -0.0165      0.102     -0.162      0.871      -0.217       0.184
+district_Petite-Patrie Southwest                                      -0.0755      0.104     -0.726      0.468      -0.280       0.129
+district_Place Bonaventure                                             0.2862      0.353      0.811      0.418      -0.407       0.979
+district_Plateau Mont-Royal North                                     -0.2184      0.141     -1.552      0.121      -0.494       0.058
+district_Plateau Mont-Royal North Central                              0.0601      0.092      0.655      0.512      -0.120       0.240
+district_Plateau Mont-Royal South Central                              0.1893      0.106      1.788      0.074      -0.018       0.397
+district_Plateau Mont-Royal Southeast                                  0.1453      0.085      1.699      0.090      -0.022       0.313
+district_Plateau Mont-Royal West                                       0.0044      0.121      0.036      0.971      -0.234       0.242
+district_Pointe-Aux-Trembles                                          -0.7871      0.170     -4.629      0.000      -1.121      -0.454
+district_Pointe-Saint-Charles                                         -0.4520      0.129     -3.495      0.000      -0.706      -0.198
+district_Rivière-Des-Prairies Southwest                               -0.3617      0.148     -2.437      0.015      -0.653      -0.070
+district_Rosemont Central                                             -0.1269      0.104     -1.223      0.222      -0.331       0.077
+district_Rosemont North                                               -0.0881      0.097     -0.910      0.363      -0.278       0.102
+district_Rosemont South                                               -0.1516      0.113     -1.338      0.181      -0.374       0.071
+district_Roxboro                                                      -0.0788      0.212     -0.372      0.710      -0.494       0.337
+district_Saint-Henri                                                   0.2915      0.115      2.527      0.012       0.065       0.518
+district_Saint-Laurent Central                                         0.3384      0.159      2.135      0.033       0.027       0.649
+district_Saint-Laurent Inner Northeast                                -0.0994      0.119     -0.834      0.405      -0.334       0.135
+district_Saint-Laurent Outer Northeast                                -0.0525      0.109     -0.481      0.631      -0.267       0.162
+district_Saint-Léonard North                                          -0.2184      0.253     -0.862      0.389      -0.715       0.279
+district_Saint-Léonard Southeast                                      -0.1060      0.186     -0.569      0.569      -0.471       0.259
+district_Saint-Léonard West                                            0.0634      0.135      0.468      0.640      -0.202       0.329
+district_Saint-Michel East                                            -0.3665      0.131     -2.807      0.005      -0.623      -0.110
+district_Saint-Michel West                                            -0.3863      0.125     -3.079      0.002      -0.633      -0.140
+district_Saint-Pierre                                                 -0.1181      0.125     -0.947      0.344      -0.363       0.127
+district_Sainte-Anne-De- Bellevue                                     -0.8329      0.353     -2.359      0.019      -1.526      -0.140
+district_Vaudreuil- Dorion                                             0.5418      0.352      1.541      0.124      -0.148       1.232
+district_Verdun North                                                  0.0059      0.095      0.062      0.951      -0.180       0.192
+district_Verdun South                                                 -0.0166      0.211     -0.079      0.937      -0.430       0.397
+district_Ville Émard                                                  -0.0876      0.110     -0.799      0.424      -0.303       0.127
+district_Villeray Northeast                                           -0.1499      0.091     -1.645      0.100      -0.329       0.029
+district_Villeray Southeast                                           -0.0066      0.099     -0.066      0.947      -0.201       0.188
+district_Villeray West                                                 0.2527      0.157      1.610      0.108      -0.055       0.561
+district_Vimont                                                        0.0483      0.255      0.189      0.850      -0.452       0.549
+district_Westmount East                                                0.2332      0.157      1.483      0.138      -0.075       0.542
+district_Westmount West                                                0.3324      0.352      0.945      0.345      -0.358       1.023
+type_3 1/2                                                             0.2771      0.069      4.043      0.000       0.143       0.412
+type_4 1/2                                                             0.4827      0.068      7.108      0.000       0.349       0.616
+type_condo                                                             0.5844      0.071      8.255      0.000       0.445       0.723
+type_na                                                                0.3819      0.064      6.013      0.000       0.257       0.507
+type_studio                                                            0.0433      0.073      0.595      0.552      -0.099       0.186
+==============================================================================
+Omnibus:                       75.620   Durbin-Watson:                   1.998
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):              181.867
+Skew:                          -0.364   Prob(JB):                     3.22e-40
+Kurtosis:                       4.782   Cond. No.                     1.12e+05
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+[2] The condition number is large, 1.12e+05. This might indicate that there are
+strong multicollinearity or other numerical problems.
+"""
