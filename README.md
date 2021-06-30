@@ -1,6 +1,9 @@
 # Montreal Rent Estimator: Project Overview
 
-
+* Created a tool that estimates apartment rent prices (MAE ~ $ 0.28) to help data scientists negotiate their income when they get a job.
+* Scraped over 1000 rent advertisements from kijiji using BeautifulSoup.
+* Engineered features from the text of each listing to quantify the value landlords put on location, apartment size, and amenities included.
+* Optimized Linear, Lasso, and Random Forest Regressors using GridsearchCV to reach the best model.
 
 ## Code and Resources Used
 
@@ -52,16 +55,35 @@ The following changes were made to clean the data that was messy, mainly due to 
 ## Exploratory Data Analysis (EDA)
 Observed the distributions of the data and the value counts for the various categorical variables and plotted listing prices according to their geographical location. Below are a few highlights from the pivot tables:
 
-
-![alt text](https://github.com/vanessadlafp/Rent_predictor_MTL/blob/master/Geo_modeling/Heat%20Map.png)
-
-
+![alt text](https://github.com/vanessadlafp/Rent_predictor_MTL/blob/master/price_per_district.png)   
+--------------------------------------------------------------------------------------------------------
+![alt text](https://github.com/vanessadlafp/Rent_predictor_MTL/blob/master/Geo_modeling/Heat%20Map.png) 
+--------------------------------------------------------------------------------------------------------
+![alt text](https://github.com/vanessadlafp/Rent_predictor_MTL/blob/master/lease_term.png)              
+--------------------------------------------------------------------------------------------------------
+![alt text](https://github.com/vanessadlafp/Rent_predictor_MTL/blob/master/correlation.png)             
+--------------------------------------------------------------------------------------------------------
 
 ## Model Buiding
+First, the categorical variables were transformed into dummy variables. I also split the data into train and tests sets with a test size of 20%.   
 
+I tried three different models and evaluated them using Mean Absolute Error. I chose MAE because it is relatively easy to interpret and outliers aren’t particularly bad in for this type of model.   
+
+The target variable didn't follow a linear relation for which a logarithmic transformation was applied:
+--------------------------------------------------------------------------------------------------------
+![alt text](https://github.com/vanessadlafp/Rent_predictor_MTL/blob/master/qq-plot%20%26%20distribution%20of%20apt%20rent%20prices.png)              
+--------------------------------------------------------------------------------------------------------
+![alt text](https://github.com/vanessadlafp/Rent_predictor_MTL/blob/master/qq-plot%20%26%20distribution%20of%20apt%20rent%20log(prices).png)             
+--------------------------------------------------------------------------------------------------------
+
+Three different models were tried:
+*	**Multiple Linear Regression** – Baseline for the model
+*	**Lasso Regression and Random Forest** – Because of the sparse data from the many categorical variables.
 
 ## Model Performance        
-
-
-## Productionalization  
-                                            
+The Random Forest model far outperformed the other approaches on the test and validation sets. 
+*	**Random Forest** : MAE = 0.288
+*	**Linear Regression**: MAE = 0.286
+*	**Lasso Regression**: MAE =  0.316
+*	**Ensemble: Linear regression  with random forest**: MAE=  0.27925061278742097
+                                                        
