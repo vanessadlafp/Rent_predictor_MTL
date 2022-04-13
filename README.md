@@ -1,6 +1,6 @@
 # Montreal Rent Estimator: Project Overview
 
-* Created a tool that estimates apartment rent prices (MAE ~ $ 0.28) to help data scientists negotiate their income when they get a job.
+* Created a tool that estimates apartment rent prices (MAE ~ $ 0.28) to help users negotiate their rent.
 * Scraped over 1000 rent advertisements from kijiji using BeautifulSoup.
 * Engineered features from the text of each listing to quantify the value landlords put on location, apartment size, and amenities included.
 * Optimized Linear, Lasso, and Random Forest Regressors using GridsearchCV to reach the best model.
